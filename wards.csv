@@ -1,0 +1,8808 @@
+id,lga_id,ward_name
+1,1,Umuogor
+2,1,Uratta
+3,1,Ariaria Market
+4,1,St. Eugenes by Okigwe Rd
+5,1,Osusu I
+6,1,Osusu II
+7,1,Eziama
+8,1,Old Aba Gra
+9,1,Industrial Area
+10,1,Umuola
+11,1,Ogbor I
+12,1,Ogbor II
+13,2,Eziukwu
+14,2,Asa
+15,2,Enyimba
+16,2,Igwebuike
+17,2,Ngwa
+18,2,Ohazu II
+19,2,Ohazu I
+20,2,Aba River
+21,2,Ekeoha
+22,2,Mosque
+23,2,Gloucester
+24,2,Aba Town Hall
+25,3,Ohafor II
+26,3,Ohafor I
+27,3,Ohaeke
+28,3,Ovukwu
+29,3,Eleoha Ihechiowa
+30,3,Ikwun Ihechiowa
+31,3,Arochukwu III
+32,3,Ututu
+33,3,Arochukwu II
+34,3,Arochukwu I
+35,3,Isu
+36,4,Itumbauzo
+37,4,Bende
+38,4,Umu - Imenyi
+39,4,Uzuakoli
+40,4,Ozuitem
+41,4,Umuhu / Ezechi
+42,4,Amankalu/Akoliufu
+43,4,Ugwueke/Ezeukwu
+44,4,Igbere 'B'
+45,4,Igbere 'A'
+46,4,Item C
+47,4,Item A
+48,4,Item B
+49,5,Oloko II
+50,5,Usaka
+51,5,Ariam
+52,5,Oboro III
+53,5,Oboro IV
+54,5,Oboro II
+55,5,Ibere I
+56,5,Ibere II
+57,5,Oboro I
+58,5,Oloko I
+59,6,Amasaa Nsulu
+60,6,Umunna Nsulu
+61,6,Umuoha
+62,6,Isiala Nsulu
+63,6,Ngwa Ukwu II
+64,6,Ngwa Ukwu I
+65,6,Amapu Ntigha
+66,6,Mbawsi / Umuomainta
+67,6,Amasaa Ntigha
+68,6,Ihie
+69,7,Mbutu Ukwu
+70,7,Amaise / Amaise Anaba
+71,7,Ngwaobi
+72,7,Mbutu Ngwa
+73,7,Ovungwu
+74,7,Okporo Ahaba
+75,7,Ovuokwu
+76,7,Omoba
+77,7,Ehina Guru Osokwa
+78,7,Akunekpu Eziama Na Obuba
+79,8,Imenyi
+80,8,Ezere
+81,8,Isiala Amawu
+82,8,Isu Amawu
+83,8,Ogunduasa
+84,8,Umunnekwu
+85,8,Achara / Mgbugwu
+86,8,Ikeagha I
+87,8,Umuanyi / Absu
+88,8,Ikeagha II
+89,9,Mgboko Umuanunu
+90,9,Mgboko Itungwa
+91,9,Maboko Amairi
+92,9,Ahiaba
+93,9,Abayi  II
+94,9,Akumaimo
+95,9,Abayi  I
+96,9,Ntighauzo Amairi
+97,9,Ibeme
+98,9,Ndiarata / Amairinabua
+99,9,Alaukwu Ohanze
+100,10,Isiama Ohafia
+101,10,Ebem Ohafia
+102,10,Ania Ohafia
+103,10,Ohafor Ohafia
+104,10,Okamu Ohafia
+105,10,Ndi Agbo Nkporo
+106,10,Ndi Etiti Nkporo
+107,10,Ndi Elu Nkporo
+108,10,Agboji Abiriba
+109,10,Amaeke Abiriba
+110,10,Amaogudu Abiriba
+111,11,Amaitolu Mbutu Umuojima
+112,11,Amasator
+113,11,Amavo
+114,11,Urtta
+115,11,Amator
+116,11,Oso - Okwa
+117,11,Ama - Asaa
+118,11,Aro - Ngwa
+119,11,Umunneise
+120,11,Okpor - Umuobo
+121,12,Ward Eight
+122,12,Ward Nine
+123,12,Ward Ten
+124,12,Ward Seven
+125,12,Ward Five
+126,12,Ward One
+127,12,Ward Six
+128,12,Ward Four
+129,12,Ward Two
+130,12,Ward Three
+131,13,Akwete
+132,13,Ikwueke East
+133,13,Umuigube Achara
+134,13,Obohia
+135,13,Ikwuorie
+136,13,Ikwueke  West
+137,13,Nkporobe/Ohuru
+138,13,Ikwuriator East
+139,13,Ikwuriator West
+140,13,Azumini
+141,14,Asa North
+142,14,Ogwe
+143,14,Obokwe
+144,14,Obuzor
+145,14,Ipu  East
+146,14,Asa South
+147,14,Ipu South
+148,14,Ipu West
+149,14,Ozaa  West
+150,14,Ozaa Ukwu
+151,15,Umuhu
+152,15,Afugiri
+153,15,Nkwoachara
+154,15,Nkwoegwu
+155,15,Umuahia Urban  III
+156,15,Ndume
+157,15,Isingwu
+158,15,Ibeku East I
+159,15,Umuahia Urban II
+160,15,Ibeku West
+161,15,Ibeku East II
+162,15,Umuahia Urban  I
+163,16,Ezeleke/Ogbodiukwu
+164,16,Ahiaukwu  II
+165,16,Ahiaukwu  I
+166,16,Ohiaocha
+167,16,Old Umuahia
+168,16,Amakama
+169,16,Ubakala  'A'
+170,16,Ubakala  'B'
+171,16,Nsirimo
+172,16,Omaegwu
+173,17,Umuchieze  II
+174,17,Umuchieze  III
+175,17,Obinolu/Obiagu/La
+176,17,Eziama - Agbo
+177,17,Mbala/Achara
+178,17,Ndiawa/Umuelem/I
+179,17,Ezingodo
+180,17,Ubahu/Akawa/Arokpa
+181,17,Umuchieze I
+182,17,Eziama - Ugwu
+183,17,Umuaku
+184,17,Amuda
+185,276,Gawu
+186,276,Gurdi
+187,276,Nuku
+188,276,Abaji North East
+189,276,Rimba Ebagi
+190,276,Abaji Central
+191,276,Alu Mamagi
+192,276,Agyana/Pandagi
+193,276,Yaba
+194,276,Abaji South East
+195,277,Kubwa
+196,277,Usama
+197,277,Dutse Alhaji
+198,277,Kurudu
+199,277,Bwari Central
+200,277,Shere
+201,277,Ushafa
+202,277,Byazhin
+203,277,Igu
+204,277,Kawu
+205,278,Gwagwalada Centre
+206,278,Kutunku
+207,278,Staff Quarters
+208,278,Paiko
+209,278,Tungan Maje
+210,278,Gwako
+211,278,Zuba
+212,278,Ikwa
+213,278,Ibwa
+214,278,Dobi
+215,279,Chibiri
+216,279,Kuje
+217,279,Gaube
+218,279,Kwaku
+219,279,Kabi
+220,279,Gudun Karya
+221,279,Kujekwa
+222,279,Yenche
+223,279,Gwargwada
+224,279,Rubochi
+225,280,Ashara
+226,280,Wako
+227,280,Yebu
+228,280,Gumbo
+229,280,Yangoji
+230,280,Pai
+231,280,Kwali Ward
+232,280,Kilankwa
+233,280,Dafa
+234,280,Kundu
+235,281,Kashi
+236,281,Garki
+237,281,City Centre
+238,281,Wuse
+239,281,Gwarimpa
+240,281,Kabusa
+241,281,Gwagwa
+242,281,Jiwa
+243,281,Gui
+244,281,Karu
+245,281,Nyanya
+246,281,Orozo
+247,18,Kpasham
+248,18,Dong
+249,18,Nassarawo Demsa
+250,18,Dilli
+251,18,Dwam
+252,18,Bille
+253,18,Mbula Kuli
+254,18,Borrong
+255,18,Gwamba
+256,18,Demsa
+257,19,Farang
+258,19,Wuro Bokki
+259,19,Pariya
+260,19,Ribadu
+261,19,Fufore
+262,19,Gurin
+263,19,Beti
+264,19,Mayo Ine
+265,19,Uki tuki
+266,19,Yadim
+267,19,Karlahi
+268,20,Sugu
+269,20,Gamu
+270,20,Jaggu
+271,20,Ganye II
+272,20,Gurum
+273,20,Timdore
+274,20,Yebbi
+275,20,Bakari Guso
+276,20,Ganye I
+277,20,Sangasumi
+278,22,Garkida
+279,22,Gombi North
+280,22,Gombi South
+281,22,Guyaku
+282,22,Tawa
+283,22,Ga'anda
+284,22,Gabun
+285,22,Boga/ Dingai
+286,22,Duwa
+287,22,Yang
+288,21,Kola
+289,21,Dumna
+290,21,Chikila
+291,21,Banjiram
+292,21,Dukul
+293,21,Lokoro
+294,21,Guyuk
+295,21,Purokayo
+296,21,Bodeno
+297,21,Bobini
+298,24,Uba
+299,24,Garaha
+300,24,Gaya
+301,24,Bangshika
+302,24,Hildi
+303,24,Daksiri
+304,24,Hushere Zum
+305,24,Kwarhi
+306,24,Mayo Lope
+307,24,Thilbang
+308,24,Hong
+309,24,Shangui
+310,26,Gyawana
+311,26,Lafiya
+312,26,Lamurde
+313,26,Dubwangun
+314,26,Opalo
+315,26,Rigange
+316,26,Ngbakowo
+317,26,Mgbebongun
+318,26,Waduku
+319,26,Suwa
+320,27,Wagga
+321,27,Madagali
+322,27,Babel
+323,27,Hyambula
+324,27,Gulak
+325,27,K/wuro Ngayandi
+326,27,Duhu/ Shuwa
+327,27,Pallam
+328,27,Wula
+329,27,Shelmi / Sukur/ Vapura
+330,28,Mayonguli
+331,28,Maiha Gari
+332,28,Humbutudi
+333,28,Pakka
+334,28,Manjekin
+335,28,Tambajam
+336,28,Sorau 'A'
+337,28,Sorau 'B'
+338,28,Konkol
+339,28,Belel
+340,29,Gorobi
+341,29,Bajama
+342,29,Gengle
+343,29,Ndikong
+344,29,Ribadu
+345,29,Yoffo
+346,29,Mayo-Belwa
+347,29,Nassarawo Jereng
+348,29,Mayo Farang
+349,29,Binyeri
+350,29,Tola
+351,29,Gangfada
+352,30,Thukudou / Sufuku / zah
+353,30,Sina / Kamale / kwande
+354,30,Garta / Ghunchi
+355,30,Sukumu / Tillijo
+356,30,Minkisi/ Wuro Ngiki
+357,30,Futudou / Futules
+358,30,Vi / boka
+359,30,Moda / Dlaka / Ghenjuwa
+360,30,Munkavicita
+361,30,Wamblimi / Tilli
+362,30,Bazza Margi
+363,30,Michika  II
+364,30,Michika I
+365,30,Madzi
+366,30,Jigalambu
+367,30,Tumbara / Ngabili
+368,33,Numan I
+369,33,Numan II
+370,33,Numan III
+371,33,Sabon Pegi
+372,33,Bare
+373,33,Imburu
+374,33,Vulpi
+375,33,Kodomti
+376,33,Gamadio
+377,33,Bolki
+378,34,Shelleng
+379,34,Ketembere
+380,34,Kiri
+381,34,Gundo
+382,34,Wuro Yanka/ Libbo
+383,34,Jumbul
+384,34,Tallum
+385,34,Bakta
+386,34,Gwapopolok
+387,34,Bodwai
+388,35,Zumo
+389,35,Kilange Hirna
+390,35,Dirma
+391,35,Suktu
+392,35,Waltandi
+393,35,Song Waje
+394,35,Kilange Funa
+395,35,Dumne
+396,35,Gudu Mboi
+397,35,Song Gari
+398,35,Sigire
+399,36,Kiri II
+400,36,Kiri I
+401,36,Toungo III
+402,36,Dawo I
+403,36,Kongin Baba II
+404,36,Kongin Baba I
+405,36,Dawo II
+406,36,Gumti
+407,36,Toungo II
+408,36,Toungo I
+409,37,Karewa
+410,37,Alkalawa
+411,37,Ajiya
+412,37,Gwadabawa
+413,37,Limawa
+414,37,Yelwa
+415,37,Rumde
+416,37,Luggere
+417,37,Nassarawo
+418,37,Jambutu
+419,37,Doubeli
+420,38,Mbamba
+421,38,Adarawo
+422,38,Makama 'A'
+423,38,Makama 'B'
+424,38,Toungo
+425,38,Yolde Kohi
+426,38,Ngurore
+427,38,Namtari
+428,38,Bole Yolde Pate
+429,38,Bako
+430,38,Mbamoi
+431,23,Wuro Dole
+432,23,Tambo
+433,23,Gereng
+434,23,Modire/ Vinikilang
+435,23,Damare
+436,23,Dakri
+437,23,Jera Bonyo
+438,23,Jera Bakari
+439,23,Gerei I
+440,23,Girei  II
+441,25,Koma II
+442,25,Koma I
+443,25,Danaba
+444,25,Mbulo
+445,25,Nyibango
+446,25,Mapeo
+447,25,Leko
+448,25,Yelli
+449,25,Jada II
+450,25,Mayokalaye
+451,25,Jada I
+452,31,Mijilu
+453,31,Muchalla
+454,31,Bahuli
+455,31,Betso
+456,31,Mayo Bani
+457,31,Vimtim
+458,31,Digil
+459,31,Sabon Layi
+460,31,Lokuwa
+461,31,Kolere
+462,31,Yelwa
+463,32,Duvu/ Chaba/ Girburum
+464,32,Dirbishi/Gandira
+465,32,Mujara
+466,32,Kwaja
+467,32,Nduku
+468,32,Gella
+469,32,Mugulbu/ Yadafa
+470,32,Gude
+471,32,Nassarawo
+472,32,Lamorde
+473,39,Abak Urban II
+474,39,Abak Urban III
+475,39,Abak Urban I
+476,39,Abak Urban IV
+477,39,Midim II
+478,39,Midim I
+479,39,Afaha Obong II
+480,39,Afaha Obong I
+481,39,Otoro III
+482,39,Otoro I
+483,39,Otoro II
+484,40,Eastern Obolo X
+485,40,Eastern Obolo I
+486,40,Eastern Obolo VIII
+487,40,Eastern Obolo II
+488,40,Eastern Obolo III
+489,40,Eastern Obolo IV
+490,40,Eastern Obolo VI
+491,40,Eastern Obolo IX
+492,40,Eastern Obolo V
+493,40,Eastern Obolo VII
+494,41,Central V
+495,41,Central V
+496,41,Central I
+497,41,Central II
+498,41,Central IV
+499,41,Central III
+500,41,Urban III
+501,41,Urban II
+502,41,Urban I
+503,41,Okon I
+504,41,Okon II
+505,42,Etebi Idung Assan
+506,42,Etebi Akwata
+507,42,Ebe Ekpi
+508,42,Ekpene Obo
+509,42,Edor
+510,42,Ntak Inyang
+511,42,Akpautong
+512,42,Ikpa
+513,42,Uquo
+514,42,Ebighi Okpono
+515,43,Ikpe Annang
+516,43,Ukana East
+517,43,Adiasim
+518,43,Ekpeyong II
+519,43,Ekpeyong I
+520,43,Ukana West II
+521,43,Okon
+522,43,Odoro Ikot I
+523,43,Odoro Ikot II
+524,43,Ukana West I
+525,43,Afaha
+526,44,Etim Ekpo VI
+527,44,Etim Ekpo V
+528,44,Etim Ekpo I
+529,44,Etim Ekpo II
+530,44,Etim Ekpo IV
+531,44,Etim Ekpo III
+532,44,Etim Ekpo VII
+533,44,Etim Ekpo X
+534,44,Etim Ekpo VIII
+535,44,Etim Ekpo IX
+536,45,Northern Iman I
+537,45,Northern Iman II
+538,45,Etinan Urban V
+539,45,Etinan Urban IV
+540,45,Etinan Urban III
+541,45,Etinan Urban II
+542,45,Etinan Urban I
+543,45,Southern Iman I
+544,45,Southern Iman III
+545,45,Southern Iman II
+546,45,Southern Iman IV
+547,46,Ibeno IV
+548,46,Ibeno VIII
+549,46,Ibeno II
+550,46,Ibeno VI
+551,46,Ibeno VII
+552,46,Ibeno V
+553,46,Ibeno III
+554,46,Ibeno I
+555,46,Ibeno X
+556,46,Ibeno IX
+557,47,Asutan IV
+558,47,Asutan V
+559,47,Asutan III
+560,47,Asutan II
+561,47,Ibesikpo I
+562,47,Ibesikpo II
+563,47,Ibesikpo III
+564,47,Ibesikpo IV
+565,47,Ibesikpo V
+566,47,Asutan I
+567,48,Ibiono Southern II
+568,48,Ibiono Southern I
+569,48,Ibiono Western II
+570,48,Ibiono Eastern II
+571,48,Ibiono Western I
+572,48,Ibiono Central I
+573,48,Ibiono Eastern I
+574,48,Ibiono Central II
+575,48,Ikpanya
+576,48,Ibiono Northern II
+577,48,Ibiono Northern I
+578,49,Achan Ika
+579,49,Achan  II
+580,49,Achan  III
+581,49,Ito III
+582,49,Odoro I
+583,49,Ito I
+584,49,Odoro II
+585,49,Ito II
+586,49,Urban II
+587,49,Urban I
+588,50,Itak
+589,50,Ndiya/Ikot Idana
+590,50,Ediene I
+591,50,Ikono Middle II
+592,50,Ikono Middle III
+593,50,Ikono Middle IV
+594,50,Ikono Middle I
+595,50,Nkwot II
+596,50,Ikono South
+597,50,Ediene II
+598,50,Nkwot I
+599,51,Ikpa Nung Asang I
+600,51,Ikpa Nung Asang II
+601,51,Edemaya III
+602,51,Ukpum Okon
+603,51,Ukpum Ete I
+604,51,Ikpa Ibekwe II
+605,51,Ukpum Ete II
+606,51,Edemaya II
+607,51,Ikpa Ibekwe I
+608,51,Edemaya I
+609,52,Ikot Ekpene IV
+610,52,Ikot Ekpene II
+611,52,Ikot Ekpene I
+612,52,Ikot Ekpene III
+613,52,Ikot Ekpene VIII
+614,52,Ikot Ekpene IX
+615,52,Ikot Ekpene VII
+616,52,Ikot Ekpene X
+617,52,Ikot Ekpene XI
+618,52,Ikot Ekpene VI
+619,52,Ikot Ekpene V
+620,53,Ikono North III
+621,53,Nkari
+622,53,Iwerre
+623,53,Usuk  Ukwok
+624,53,Itu Mbonuso
+625,53,Ikpe II
+626,53,Ikpe I
+627,53,Odoro Ukwok
+628,53,Ikono North I
+629,53,Ikono North II
+630,55,Udesi
+631,55,Ebughu I
+632,55,Uda I
+633,55,Uda II
+634,55,Ebughu II
+635,55,Efiat II
+636,55,Efiat I
+637,55,Ibaka
+638,55,Enwang I
+639,55,Enwang II
+640,54,West Itam II
+641,54,West Itam I
+642,54,West Itam III
+643,54,East Itam I
+644,54,East Itam II
+645,54,East Itam III
+646,54,East Itam IV
+647,54,East Itam V
+648,54,Mbiase/Ayadehe
+649,54,Oku Iboku
+650,56,Ukpum Minya II
+651,56,Ukpum Minya I
+652,56,Ukpum Minya III
+653,56,Ikpa Ibom I
+654,56,Ibiaku I
+655,56,Ikpa Ikono II
+656,56,Ikpa Ikono III
+657,56,Ukpum Minya IV
+658,56,Ibiaku III
+659,56,Ibiaku II
+660,56,Ikpa Ikono I
+661,56,Ikpa Ibom II
+662,56,Ikpa Ibom III
+663,56,Ikpa Ibom IV
+664,57,Eastern Nsit VII
+665,57,Eastern Nsit IX
+666,57,Eastern Nsit VIII
+667,57,Eastern Nsit II
+668,57,Eastern Nsit X
+669,57,Eastern Nsit I
+670,57,Eastern Nsit III
+671,57,Eastern Nsit VI
+672,57,Eastern Nsit IV
+673,57,Eastern Nsit V
+674,58,Mbaiso V
+675,58,Mbaiso II
+676,58,Mbaiso IV
+677,58,Mbaiso I
+678,58,Mbaiso III
+679,58,Asang IV
+680,58,Asang V
+681,58,Asang III
+682,58,Asang II
+683,58,Asang I
+684,59,Ubium South II
+685,59,Ubium South I
+686,59,Ubium South III
+687,59,Ibiakpan Obotim I
+688,59,Ubium North I
+689,59,Ubium North II
+690,59,Ubium North III
+691,59,Ndiya
+692,59,Itreto
+693,59,Ibiakpan/Obotim II
+694,60,Nto Edino IV
+695,60,Obot Akara II
+696,60,Obot Akara III
+697,60,Nto Edino II
+698,60,Ikot Abia III
+699,60,Ikot Abia II
+700,60,Nto Edino I
+701,60,Ikot Abia I
+702,60,Obot Akara I
+703,60,Nto Edino III
+704,61,Ekeya
+705,61,Okopedi II
+706,61,Nung Atai/Ube I
+707,61,Okopedi I
+708,61,Nung Atai/Ube II
+709,61,Offi II
+710,61,Eweme II
+711,61,Offi I
+712,61,Eweme I
+713,61,Akai/Mbukpo/Udung
+714,62,Oniong east III
+715,62,Oniong west II
+716,62,Oniong west I
+717,62,Oniong west III
+718,62,Nung idem II
+719,62,Oniong east I
+720,62,Oniong east II
+721,62,Nung idem I
+722,62,Awa III
+723,62,Awa I
+724,62,Awa IV
+725,62,Awa II
+726,63,Oron Urban  X
+727,63,Oron Urban  IX
+728,63,Oron Urban I
+729,63,Oron Urban II
+730,63,Oron Urban III
+731,63,Oron Urban VII
+732,63,Oron UrbanVI
+733,63,Oron Urban V
+734,63,Oron Urban VIII
+735,63,Oron Urban IV
+736,64,Abak Midim IV
+737,64,Abak Midim III
+738,64,Abak Midim II
+739,64,Abak Midim I
+740,64,Ekparakwa
+741,64,Ibesit/Nung Ikot I
+742,64,Ndot/Ikot Okoro III
+743,64,Ibesit/Nung Ikot II
+744,64,Ibesit
+745,64,Ikot Ibritam II
+746,64,Ikot Ibritam I
+747,64,Ndot/Ikot Okoro II
+748,64,Ndot/Ikot Okoro I
+749,65,Udung Uko IV
+750,65,Udung Uko V
+751,65,Udung Uko VI
+752,65,Udung Uko II
+753,65,Udung Uko I
+754,65,Udung Uko III
+755,65,Udung Uko X
+756,65,Udung Uko VII
+757,65,Udung Uko IX
+758,65,Udung Uko VIII
+759,66,Northern Afaha I
+760,66,Northern Ukanafun II
+761,66,Southern Afaha Adat Ifang IV
+762,66,Southern Ukanafun I
+763,66,Ukanafun Urban
+764,66,Southern Ukanafun II
+765,66,Northern Ukanafun I
+766,66,Southern Afaha Adat Ifang I
+767,66,Northern Afaha II
+768,66,Southern Afaha Adat Ifang III
+769,66,Southern Afaha Adat Ifang II
+770,67,Southern Uruan VI
+771,67,Southern Uruan V
+772,67,Southern Uruan IV
+773,67,Southern Uruan I
+774,67,Southern Uruan III
+775,67,Southern Uruan II
+776,67,Central Uruan III
+777,67,Central Uruan II
+778,67,Central Uruan I
+779,67,Northern Uruan II
+780,67,Northern Uruan I
+781,68,Urue Offong I
+782,68,Urue Offong III
+783,68,Urue Offong II
+784,68,Urue offOng V
+785,68,Urue Offong IV
+786,68,Oruko IV
+787,68,Oruko I
+788,68,Oruko V
+789,68,Oruko II
+790,68,Oruko III
+791,69,Ikono II
+792,69,Ikono I
+793,69,Offot I
+794,69,Oku I
+795,69,Etoi II
+796,69,Etoi I
+797,69,Oku II
+798,69,Uyo Urban II
+799,69,Uyo Urban I
+800,69,Uyo Urban III
+801,69,Offot II
+802,70,Achina I
+803,70,Achina II
+804,70,Umuchu I
+805,70,Umuchu II
+806,70,Uga II
+807,70,Amesi
+808,70,Uga I
+809,70,Akpo
+810,70,Nkpologwu
+811,70,Ezinifite II
+812,70,Ezinifite I
+813,70,Igbo-Ukwu I
+814,70,Oraeri
+815,70,Igbo - Ukwu II
+816,70,Ikenga
+817,70,Isuofia
+818,70,Umuona
+819,70,Ekwulobia I
+820,70,Ekwulobia II
+821,70,Agulueze chukwu
+822,76,Umu elum
+823,76,Anaku
+824,76,Omor I
+825,76,Omor III
+826,76,Umumbo
+827,76,Omor II
+828,76,Igbakwu
+829,76,Omasi
+830,76,Umueje
+831,76,Ifite Ogwari I
+832,76,Ifite Ogwari II
+833,71,Nsugbe II
+834,71,Nsugbe I
+835,71,Umuleri  II
+836,71,Umuoba-anam
+837,71,Otuocha II
+838,71,Otuocha I
+839,71,Umureli I
+840,71,Aguleri
+841,71,Nando II
+842,71,Aguleri II
+843,71,Igbariam
+844,71,Eziagulu-otu
+845,71,Enugwu-otu
+846,71,Nando I
+847,71,Nando III
+848,72,Ezi-anam
+849,72,Oroma Etiti-anam
+850,72,Umueze-anam II
+851,72,Umuenwelum-anam
+852,72,Olumbanasa -ode
+853,72,Nzam
+854,72,Ifite-anam
+855,72,Umuoba-anam
+856,72,Umueze-anam  I
+857,72,Olumbanasa-inoma
+858,73,Ichida I
+859,73,Ichida II
+860,73,Adazi Enu  I
+861,73,Adazi Ani II
+862,73,Adazi Enu  II
+863,73,Adazi Ani I
+864,73,Agulu Uzoigbo
+865,73,Akwaeze
+866,73,Neni I
+867,73,Neni II
+868,73,Obeledu
+869,73,Agulu IV
+870,73,Agulu I
+871,73,Adazi Nnukwu I
+872,73,Adazi Nnukwu II
+873,73,Agulu II
+874,73,Nri II
+875,73,Agulu III
+876,73,Nri I
+877,74,Awba-ofemmili
+878,74,Achalla I
+879,74,Ugbene
+880,74,Ugbenu
+881,74,Amansea
+882,74,Isu Aniocha
+883,74,Mgbakwu I (Anezike)
+884,74,Urum
+885,74,Amanuke
+886,74,Achalla III
+887,74,Achalla II
+888,74,Ebenebe II
+889,74,Ebenebe I
+890,74,Ebenebe III
+891,75,Mba-ukwu
+892,75,Umuawulu
+893,75,Nise I
+894,75,Nise II
+895,75,Nibo I
+896,75,Nibo III
+897,75,Ezinato/Isiagu
+898,75,Nibo II
+899,75,Awka VII
+900,75,Awka V
+901,75,Amawbia II
+902,75,Amawbia I
+903,75,Amawbia III
+904,75,Awka VI
+905,75,Awka IV
+906,75,Awka III
+907,75,Awka I
+908,75,Awka II
+909,75,Okpuno
+910,75,Agu Oka
+911,77,Umudioka  II
+912,77,Umunnachi  I
+913,77,Umudioka  I
+914,77,Umunnachi  II
+915,77,Ifitedunu  I
+916,77,Ifitedunu  II
+917,77,Akwa
+918,77,Ukpo  I
+919,77,Ukpo III
+920,77,Ukpo II
+921,77,Ukwulu I
+922,77,Ukwulu II
+923,77,Nawgu II
+924,77,Nawgu I
+925,78,Ihembosi/Anaubahu
+926,78,Ihiteoha
+927,78,Ozubulu II
+928,78,Ozubulu I
+929,78,Ozubulu IV
+930,78,Ozubulu V
+931,78,Amakwa II
+932,78,Ozubulu III
+933,78,Oraifite III
+934,78,Oraifite I
+935,78,Oraifite II
+936,78,Ichi
+937,79,Oraukwu
+938,79,Abacha
+939,79,Eziowelle
+940,79,Abatete
+941,79,Ideani
+942,79,Uke
+943,79,Umuoji
+944,79,Obosi
+945,79,Nkpor II
+946,79,Nkpor I
+947,79,Ogidi I
+948,79,Ogidi II
+949,80,Awka-etiti II
+950,80,Awka-etiti I
+951,80,Nnobi I
+952,80,Nnobi I
+953,80,Nnokwa
+954,80,Alor I
+955,80,Nnobi III
+956,80,Nnobi II
+957,80,Ojoto
+958,80,Akwukwu
+959,80,Oba I
+960,80,Oba II
+961,81,Amorka
+962,81,Uli III
+963,81,Uli II
+964,81,Uli I
+965,81,Isseke
+966,81,Ubuluisiuzor
+967,81,Orsumoghu
+968,81,Lilu
+969,81,Azia
+970,81,Mbosi
+971,81,Okija III
+972,81,Okija I
+973,81,Okija IV
+974,81,Okija V
+975,81,Ogbolo
+976,81,Ihite
+977,81,Amamu II
+978,81,Amamu I
+979,81,Uzoakwa
+980,81,Okija II
+981,82,Nimo IV
+982,82,Nimo I
+983,82,Nimo III
+984,82,Enugwu Ukwu IV
+985,82,Enugwu Ukwu I
+986,82,Enugwu Ukwu II
+987,82,Nimo II
+988,82,Abagana IV
+989,82,Abagana I
+990,82,Nawfia II
+991,82,Abagana III
+992,82,Enugwu Ukwu III
+993,82,Abagana II
+994,82,Abba II
+995,82,Abba I
+996,82,Nawfia I
+997,82,Enugwu-agidi I
+998,82,Enugwu-agidi II
+999,83,Umudim I
+1000,83,Umudim II
+1001,83,Otolo III
+1002,83,Otolo II
+1003,83,Uruagu II
+1004,83,Uruagu I
+1005,83,Uruagu III
+1006,83,Nnewi-ichi II
+1007,83,Nnewi-ichi I
+1008,83,Otolo I
+1009,84,Unubi
+1010,84,Akwa-ihedi
+1011,84,Ekwulumili
+1012,84,Azuigbo
+1013,84,Amichi II
+1014,84,Amichi I
+1015,84,Amichi III
+1016,84,Ezinifite II
+1017,84,Ezinifite III
+1018,84,Ezinifite
+1019,84,Ukpor II
+1020,84,Ukpor I
+1021,84,Ukpor VI
+1022,84,Ukpor III
+1023,84,Ukpor V
+1024,84,Utuh
+1025,84,Ukpor IV
+1026,84,Ebenator
+1027,84,Osumenyi  II
+1028,84,Osumenyi  I
+1029,86,Inland Town VII
+1030,86,Inland Town VIII`
+1031,86,Woluwo Layout
+1032,86,Inland Town III
+1033,86,Inland Town IV
+1034,86,Inland Town V
+1035,86,Inland Town I
+1036,86,Inland Town II
+1037,86,Water-side Central  I
+1038,86,Water-side Central  II
+1039,86,Trans Nkisi
+1040,86,Ogbe Umuonicha
+1041,86,American Quarters
+1042,86,Inland Town VI
+1043,86,G.R.A
+1044,87,Odoakpu II
+1045,87,Odoakpu VI
+1046,87,Odoakpu IV
+1047,87,Odoakpu III
+1048,87,Odoakpu I
+1049,87,Fegge VII
+1050,87,Odoakpu V
+1051,87,Odoakpu VII
+1052,87,Fegge I
+1053,87,Bridge Head III
+1054,87,Bridge Head II
+1055,87,Bridge Head I
+1056,87,Fegge IV
+1057,87,Fegge VI
+1058,87,Fegge II
+1059,87,Fegge V
+1060,87,Fegge III
+1061,88,Ufuma I
+1062,88,Ajalli I (Obinikpa and Umueve)
+1063,88,Ajalli II (Umuabiama and Amaga)
+1064,88,Nanka I
+1065,88,Ndiukwuenu/Okpeze
+1066,88,Oko I
+1067,88,Oko II
+1068,88,Nanka II
+1069,88,Awgbu I
+1070,88,Ufuma II
+1071,88,Ndiowu
+1072,88,Ndiokolo/Ndiokpaleke
+1073,88,Amaetiti
+1074,88,Awa
+1075,88,Awgbu II
+1076,88,Amaokpala / Omogho
+1077,88,Ndikelionwu
+1078,88,Ndi Okpalaeze
+1079,89,Owerre-ezukala II
+1080,89,Owerre-ezukala I
+1081,89,Nkerehi
+1082,89,Ogbunka I
+1083,89,Ogbunka II
+1084,89,Ihite
+1085,89,Umunze II
+1086,89,Umunze I
+1087,89,Umunze III
+1088,89,Eziagu
+1089,89,Ezira
+1090,89,Nawfija
+1091,89,Isulo
+1092,89,Akpu
+1093,89,Ogboji
+1094,89,Enugu/umonyia
+1095,89,Agbudu
+1096,89,Umuomaku
+1097,90,Nkwelle Ezunaka II
+1098,90,Nkwelle Ezunaka I
+1099,90,Ogbunike II
+1100,90,Ogbunike I
+1101,90,Umunya II
+1102,90,Umunya I
+1103,90,Awkuzu I
+1104,90,Awkuzu III
+1105,90,Nteje I
+1106,90,Awkuzu IV
+1107,90,Awkuzu II
+1108,90,Nteje IV
+1109,90,Nteje V
+1110,90,Nteje II
+1111,90,NtejeIII
+1112,85,Ogwu-Ikpele
+1113,85,Akili Ogidi/Obeagwe
+1114,85,Ogwuaniocha
+1115,85,Ossomala
+1116,85,Umunankwo/Mputu
+1117,85,Ochuche-Umuodu/Ogbakuba/Amiyi
+1118,85,Akili - Ozizor
+1119,85,Atani II
+1120,85,Atani I
+1121,85,Iyiowa/Odekpe/Ohita
+1122,85,Okpoko V
+1123,85,Okpoko VI
+1124,85,Okpoko II
+1125,85,Okpoko III
+1126,85,Okpoko I
+1127,85,Okpoko IV
+1128,91,Futuk
+1129,91,Yalo
+1130,91,Gwana / Mansur
+1131,91,Maimadi
+1132,91,Yuli/Lim
+1133,91,Pali
+1134,91,Birin/ Gigara/ Yankari
+1135,91,Alkaleri
+1136,91,Gwaram
+1137,91,Gar
+1138,91,Dan kungibar
+1139,92,Mun/Munsal
+1140,92,Dandango/Yamrat
+1141,92,Zungur/Liman Katagum
+1142,92,Birshi/Miri
+1143,92,Kundum/Durum
+1144,92,Kangyare/Turwun
+1145,92,Galambi/Gwaskwaram
+1146,92,Dan'iya Hardo
+1147,92,Makama/Sarki Baki
+1148,92,Dawaki
+1149,92,Majidadi 'A'
+1150,92,Majidadi 'B'
+1151,93,"Bogoro ""A"""
+1152,93,"Bogoro ""C"""
+1153,93,"Bogoro ""D"""
+1154,93,"B O I ""A"""
+1155,93,"B O I ""B"""
+1156,93,"B O I ""C"""
+1157,93,"Lusa ""B"""
+1158,93,"Lusa ""A"""
+1159,93,"Lusa ""C"""
+1160,93,"Bogoro ""B"""
+1161,94,Jalam East
+1162,94,Yanda
+1163,94,Jalam Central
+1164,94,Yame
+1165,94,Garuza
+1166,94,Dambam
+1167,94,Gurbana
+1168,94,Gargawa
+1169,94,Zaura
+1170,94,Dagauda
+1171,95,Darazo
+1172,95,Tauya
+1173,95,Yautare
+1174,95,Gabciyari
+1175,95,Gabarin
+1176,95,Konkiyal
+1177,95,Lago
+1178,95,Papa
+1179,95,Sade
+1180,95,Wahu
+1181,95,Lanzai
+1182,96,Bagel/Bajar
+1183,96,Polchi
+1184,96,Zumbul/Lukshi
+1185,96,Durr
+1186,96,Baraza
+1187,96,Bununu South
+1188,96,Wandi
+1189,96,Dott
+1190,96,Bundot
+1191,96,Bununu Central
+1192,97,Tarmasuwa
+1193,97,Raga
+1194,97,Zindi
+1195,97,Udubo
+1196,97,Gadiya
+1197,97,Kafin  Romi
+1198,97,Gamawa
+1199,97,Kubdiya
+1200,97,Alagarno/Jadori
+1201,97,Tumbi
+1202,97,Gololo
+1203,98,Ganjuwa
+1204,98,Kubi East
+1205,98,Gungura
+1206,98,Kariya
+1207,98,Kafin Madaki
+1208,98,Nasarawa South
+1209,98,Yali
+1210,98,Miya West
+1211,98,Kubi West
+1212,98,Nasarawa North
+1213,98,Miya East
+1214,99,Chinkani
+1215,99,Doguwa Central
+1216,99,Giade
+1217,99,Doguwa  South
+1218,99,Sabon Sara
+1219,99,"Uzum ""A"""
+1220,99,"Uzum ""B"""
+1221,99,Zabi
+1222,99,Zirrami
+1223,99,Isawa
+1224,100,Bambal
+1225,100,Abdallawa/Magarya
+1226,100,Gwarai
+1227,100,Buzawa
+1228,100,Bilkicheri
+1229,100,Mashema
+1230,100,Itas
+1231,100,Zubuki
+1232,100,Gadau
+1233,100,Kashuri
+1234,101,Hanafari
+1235,101,Jurara
+1236,101,"Dogon jeji ""B"""
+1237,101,"Jama'are ""C"""
+1238,101,"Jama'are ""A"""
+1239,101,"Jama'are ""D"""
+1240,101,"Jama'are ""B"""
+1241,101,Galdimari
+1242,102,Ragwam/Magonshi
+1243,102,Buskuri
+1244,102,Madara
+1245,102,Bulkachuwa/Dagaro
+1246,102,Yayu
+1247,102,Madachi/Gangai
+1248,102,Chinade
+1249,102,Gambaki/Bidir
+1250,102,Tsakuwa Kofar Gabas/ Kofar Kuka
+1251,102,Nasarawa Bakin Kasuwa
+1252,102,Madangala
+1253,103,Bara
+1254,103,Kirfi
+1255,103,Badara
+1256,103,"Beni ""B"""
+1257,103,Shango
+1258,103,Wanka
+1259,103,"Beni ""A"""
+1260,103,Tubule
+1261,103,Dewu Central
+1262,103,Dewu East
+1263,104,Beti
+1264,104,Zadawa
+1265,104,Jarkasa
+1266,104,Tofu
+1267,104,Sirko
+1268,104,Kukadi/Gundari
+1269,104,Hardawa
+1270,104,Gwaram
+1271,104,Ajilin/Gugulin
+1272,104,Sarma/Akuyam
+1273,105,Bashe
+1274,105,Burra/Kyata
+1275,105,Kurmi
+1276,105,Sama
+1277,105,Balma
+1278,105,Dingis
+1279,105,Kudu / Yamma
+1280,105,Jangu
+1281,105,Ningi
+1282,105,Tiffi / Guda
+1283,105,Nasaru
+1284,106,Bukul/Bangire
+1285,106,Tsafi
+1286,106,Tumfafi
+1287,106,Kilbori
+1288,106,Shira
+1289,106,Faggo
+1290,106,Zubo
+1291,106,Beli/Gagidaba
+1292,106,Andubun
+1293,106,Sambuwal
+1294,106,Disina
+1295,107,Tapshin
+1296,107,"Kardam ""B"""
+1297,107,"Kardam ""A"""
+1298,107,Lere North
+1299,107,Lere South
+1300,107,Wai
+1301,107,Dull
+1302,107,Bula
+1303,107,Ball
+1304,107,Dajin
+1305,107,Bununu
+1306,108,Tama
+1307,108,Rahama
+1308,108,Zalau / Rishi
+1309,108,Lame
+1310,108,Wonu
+1311,108,Tilden Fulani
+1312,108,Toro / Tulai
+1313,108,Ribina
+1314,108,Mara / Palama
+1315,108,Rauta / Geji
+1316,108,Jama'a / Zaranda
+1317,109,Tudun Wada West
+1318,109,Tudun Wada East
+1319,109,Baima  South/East
+1320,109,Dagu West
+1321,109,Dagu East
+1322,109,Gabanga
+1323,109,Ranga
+1324,109,Katanga
+1325,109,Tiyin
+1326,109,Baima North / West
+1327,110,Bursali
+1328,110,Mainako
+1329,110,Maiwa
+1330,110,Katagum
+1331,110,Tashena / Gadai
+1332,110,Murmur North
+1333,110,Makawa
+1334,110,Sakwa
+1335,110,Murmur  South
+1336,110,Alangawari / Kafin / Larabawa
+1337,110,Gumai
+1338,112,Eduwini I
+1339,112,Eduwini II
+1340,112,Oporomor V
+1341,112,Oporomor IV
+1342,112,Oporomor III
+1343,112,Oporomor II
+1344,112,Oporomor I
+1345,112,Tarakiri
+1346,112,Oyiakiri IV
+1347,112,Oyiakiri I
+1348,112,Oyiakiri II
+1349,112,Oyiakiri III
+1350,111,Sangana
+1351,111,Minibie
+1352,111,Cafe Farmosa
+1353,111,Konsho
+1354,111,Os-Inibiri
+1355,111,Brass ward II
+1356,111,Odioma/Diema
+1357,111,Brass I
+1358,111,Ewoama/Fantuo
+1359,111,Okpoama
+1360,113,Igbedi
+1361,113,Opokuma South
+1362,113,Opokuma North
+1363,113,Kaiama
+1364,113,Kaiama/Olobiri
+1365,113,Sampou/Kalama
+1366,113,Odi (Central) II
+1367,113,Odi (North) I
+1368,113,Odi (South) III
+1369,113,Seibokorogha (Sabagreia) I
+1370,113,Okoloba (Sabagreia) II
+1371,115,Okodi
+1372,115,Opume
+1373,115,Otuokpoti
+1374,115,Otakeme
+1375,115,Kolo
+1376,115,Imiringi
+1377,115,Emeyal
+1378,115,Otuasega
+1379,116,Ossiama
+1380,116,Toru-Ebeni
+1381,116,Agoro
+1382,116,Ofoni I
+1383,116,Ofoni II
+1384,116,Angalabiri
+1385,116,Adagbabiri
+1386,116,Ebedebiri
+1387,116,Sagbama
+1388,116,Odoni
+1389,116,Agbere
+1390,116,Trofani
+1391,116,Osekwenike
+1392,116,Asamabiri
+1393,117,Foropa
+1394,117,Amassoma II
+1395,117,Amassoma III
+1396,117,Amassoma I
+1397,117,Olodiama II
+1398,117,Otuan
+1399,117,Oporoma II
+1400,117,Oporoma I
+1401,117,Olodiama I
+1402,117,East Bomo I
+1403,117,East Bomo II
+1404,117,Central Bomo I
+1405,117,Central Bomo II
+1406,117,West Bomo
+1407,117,Apoi
+1408,117,Koluama
+1409,117,Ukubie
+1410,114,Okoroma I
+1411,114,Okoroma II
+1412,114,Igbeta-Ewoama/Fantuo
+1413,114,Ogbolomabiri II
+1414,114,Ogbolomabiri III
+1415,114,Ogbolomabiri I
+1416,114,Bassambiri I
+1417,114,Bassambiri III
+1418,114,Bassambiri II
+1419,114,Mini
+1420,114,Ikensi
+1421,114,Bassambiri IV
+1422,114,Oluasiri
+1423,118,Attissa III
+1424,118,Attissa I
+1425,118,Epie II
+1426,118,Epie III
+1427,118,Epie I
+1428,118,Ekpetiama I
+1429,118,Ekpetiama II
+1430,118,Attissa II
+1431,118,Gbarain III
+1432,118,Gbarain I
+1433,118,Gbarain II
+1434,118,Biseni I
+1435,118,Biseni II
+1436,118,Okordia
+1437,118,Zarama
+1438,115,Oloibiri
+1439,115,Anyama
+1440,115,Ologi
+1441,115,Otuabula
+1442,115,Ogbia
+1443,121,Akoge/Ogbilolo
+1444,121,Apa
+1445,121,Ulayi
+1446,121,Ijigban
+1447,121,Ekile
+1448,121,Igumale I
+1449,121,Igumale II
+1450,121,Ogege
+1451,121,Ukwonyo
+1452,121,Royongo
+1453,119,Usha
+1454,119,Obagaji
+1455,119,Egba
+1456,119,Okokolo
+1457,119,Odugbeho
+1458,119,Ogbaulu
+1459,119,Oshigbudu
+1460,119,Enungba
+1461,119,Ogwule-Kaduna
+1462,119,Ogwule Ogbaulu
+1463,120,Akpete/Ojantelle
+1464,120,Igoro
+1465,120,Ugbokpo
+1466,120,Ikobi
+1467,120,Edikwu II
+1468,120,Ofoke
+1469,120,Edikwu I
+1470,120,Auke
+1471,120,Oba
+1472,120,Igah-Okpaya
+1473,120,Oiji
+1474,122,Mbaya
+1475,122,Mbaapen
+1476,122,Binev
+1477,122,Mbaatirkyaa
+1478,122,Mbaikyongo/Nyifon
+1479,122,Mbakyaan
+1480,122,Mbayaka
+1481,122,Shorov
+1482,122,Mbaityough
+1483,122,Mbaazagee
+1484,122,Mbaade
+1485,122,Etulo
+1486,122,Mbaakura
+1487,123,Mbadim
+1488,123,Mbaanku
+1489,123,Mbakwen
+1490,123,Mbadam
+1491,123,Mbaa Varakaa
+1492,123,Mbatan
+1493,123,Mbatser
+1494,123,Mbatyu
+1495,123,Ukpekpe
+1496,123,Yandev North
+1497,123,Yandev South
+1498,123,Igyorov
+1499,123,Mbakper
+1500,123,Gboko North West
+1501,123,Gboko East
+1502,123,Gbk/Central Market
+1503,123,Gboko South
+1504,124,Abinsi
+1505,124,Kaambe
+1506,124,Saghev
+1507,124,Mbabai
+1508,124,Mbadwem
+1509,124,Mbawa
+1510,124,Mbayer/Yandev
+1511,124,Nyiev
+1512,124,Nzorov
+1513,124,Uvir
+1514,125,Mbaiase
+1515,125,Akpach'ayi
+1516,125,Mbaikyaan
+1517,125,Ikyogbajir
+1518,125,Mbayom
+1519,125,Ugee
+1520,125,Ikyonov
+1521,125,Aliade Town
+1522,125,Mbabur
+1523,125,Mbasombo
+1524,125,Mbalom
+1525,125,Mbaikyu
+1526,125,Shough
+1527,125,Gbemacha
+1528,126,Avihijime
+1529,126,Tijime
+1530,126,Isambe/Mbasev
+1531,126,Sengev/Yengev
+1532,126,Merkyen
+1533,126,Ikyaghev
+1534,126,Sagher/Ukusu
+1535,126,Mbanyamshi
+1536,126,Ityoughatee/Injaha
+1537,126,Mbapa
+1538,126,Mbabuande
+1539,126,Mbachohon
+1540,126,Gbaange/Tongov
+1541,126,Gaambe - Ushin
+1542,126,Sengev
+1543,127,Mbajir
+1544,127,Mbatula/Mberev
+1545,127,Mbayongo
+1546,127,Yooyo
+1547,127,Michihe
+1548,127,Katsina-ala Town
+1549,127,Ikurav Tiev II
+1550,127,Ikurav Tiev I
+1551,127,Iwar(Tongov I)
+1552,127,Mbacher
+1553,127,Utange
+1554,127,Tiir(Tongov II)
+1555,128,Mbayegh/Mbaikyer
+1556,128,Mbake
+1557,128,Mbawar
+1558,128,Mbatsen
+1559,128,Mbanor
+1560,128,Mbavoa
+1561,128,Tse-Agberagba
+1562,128,Ikyurav/Mbatwer
+1563,128,Mbagusa/mbatser
+1564,128,Mbaiwarnyam
+1565,128,Mbaikyase
+1566,130,Tombo
+1567,130,Mbagber
+1568,130,Ukembergya/Iswarev
+1569,130,Mbavuur
+1570,130,Turan
+1571,130,Nenzev
+1572,130,Mbayam
+1573,130,Mbadyul
+1574,130,Mbater
+1575,130,Yonov
+1576,131,Mbalagh
+1577,131,Agan
+1578,131,North Bank I
+1579,131,North Bank II
+1580,131,Fildi
+1581,131,Wailomayo
+1582,131,Clerks/Market
+1583,131,Central/South Mission
+1584,131,Ankpa/Wadata
+1585,131,Bar
+1586,131,Modern Market
+1587,132,Ogore
+1588,132,Obeko
+1589,132,Adiko
+1590,132,Ikwokwu
+1591,132,Odiapa
+1592,132,Itogo
+1593,132,Irabi
+1594,132,Okwutungbe
+1595,132,Obarike
+1596,132,Okpokwu
+1597,132,Adum West
+1598,132,Orihi
+1599,133,Ehaje II
+1600,133,Ehaje I
+1601,133,Orokam I
+1602,133,Orokam II
+1603,133,Orokam III
+1604,133,Ai-Oono III
+1605,133,Ai-Oono I
+1606,133,Ai-Oodo II
+1607,133,Ai-oono II
+1608,133,Olachagbaha
+1609,133,Ai-Oodo I
+1610,133,Itabono I
+1611,133,Itabono II
+1612,135,Oboru/Oye
+1613,135,Owo
+1614,135,Adokpa
+1615,135,Okpokpo
+1616,135,Okwudu
+1617,135,Idelle
+1618,135,Ainu
+1619,135,Iyeche
+1620,135,Oju
+1621,135,Ibilla
+1622,135,Ukpa/Ainu Ette
+1623,134,Ochobo
+1624,134,Oglewu Ehaje
+1625,134,Oglewu Icho
+1626,134,Awume Ehaje
+1627,134,Agadagba
+1628,134,Ehatokpe
+1629,134,Awume Icho
+1630,134,Idekpa
+1631,134,Onyagede-Ehaje (Alle)
+1632,134,Onyagede Icho (Ogoli)
+1633,136,Okpoga South
+1634,136,Ichama II
+1635,136,Ojoga
+1636,136,Okpoga West
+1637,136,Ojigo
+1638,136,Eke
+1639,136,Okpaile/Ingle
+1640,136,Okpoga Central
+1641,136,Okonobo
+1642,136,Amejo
+1643,136,Ugbokolo
+1644,136,Okpoga North
+1645,137,Allan
+1646,137,Otobi
+1647,137,Ugboju-Ehaje
+1648,137,Ewulo
+1649,137,Okete
+1650,137,Otukpo Town East
+1651,137,Otukpo Town West
+1652,137,Otukpo Town Central
+1653,137,Entekpa
+1654,137,Adoka-Haje
+1655,137,Adoka-Icho
+1656,137,Ugboju-Icho
+1657,137,Ugboju-Otahe
+1658,138,Mbaigba
+1659,138,Shitile
+1660,138,Tongov
+1661,138,Mbaajir Akaa
+1662,138,Mbachaver Ikyondo
+1663,138,Mbaikyo/Mbayia
+1664,138,Mbaikyaa
+1665,138,Mbakwakem
+1666,138,Mbaayo
+1667,138,Mbanyagber
+1668,139,Tsaav
+1669,139,Lumbuv
+1670,139,Aterayange
+1671,139,Azendeshi
+1672,139,Ityuluv
+1673,139,Kendev
+1674,139,Mbayenge
+1675,139,Uyam
+1676,139,Kundav
+1677,139,Ugbaam
+1678,139,Borikyo
+1679,139,Mbatian
+1680,139,Mbazun
+1681,140,Ikyov
+1682,140,Mbayegh
+1683,140,Utange
+1684,140,Mbagwaza
+1685,140,Mbagba
+1686,140,Atikyese
+1687,140,Lessel
+1688,140,Mbakuha
+1689,140,Mbaanyam
+1690,140,Mbaaka
+1691,140,Mbagwe
+1692,141,Mbanyumangbagh
+1693,141,Mbatyough
+1694,141,Mbayongo
+1695,141,Mbagbera
+1696,141,Vandeikya Township
+1697,141,Mbakaange
+1698,141,Ningev
+1699,141,Mbakyaha
+1700,141,Mbadede
+1701,141,Mbagbam
+1702,141,Mbajor
+1703,141,Tsambe
+1704,129,Liev II
+1705,129,Mbayoo
+1706,129,Adikpo Metropolis
+1707,129,Tondov I
+1708,129,Moon
+1709,129,Mbaikyor
+1710,129,Mbaketsa
+1711,129,Mbadura
+1712,129,Tondov I
+1713,129,Yaav
+1714,129,tondov II
+1715,129,Usar
+1716,129,Mbagba/Mbaikyan
+1717,129,Liev  I
+1718,129,Kumakwagh
+1719,143,Ngulde
+1720,143,Ngohi
+1721,143,Zadawa / Hausari
+1722,143,Askira East
+1723,143,Mussa
+1724,143,Wamdeo / Giwi
+1725,143,Chul / Rumirgo
+1726,143,Uba
+1727,143,Husara / Tampul
+1728,143,Dille / Huyum
+1729,143,Lassa
+1730,143,Kopa / Multhafu
+1731,143,Uda / Uvu
+1732,145,Zara
+1733,145,Balbaya
+1734,145,Limanti
+1735,145,Fikayel
+1736,145,Wuyo
+1737,145,Jara Dali
+1738,145,Jara Gol
+1739,145,Gamadadi
+1740,145,Briyel
+1741,145,Teli
+1742,146,Buratai
+1743,146,Dadin Kowa
+1744,146,Garubula
+1745,146,Gur
+1746,146,Miringa
+1747,146,Zarawuyaku
+1748,146,Dugja
+1749,146,Kenken
+1750,146,Sulumthla
+1751,146,Yawi
+1752,146,Mandara Girau
+1753,147,Gatamarwa
+1754,147,Mbalala
+1755,147,Shikarkir
+1756,147,Pemi
+1757,147,Kautikari
+1758,147,Kuburmbula
+1759,147,Korongilim
+1760,147,Mboa Kura
+1761,147,Chibok Garu
+1762,147,Chibok Wuntaku
+1763,147,Chibok Likama
+1764,148,Mulgwai / Kopchi
+1765,148,Bego/Yerwa/Ngurna
+1766,148,Gumsuri/Misakurbudu
+1767,148,Azur/Multe/Forfor
+1768,148,Damboa
+1769,148,Nguda / Wuyaram
+1770,148,Kafa / Mafi
+1771,148,Ajign (B)
+1772,148,Ajign (A)
+1773,148,Wawa / Korede
+1774,149,Mudu / Kaza
+1775,149,Muliye / Jemuri
+1776,149,Magarta / Sheffri
+1777,149,Sogoma / Afuye
+1778,149,Mallam Maja
+1779,149,Gajibo
+1780,149,Ngudoram
+1781,149,Dikwa
+1782,149,Boboshe
+1783,149,Ufaye / Gujile
+1784,150,Gazabure
+1785,150,Felo
+1786,150,Kingowa
+1787,150,Gubio Town I
+1788,150,Gubio Town II
+1789,150,Ardimini
+1790,150,Gamowo
+1791,150,Dabira
+1792,150,Ngetra
+1793,150,Zowo
+1794,151,Gudumbali West
+1795,151,Moduri
+1796,151,Aduwa
+1797,151,Gudumbali East
+1798,151,Guworam
+1799,151,Kingarwa
+1800,151,Mairari
+1801,151,Guzamala West
+1802,151,Guzamala East
+1803,151,Wamiri
+1804,152,Kirawa/Jimini
+1805,152,Ashigashiya
+1806,152,Gavva / Agapalwa
+1807,152,Johode/Chikide/Kughum
+1808,152,Kurana Bassa/Ngoshe - Sama'a
+1809,152,Hambagda/ Liman Kara/ New Settlement
+1810,152,Bita / Izge
+1811,152,Pulka/Bokko
+1812,152,Ngoshe
+1813,152,Guduf Nagadiyo
+1814,152,Gwoza Town Gadamayo
+1815,152,Gwoza Wakane / Bulabulin
+1816,152,Dure / Wala / Warabe
+1817,153,Kida
+1818,153,Sakwa/Hema
+1819,153,Bilingwi
+1820,153,Hizhi
+1821,153,Marama/Kidang
+1822,153,Dzar/ Vinadum/ Birni/ Dlandi
+1823,153,Kwaya-Bur/Tanga Rumta
+1824,153,Pama/Whitambaya
+1825,153,Gwanzang  Pusda
+1826,153,Puba/Vidau/Lokoja
+1827,153,Shaffa
+1828,153,Kwajaffa/Hang
+1829,155,Afa/Dig/Maudori
+1830,155,Shettimari
+1831,155,Dogoma / Jalori
+1832,155,Ngamdu
+1833,155,Galangi
+1834,155,Karagawaru
+1835,155,Wajiro / Burgumma
+1836,155,Wassaram
+1837,155,Dongo
+1838,155,Guwo
+1839,155,Tobolo
+1840,155,Benisheikh
+1841,155,Mainok
+1842,155,Borgozo
+1843,155,Marguba
+1844,156,"Jilbe ""A"""
+1845,156,Sigal/Karche
+1846,156,"Jilbe ""B/Koma Kaudi"""
+1847,156,Mada
+1848,156,Kala
+1849,156,Kumaga
+1850,156,Jarawa/Sangaya
+1851,156,"Rann ""A"""
+1852,156,Moholo
+1853,156,"Rann ""B/Daima"""
+1854,157,Nyaleri/Sandia/Yejiwa
+1855,157,Jewu / Lamboa
+1856,157,Masba / Dalwa West
+1857,157,Auno / Chabbol
+1858,157,Sojiri/ Nguro - Nguro
+1859,157,Kelumiri / Ngalbi Amari / Yale
+1860,157,Kawuri
+1861,157,Dalori / Wanori
+1862,157,Dawa East / Malari / Kangamari
+1863,157,Konduga
+1864,157,Mairamri / Yeleri / Bazamri
+1865,159,Kwaya Kusar
+1866,159,Yimirthalang
+1867,159,Kurba
+1868,159,Peta
+1869,159,Gusi / Billa
+1870,159,Wada
+1871,159,Gondi
+1872,159,Guwal
+1873,159,Kubuku
+1874,159,Wawa
+1875,160,Mujigine
+1876,160,Gawa
+1877,160,Ma'afa
+1878,160,Anadua
+1879,160,Laje
+1880,160,Abbari
+1881,160,Masu
+1882,160,Mafa
+1883,160,Koshebe
+1884,160,Limanti
+1885,160,Tamsu Ngamdua
+1886,160,Loskuri
+1887,161,Ngubala
+1888,161,Ayi / yasku
+1889,161,Kubti
+1890,161,Ngamma
+1891,161,Borno Yesu
+1892,161,Kalizoram / Banoram
+1893,161,Gaji Ganna I
+1894,161,Ardo Ram
+1895,161,Gaji Ganna  II
+1896,161,Furram
+1897,161,Kareram
+1898,161,Hoyo / Chin Gowa
+1899,161,Magumeri
+1900,162,Maisandari
+1901,162,Gwange  III
+1902,162,Gwange  II
+1903,162,Bulablin
+1904,162,Gwange  I
+1905,162,Gamboru Liberty
+1906,162,Hausari/Zango
+1907,162,Limanti
+1908,162,Fezzan
+1909,162,Bolori II
+1910,162,Bolori I
+1911,162,Lamisula/Jabba Mari
+1912,162,Mafoni
+1913,162,Shehuri South
+1914,162,Shehuri  North
+1915,163,Ala
+1916,163,Alla  Lawanti
+1917,163,Ngeleiwa
+1918,163,Njine
+1919,163,Mawulli
+1920,163,Marte
+1921,163,Zaga
+1922,163,Borsori
+1923,163,Kirenowa
+1924,163,Kulli
+1925,163,Musune
+1926,163,Gumna
+1927,163,Kabulawa
+1928,164,Asaga
+1929,164,Damasak
+1930,164,Zanna Umorti
+1931,164,Zari
+1932,164,Duji
+1933,164,Layi
+1934,164,Gashagar
+1935,164,Bogum
+1936,164,Chamba
+1937,164,Kareto
+1938,142,Fuguwa
+1939,142,Banowa
+1940,142,Arege
+1941,142,Jabullam
+1942,142,Yau
+1943,142,Yituwa
+1944,142,Yawa kura
+1945,142,Kudokurgu
+1946,142,Mallamfatori Kessa
+1947,142,Malam Kaunari
+1948,144,Mbuliya / Goniri / Siraja
+1949,144,Shehuri / Hausari / Mairi
+1950,144,Kasugula
+1951,144,Sabsabwa / Soye/ Bulongu
+1952,144,Lawanti / Malam / Mastari / Abbaram
+1953,144,Gulumba / Jukkuri / Batra
+1954,144,Zangeri/Kash  Kash
+1955,144,Dipchari / Jere / Dar-jamal / Kotembe
+1956,144,Yabiri Kura/Yabiri Gana/Chongolo
+1957,144,Kumshe /Nduguno
+1958,144,Buduwa / Bula Chirabe
+1959,144,Andara / Ajiri /Wulba
+1960,144,Wulbari/Ndine/Chachile
+1961,144,Marka / Malge / Amchaka
+1962,168,Buma
+1963,168,Gasi / Salifawa
+1964,168,Walama
+1965,168,Shani
+1966,168,Kwaba
+1967,168,Bargu / Burashika
+1968,168,Kubo
+1969,168,Kombo
+1970,168,Gora
+1971,168,Gwalasho
+1972,168,Gwaskara
+1973,167,Miye
+1974,167,Maiwa
+1975,167,Kurnawa
+1976,167,Gajiram
+1977,167,Sabsabuwa
+1978,167,Sugundure
+1979,167,Alarge
+1980,167,Jigalta
+1981,167,Badu
+1982,167,Damaram
+1983,167,Kuda
+1984,167,Gadai
+1985,154,Alau
+1986,154,Bale Galtimari
+1987,154,Mairi
+1988,154,Maimusari
+1989,154,Mashamari
+1990,154,Dusuman
+1991,154,Old Maiduguri
+1992,154,Gomari
+1993,154,Dala lawanti
+1994,154,Ngudaa/Addamari
+1995,154,Gongulong
+1996,154,Tuba
+1997,166,Wurge
+1998,166,Sagir
+1999,166,Wulgo
+2000,166,Ndufu
+2001,166,Logumane
+2002,166,Ngala Ward
+2003,166,Old Gamboru 'A'
+2004,166,Gamboru 'B'
+2005,166,Gamboru 'C'
+2006,166,Fuye
+2007,166,Warshele
+2008,166,Tunokalia
+2009,158,Alagarno
+2010,158,Doro / Duguri
+2011,158,Kukawa
+2012,158,Kauwa
+2013,158,Kekeno
+2014,158,Yoyo
+2015,158,Moduari / Barwari
+2016,158,Bundur
+2017,158,Dogoshi
+2018,158,Baga
+2019,165,Sure
+2020,165,Yele
+2021,165,Zulum
+2022,165,Mintar
+2023,165,Damakuli
+2024,165,Mofio
+2025,165,Kaguram
+2026,165,Mandala
+2027,165,Wulo
+2028,165,Monguno
+2029,165,Ngurno
+2030,165,Kumalia
+2031,169,Imabana II
+2032,169,Imabana I
+2033,169,Ekureku I
+2034,169,Ediba
+2035,169,Adadama
+2036,169,Ekureku II
+2037,169,Itigidi
+2038,169,Afafanyi/Igonigoni
+2039,169,Usumutong
+2040,169,Ebom
+2041,170,Iko
+2042,170,Ikpai
+2043,170,Eku
+2044,170,Uyanga
+2045,170,Akamkpa Urban
+2046,170,Mbarakom
+2047,170,Awi
+2048,170,Oban
+2049,170,Ojuk South
+2050,170,Ojuk North
+2051,171,Ikang Central
+2052,171,Idundu/Anyanganse
+2053,171,Atimbo West
+2054,171,Atimbo East
+2055,171,Eneyo
+2056,171,Ikot Edem Odo
+2057,171,Ikang South
+2058,171,Ikot Nakanda
+2059,171,Ikot Eyo
+2060,171,Ikang North
+2061,173,Afrike Okpeche
+2062,173,Afrike Ochagbe
+2063,173,Ukpah
+2064,173,Ugboro
+2065,173,Gakem
+2066,173,Beten
+2067,173,Otukpuru
+2068,173,Abuochiche
+2069,173,Nyanya
+2070,173,Ibiaragidi
+2071,174,Agwagune/Okurike
+2072,174,Adim
+2073,174,Abayong
+2074,174,Erei South
+2075,174,Erei North
+2076,174,Ikun/Etono
+2077,174,Biakpan
+2078,174,Akpet/Abini
+2079,174,Ehom
+2080,174,Umon North
+2081,174,Umon South
+2082,175,Kakwagom/Bawop
+2083,175,Buda
+2084,175,Ogep/Osokom
+2085,175,Ekpashi
+2086,175,Boje
+2087,175,Abo
+2088,175,Oku/Borum/Njua
+2089,175,Bunyia/Okubuchi
+2090,175,Buentsebe
+2091,175,Beebo/Bumaji
+2092,175,Alankwu
+2093,178,Bendeghe Ekiem
+2094,178,Abia
+2095,178,Etomi
+2096,178,Agbokim
+2097,178,Effraya
+2098,178,Ajassor
+2099,178,Itaka
+2100,178,Abijang
+2101,178,Mkpot/Ayuk Aba
+2102,178,Nsofang
+2103,179,Nnam
+2104,179,Nta/Nselle
+2105,179,Abanyum
+2106,179,Ofutop II
+2107,179,Nde
+2108,179,Ofutop I
+2109,179,Olulumo
+2110,179,Akparabong
+2111,179,Ikom Urban II
+2112,179,Ikom Urban I
+2113,179,Yala/Nkum
+2114,180,Becheve
+2115,180,Utanga
+2116,180,Bendi II
+2117,180,Bishiri North
+2118,180,Bishiri South
+2119,180,Bendi I
+2120,180,Bisu
+2121,180,Bebi
+2122,180,Busi
+2123,180,Basang
+2124,181,Osopong I
+2125,181,Ofumbongha/Yala
+2126,181,Obubra Urban
+2127,181,Ofodua
+2128,181,Ovonum
+2129,181,Ochon
+2130,181,Apiapum
+2131,181,Ofat
+2132,181,Iyamoyong
+2133,181,Ababene
+2134,181,Osopong II
+2135,183,Ito/idere/Ukwa
+2136,183,Eniong
+2137,183,Eki
+2138,183,Obomitiat/Mbiabo/Ediong
+2139,183,Odot
+2140,183,Oniman-Kiong
+2141,183,Odukpani Central
+2142,183,Adiabo/Efut
+2143,183,Creek Town I
+2144,183,Ikoneto
+2145,183,Creek Town II
+2146,183,Ekori/Anaku
+2147,183,Akamkpa
+2148,184,Ekajuk I
+2149,184,Nkum Irede
+2150,184,Ekajuk II
+2151,184,Nkum Iborr
+2152,184,Ogoja Urban I
+2153,184,Ogoja Urban ii
+2154,184,Mbube West II
+2155,184,Mbube West I
+2156,184,Mbube East I
+2157,184,Mbube East II
+2158,185,Mkpani/Agoi
+2159,185,Idomi
+2160,185,Assiga
+2161,185,Ajere
+2162,185,Ntan
+2163,185,Inyima
+2164,185,Abanakpai
+2165,185,Afrekpe/Ekpenti
+2166,185,Nkpolo/Ukpawen
+2167,185,Ijiman
+2168,185,Ikpakapit
+2169,185,Biko biko
+2170,185,Ijom
+2171,186,Okuku
+2172,186,Okpoma
+2173,186,Ntrigom/Mfuma
+2174,186,Yache
+2175,186,Yahe
+2176,186,Ijiraga
+2177,186,Wanakom
+2178,186,Wanikade
+2179,186,Echumofana
+2180,186,Wanihem
+2181,186,Gabu
+2182,182,Obudu Urban I
+2183,182,Ipong
+2184,182,Obudu Urban II
+2185,182,Begiading
+2186,182,Angiaba / Begiaka
+2187,182,Utugwang South
+2188,182,Utugwang Central
+2189,182,Utugwang North
+2190,182,Ukpe
+2191,182,Alege/Ubang
+2192,176,Ten
+2193,176,Eigth
+2194,176,Nine
+2195,176,Seven
+2196,176,Six
+2197,176,Five
+2198,176,One
+2199,176,Four
+2200,176,Two
+2201,176,Three
+2202,177,One (1)
+2203,177,Two (2)
+2204,177,Three (3)
+2205,177,Four (4)
+2206,177,Eight (8)
+2207,177,Eleven (11)
+2208,177,Twelve (12)
+2209,177,Five (5)
+2210,177,Six (6)
+2211,177,Seven (7)
+2212,177,Ten (10)
+2213,177,Nine (9)
+2214,172,Abana
+2215,172,Akpankanya
+2216,172,Atai Ema
+2217,172,Ekpot Abia
+2218,172,Odiong
+2219,172,Ambai Ekpa
+2220,172,Efut Inwang
+2221,172,Archibong
+2222,172,Akwa
+2223,172,Amoto
+2224,187,Ezi
+2225,187,Issele - Azagba
+2226,187,Onicha - Olona
+2227,187,Obior
+2228,187,Onicha Ugbo
+2229,187,Issele Uku I
+2230,187,Issele uku II
+2231,187,Obomkpa
+2232,187,Idumuje - Unor
+2233,187,Ukwu - Nzu
+2234,188,Ubulu Okiti
+2235,188,Ogwashi - Uku Village
+2236,188,Ubulu - Uku I
+2237,188,Ubulu - Uku II
+2238,188,Ogwashi - Uku II
+2239,188,Ogwashi - Uku I
+2240,188,Ejeme
+2241,188,Ubulu - Unor
+2242,188,Nsukwa
+2243,188,Isheagu-Ewulu
+2244,188,Aba - Unor
+2245,189,Bomadi
+2246,189,Kpakiama
+2247,189,Esanma
+2248,189,Ogriagbene
+2249,189,Kolafiogbene/Ekametagbene
+2250,189,Ogbeinama/Okoloba
+2251,189,Akugbene I
+2252,189,Akugbene II
+2253,189,Akugbene III
+2254,189,Ogo - Eze
+2255,190,Obotebe
+2256,190,Ogulagha
+2257,190,Ngbilebiri II
+2258,190,Ngbilebiri I
+2259,190,Bulou - Ndoro
+2260,190,Ojobo
+2261,190,Seimbiri
+2262,190,Tuomo
+2263,190,Torugbene
+2264,190,Tamigbe
+2265,190,Ogbolubiri
+2266,192,Jesse II
+2267,192,Jesse IV
+2268,192,Jesse III
+2269,192,Jesse I
+2270,192,Mosogar II
+2271,192,Mosogar I
+2272,192,Oghara I
+2273,192,Oghara IV
+2274,192,Oghara V
+2275,192,Oghara II
+2276,192,Oghara III
+2277,191,Abraka I
+2278,191,Abraka II
+2279,191,Abraka III
+2280,191,Agbon II
+2281,191,Agbon IV
+2282,191,Agbon VIII
+2283,191,Agbon III
+2284,191,Agbon VII
+2285,191,Agbon VI
+2286,191,Agbon V
+2287,191,Agbon I
+2288,193,Owa IV
+2289,193,Owa III
+2290,193,Owa V
+2291,193,Owa VI
+2292,193,Owa II
+2293,193,Owa I
+2294,193,Idumuesah
+2295,193,Ute - Okpu
+2296,193,Otolokpo
+2297,193,Ute - Ogbeje
+2298,193,Igbodo
+2299,193,Mbiri
+2300,193,Akumazi
+2301,193,Umunede
+2302,194,Ekuku - Agbor
+2303,194,Abavo I
+2304,194,Abavo III
+2305,194,Abavo II
+2306,194,Boji - Boji III
+2307,194,Boji - Boji II
+2308,194,Boji - Boji I
+2309,194,Ihuozomor (Ozanogogo Alisimie)
+2310,194,Agbor Town I
+2311,194,Ihuiyase II
+2312,194,Agbor Town II
+2313,194,Ihiuiyase I
+2314,195,Okpe - Isoko
+2315,195,Ofagbe
+2316,195,Ozoro  II
+2317,195,Ozoro  I
+2318,195,Ellu/Radheo/Ovrode
+2319,195,Ozoro III
+2320,195,Iluelogbo
+2321,195,Iyede II
+2322,195,Iyede I
+2323,195,Emevor
+2324,195,Otibio
+2325,195,Owhe/Akiehwe
+2326,195,Oyede
+2327,196,Irri  II
+2328,196,Aviara
+2329,196,Erowa/Umeh
+2330,196,Enhwe/Okpolo
+2331,196,Igbide
+2332,196,Uzere
+2333,196,Olomoro
+2334,196,Oleh I
+2335,196,Oleh II
+2336,196,Irri I
+2337,196,Emede
+2338,197,Ase
+2339,197,Ibedeni
+2340,197,Onyia/Adiai/Otuoku/Umuolu
+2341,197,Ashaka
+2342,197,Ibrede/Igbuku / Onogbokor
+2343,197,Aboh/Akarrai
+2344,197,Ossissa
+2345,197,Afor/Obikwele
+2346,197,Okpai/Utchi/Beneku
+2347,197,Abarra/Inyi/Onuaboh
+2348,198,Abbi I
+2349,198,Abbi II
+2350,198,Emu
+2351,198,Ogume I
+2352,198,Ogume II
+2353,198,Utagba Ogbe
+2354,198,Onicha - Ukwani
+2355,198,Utagba Uno  III
+2356,198,Utagba Uno  I
+2357,198,Utagba Uno  II
+2358,199,Ughoton
+2359,199,Oha I
+2360,199,Orerokpe
+2361,199,Aghalokpe
+2362,199,Aragba Town
+2363,199,Oha II
+2364,199,Mereje I
+2365,199,Oviri - Okpe
+2366,199,Mereje III
+2367,199,Mereje II
+2368,200,Ebu
+2369,200,Illah
+2370,200,Ukala
+2371,200,Akwukwu
+2372,200,Okpanam
+2373,200,Ibusa III
+2374,200,Ibusa I
+2375,200,Ibusa II
+2376,200,Ibusa IV
+2377,200,Ibusa V
+2378,201,Ogbele/Akpako
+2379,201,Anala-Amakom
+2380,201,West End
+2381,201,Agu
+2382,201,Ugbomanta Quarters
+2383,201,Umuonaje
+2384,201,Umuaji
+2385,201,Cable point II
+2386,201,Umuezei
+2387,201,Okwe
+2388,201,Cable Point I
+2389,202,Abari
+2390,202,Patani I
+2391,202,Patani III
+2392,202,Patani II
+2393,202,Taware/Kolowara Aven
+2394,202,Odorubu/Adobu/Bolou Apelebri
+2395,202,Bolou - Angiama
+2396,202,Agoloma
+2397,202,Toru-Angiama
+2398,202,Uduophori
+2399,203,Okokporo/Ugborhen
+2400,203,Elume
+2401,203,Sapele Urban VI
+2402,203,Sapele Urban VIII
+2403,203,Sapele Urban V
+2404,203,Sapele Urban I
+2405,203,Sapele Urban II
+2406,203,Sapele Urban IV
+2407,203,Sapele Urban III
+2408,203,Sapele Urban VII
+2409,203,Amuokpe
+2410,204,Aladja
+2411,204,Opete/Assagba/Edjophe
+2412,204,Ovwian I
+2413,204,Orhuwhurun
+2414,204,Ekete
+2415,204,Udu II
+2416,204,Udu I
+2417,204,Udu III
+2418,204,Udu IV
+2419,204,Ovwian II
+2420,205,Uwheru
+2421,205,Evwreni
+2422,205,Ogor
+2423,205,Agbarho II
+2424,205,Agbarho I
+2425,205,Orogun II
+2426,205,Orogun  I
+2427,205,Agbarha
+2428,205,Ughelli I
+2429,205,Ughelli II
+2430,205,Ughelli III
+2431,206,Ewu I
+2432,206,Ewu III
+2433,206,Ewu II
+2434,206,Jeremi IV
+2435,206,Jeremi III
+2436,206,Jeremi II
+2437,206,Ekakpamre
+2438,206,Jeremi I
+2439,206,Effurun - Otor
+2440,206,Olomu I
+2441,206,Olomu II
+2442,207,Akoku
+2443,207,Umutu
+2444,207,Ebedei
+2445,207,Umukwata
+2446,207,Obiaruku  I
+2447,207,Obiaruku  II
+2448,207,Umuebu
+2449,207,Eziokpor
+2450,207,Amai
+2451,207,Ezionum
+2452,208,Effurun I
+2453,208,Effurun II
+2454,208,Enerhen I
+2455,208,Enerhen II
+2456,208,Ugborikoko
+2457,208,Ugboroke
+2458,208,Ugbomro/Ugbolokposo
+2459,208,Army Barracks Area
+2460,208,Ekpan I
+2461,208,Ekpan II
+2462,209,Ogheye
+2463,209,Gbokoda
+2464,209,Ebrohimi
+2465,209,Koko I
+2466,209,Koko II
+2467,209,Eghoro
+2468,209,Isekelewu (Egbema II)
+2469,209,Ogbinbiri (Egbema III)
+2470,209,Ogbudugbudu (Egbema IV)
+2471,209,Opuama (Egbema I)
+2472,210,Okumagba I
+2473,210,Okumagba II
+2474,210,Ogunu/Ekurede-Urhobo
+2475,210,Ugbuwangue/Ekurede-Itsekiri
+2476,210,G.R.A.
+2477,210,Bowen
+2478,210,Okere
+2479,210,Pessu
+2480,210,Igbudu
+2481,210,Edjeba
+2482,210,Okumagba I
+2483,210,Okumagba II
+2484,211,Ogbe - Ijoh
+2485,211,Gbaramatu
+2486,211,Madangho
+2487,211,Ogidigben
+2488,211,Ugborodo
+2489,211,Aja - Udaibo
+2490,211,Akpikpa
+2491,211,Oporoza
+2492,211,Isaba
+2493,211,Orere
+2494,212,Amachi (Ndegu)
+2495,212,Okpoitumo Ndiegu
+2496,212,Amachi (Ndebo)
+2497,212,Edda
+2498,212,Okpoitumo Ndebor
+2499,212,Amagu / Enyigba
+2500,212,Amagu Unuhu
+2501,212,Timber Shed
+2502,212,Izzi Unuhu
+2503,212,Azumini/Azugwu
+2504,212,Azuiyi Udene
+2505,212,Azuiyiokwu Layout
+2506,212,Ndiagu
+2507,212,Abakpa
+2508,213,Uwana Afikpo II
+2509,213,Uwana Afikpo I
+2510,213,Itim Afikpo
+2511,213,Poperi Amasiri
+2512,213,Ezeke Amasiri
+2513,213,Ibii/Oziza Afikpo
+2514,213,Amogu Akpoha
+2515,213,Amata-Akpoha
+2516,213,Nkpoghoro Afikpo
+2517,213,Ugwuegu Afikpo
+2518,213,Ohaisu Afikpo 'B'
+2519,213,Ohaisu Afikpo 'A'
+2520,214,Nguzu
+2521,214,Amaigbo
+2522,214,Amiri Ekoli
+2523,214,Ndioke Ekoli
+2524,214,Oso
+2525,214,Amaeke Ekoli
+2526,214,Ogbu (amato)
+2527,214,Ebunwana
+2528,214,Owutu
+2529,214,Amoso
+2530,214,Amangwu
+2531,215,Ndiebor
+2532,215,Echiaba
+2533,215,Enyibichiri I
+2534,215,Egwudinagu
+2535,215,Abofia
+2536,215,Abakpa
+2537,215,Kpirikpiri
+2538,215,Enyibichiri II
+2539,215,Agalegu
+2540,215,Onuenyim
+2541,215,Urban New Layout
+2542,215,Mbeke
+2543,215,Ndiagu
+2544,216,Amuda / Amawula
+2545,216,Umuezeoka
+2546,216,Nkomoro
+2547,216,Okposi Umuoghara
+2548,216,Omege Umuezeokoha
+2549,216,Ekka
+2550,216,Inyere
+2551,216,Ogboji
+2552,216,Oriuzor
+2553,216,Oshiegbe Umuezeokoha
+2554,216,Ndiaguazu - Umuoghara
+2555,217,Amana
+2556,217,Ameka
+2557,217,Amaezekwe
+2558,217,Amagu/Nsokkara
+2559,217,Amudo/Okoffia
+2560,217,Ikwuator/Idembia
+2561,217,Umunwagu / Idembia
+2562,217,Echara
+2563,217,Ezzama
+2564,217,Amuzu
+2565,217,Onueke Urban
+2566,219,Obeagu
+2567,219,Nkalaha
+2568,219,Amaezu
+2569,219,Umuhuali
+2570,219,Nkalagu
+2571,219,Ezillo I
+2572,219,Ezillo II
+2573,219,Iyonu
+2574,219,"Azuinyaba ""B"""
+2575,219,"Azuinyaba ""A"""
+2576,219,Ezzagu I (Ogboji)
+2577,219,Agba
+2578,219,Ezzagu II (Nkomoro)
+2579,219,Okpoto
+2580,219,Ohofia
+2581,219,Ntezi
+2582,220,Ndiokoro Ukwu
+2583,220,Akaeze Ukwu
+2584,220,Amonye
+2585,220,Ngwogwo
+2586,220,Akaeze Ishiagu
+2587,220,Amagu
+2588,220,Obinagu
+2589,220,Ihenta Ogidi
+2590,220,Iyioji Akaeze
+2591,220,Umobo
+2592,220,Okue
+2593,221,Agbaja Offia Onwe
+2594,221,Ezza Inyimagu - Iziogo
+2595,221,Agbaja Anyanwuigwe
+2596,221,Agbaja Mgbo
+2597,221,Ezza Inyimagu - Igweledoha
+2598,221,Ezza Inyimagu Ndiagu
+2599,221,Ezza Inyimagu Igbuhu
+2600,221,Ndieze Inyimagu Mgbabeluzor
+2601,221,Mgbalaukwu Inyimagu II
+2602,221,Mgbalaukwu Inyimagu I
+2603,221,Ndieze Inyimagu II Ndiabor Ishiagu
+2604,221,Igbeagu Ndi Ettah
+2605,221,Igbeagu  III
+2606,221,Igbeagu Nduogbu
+2607,224,Abaomege
+2608,224,Isinkwo-Ukawu
+2609,224,Okuzu-Ukawu
+2610,224,Ugwu-Oshiri
+2611,224,Oguduokwo Oshiri
+2612,224,Ebia Oshiri
+2613,224,Obeagu-Isu
+2614,224,Amanator-Isu
+2615,224,Agbabor-Isu
+2616,224,Isi-Onicha
+2617,224,Umudomi-Onicha
+2618,224,Enuagu-Onicha
+2619,222,Uhuotaru Ugwulangwu
+2620,222,Ene- Na - Ezeraku
+2621,222,Ugbogologo Ugwulangwu
+2622,222,Amaechi okposi
+2623,222,Okposi Okwu
+2624,222,Okposi Achara
+2625,222,Mgbom Okposi
+2626,222,Obiozara
+2627,222,Umuobuna
+2628,222,Umunaga
+2629,222,Umuchima
+2630,223,Ezzamgbo
+2631,223,Umuagara / Amechi
+2632,223,Okposhi II
+2633,223,Ngbo
+2634,223,Umu Ogudu Oshia
+2635,223,Umu Ogudu Akpu I
+2636,223,Umu Ogudu Akpu II
+2637,223,Ishi Ngbo I
+2638,223,Okposhi  I
+2639,223,Ishi Ngbo II
+2640,223,Effium  II
+2641,223,Effium I
+2642,223,Wigbeke II
+2643,223,Wigbeke III
+2644,223,Wigbeke I
+2645,218,Ama Inyima
+2646,218,Etam
+2647,218,Eka Awoke
+2648,218,Ekpelu
+2649,218,Ndiagu Amagu II
+2650,218,Ndiagu Amagu I
+2651,218,Ndufu Amagu I
+2652,218,Ndufu Amagu
+2653,218,Igbudu I
+2654,218,Igbudu II
+2655,218,Inyimagu I
+2656,218,Ekpanwudele
+2657,218,Inyimagu II
+2658,218,Ndufu Echara
+2659,218,Ndiagu Echara I
+2660,218,Ndufu Alike
+2661,218,Ndiagu Echara II
+2662,218,Enyibichiri
+2663,218,Noye Alike
+2664,218,Echialike
+2665,225,Somorika / Ogbe / Sasaro / Onumu / Eshawa / Ogugu Igboshi-Afe / Igboshi - Ele / Aiyegunle
+2666,225,Ososo
+2667,225,Oloma/ Okpe/ Ijaja/ Kakuma/ Anyara
+2668,225,Imoga/ Lampese/ Bekuma/ Ekpe
+2669,225,Ibillo/ Ekpesa/ Ekor/ Ikiran-Ile/ Oke
+2670,225,Enwan/Atte/Ikpeshi/Egbigele
+2671,225,Makeke/ Ojah/ Dangbala/ Ojirami/ Anyawoza
+2672,225,Uneme-Nekhua/Akpama/ Aiyetoro/ Ekpedo/ Erhurun/ Un
+2673,225,Igarra I
+2674,225,Igarra II
+2675,227,Ikekato
+2676,227,Uneah
+2677,227,Uwessan II
+2678,227,Uwessan I
+2679,227,Ewu II
+2680,227,Ewu I
+2681,227,Otoruwo I
+2682,227,Otoruwo II
+2683,227,Opoji
+2684,227,Ugbegun
+2685,228,Uzea
+2686,228,Amedokhian
+2687,228,Efandion
+2688,228,Egbele
+2689,228,Uelen/ Okugbe
+2690,228,Idumu-Okojie
+2691,228,Arue
+2692,228,Obeidu
+2693,228,Ubierumu
+2694,228,Uwalor
+2695,228,Ewoyi
+2696,229,Illushi II
+2697,229,Illushi I
+2698,229,Ugboha
+2699,229,Ewohimi I
+2700,229,Ohordua
+2701,229,Ewohimi II
+2702,229,Ubiaja I
+2703,229,Ubiaja II
+2704,229,Ewatto
+2705,229,Emu
+2706,230,Ogwa
+2707,230,Ujiogba
+2708,230,Egoro/Idoa/Ukhun
+2709,230,Emaudo/ Eguare/ Ekpoma
+2710,230,Ihunmudumu/Idumebo/Uke/Ujemen
+2711,230,Iruekpen
+2712,230,Emuhi/ Ukpenu/ Ujoelen
+2713,230,Urohi
+2714,230,Uhiele
+2715,230,Illeh/Eko-Ine
+2716,231,Ekperi I
+2717,231,Ekperi II
+2718,231,Ekperi III
+2719,231,South Uneme I
+2720,231,South Uneme II
+2721,231,Fugar I
+2722,231,Fugar II
+2723,231,Fugar III
+2724,231,Iraokhor
+2725,231,Ogbona
+2726,232,Agenebode
+2727,232,Wanno I
+2728,232,Wanno II
+2729,232,Weppa
+2730,232,Okpella I
+2731,232,Okpella II
+2732,232,Okpella III
+2733,232,Okpella IV
+2734,232,Three Ibies
+2735,232,Okpekpe
+2736,233,Jagbe
+2737,233,Aviele
+2738,233,Anwain
+2739,233,Uzairue North West
+2740,233,Uzairue North East
+2741,233,Uzairue South West
+2742,233,Uzairue South East
+2743,233,South Ibie
+2744,233,Auchi II
+2745,233,Auchi
+2746,233,Auchi I
+2747,233,Auchi III
+2748,234,Udo
+2749,234,Okalo/ Okpujie
+2750,234,Owu/ Okuta/ Eguare Ebelle
+2751,234,Amahor/Ugun
+2752,234,Ewossa
+2753,234,Ekpon
+2754,234,Ekekhen/Idumuogo/Egbiki
+2755,234,Idigun/ Idumedo
+2756,234,Afuda/Idumuoka
+2757,234,Uhe/Idumuogbo/Idumueke
+2758,235,Iwogban/Uteh
+2759,235,Oregbeni
+2760,235,Ogbeson
+2761,235,Aduwawa / Evbo Modu
+2762,235,St. Saviour
+2763,235,Gorretti
+2764,235,Ugbekun
+2765,235,Idogbo
+2766,235,Obayantor
+2767,235,Ologbo
+2768,236,Igbanke East
+2769,236,Igbanke West
+2770,236,Aibiokula II
+2771,236,Aibiokunla I
+2772,236,Ugbeka
+2773,236,Iyoba
+2774,236,Ugboko
+2775,236,Ukpato
+2776,236,Urhonigbe North
+2777,236,Urhonigbe South
+2778,236,Ugu
+2779,236,Evboesi
+2780,239,Ofunama
+2781,239,Nikorogha
+2782,239,Udo
+2783,239,Siluko
+2784,239,Umaza
+2785,239,Iguobazuwa East
+2786,239,Iguobazuwa West
+2787,239,Ora
+2788,239,Usen
+2789,239,Ugbogui
+2790,240,Warrake
+2791,240,Ivbiadaobi
+2792,240,Emai II
+2793,240,Emai I
+2794,240,IHIEVBE I
+2795,240,Ihievbe  II
+2796,240,Igue/Ikao
+2797,240,Ivbianion
+2798,240,Otuo  I
+2799,240,Otuo  II
+2800,240,Uokha/Ake
+2801,241,Ozalla
+2802,241,Uhonmora
+2803,241,Eme-Ora/Oke
+2804,241,Sabongida/Ora/Ogbeturu
+2805,241,Avbiosi
+2806,241,Ukhuse -Osi
+2807,241,Eruere
+2808,241,Okpuje
+2809,241,Uzebba  I
+2810,241,Uzebba  II
+2811,241,Sobe
+2812,242,Ehor
+2813,242,Uhi
+2814,242,Igieduma
+2815,242,Irhue
+2816,242,Umagbae North
+2817,242,Umagbae South
+2818,242,Isi North
+2819,242,Isi South
+2820,242,Ohuan
+2821,242,Egbede
+2822,238,Oghede
+2823,238,Oduna
+2824,238,Iguoshodin
+2825,238,Utoka
+2826,238,Okada west
+2827,238,Okada east
+2828,238,Uhen
+2829,238,Adolor
+2830,238,Ofunmwegbe
+2831,238,Oluku
+2832,238,Uhiere
+2833,238,Isiuwa
+2834,238,Okokhuo
+2835,226,Otubu
+2836,226,Oliha
+2837,226,Ogida/Use
+2838,226,Egor
+2839,226,Uwelu
+2840,226,Evbareke
+2841,226,Uselu I
+2842,226,Uselu II
+2843,226,Okhoro
+2844,226,Ugbowo
+2845,237,Gra/Etete
+2846,237,Ogbelaka/ Nekpenekpen
+2847,237,Ogbe
+2848,237,Uzebu
+2849,237,Urubi/Evbiemwen/Iwehen
+2850,237,Unueru/Ogboka
+2851,237,Ibiwe/ Iwegie/ Ugbague
+2852,237,Ikpema/Eguadase
+2853,237,Oredo
+2854,237,Ihogbe/ Isekhere/ Oreoghene/ Ibiwe/ Ice Road
+2855,237,New Benin I
+2856,237,New Benin II
+2857,243,Ado 'M' Farm Settlement
+2858,243,Ado 'K' Irona
+2859,243,Ado 'I' Dallimore
+2860,243,Ado 'J' Okesa
+2861,243,Ado 'H' Ereguru
+2862,243,Ado 'L' Igbehin
+2863,243,Ado 'E' Ijoka
+2864,243,Ado 'F' Okeyinmi
+2865,243,Ado 'G' Oke Ila
+2866,243,Ado 'A' Idofin
+2867,243,Ado 'B' Inisa
+2868,243,Ado 'C' Idolofin
+2869,243,Ado 'D' Ijigbo
+2870,244,Efon IV
+2871,244,Efon VIII
+2872,244,Efon X
+2873,244,Efon VI
+2874,244,Efon IX
+2875,244,Efon VII
+2876,244,Efon V
+2877,244,Efon III
+2878,244,Efon II
+2879,244,Efon I
+2880,245,Isinbode
+2881,245,Ilasa I
+2882,245,Obadore II
+2883,245,Obadore IV
+2884,245,Obadore III
+2885,245,Obadore I
+2886,245,Kota II
+2887,245,Omuo-Oke I
+2888,245,Omuo-Oke II
+2889,245,Araromi Omuo
+2890,245,Kota I
+2891,245,Ilasa II/Ikun/Araromi
+2892,247,Okemesi III
+2893,247,Okemesi II
+2894,247,Okemesi I
+2895,247,Aramoko III/Erio
+2896,247,Aramoko II
+2897,247,Ikogosi
+2898,247,Erijiyan I
+2899,247,Erijiyan II
+2900,247,Ipole Iloro
+2901,247,Aramoko I
+2902,247,Ido Ajinare
+2903,246,Ogotun I
+2904,246,Ogotun II
+2905,246,Igbara Odo II
+2906,246,Igbara Odo I
+2907,246,Ilawe IV
+2908,246,Ilawe I
+2909,246,Ilawe II
+2910,246,Ilawe III
+2911,246,Ilawe V
+2912,246,Ilawe VI
+2913,246,Ilawe VII
+2914,248,Ogbontioro II
+2915,248,Oke Emure I
+2916,248,Oke Emure II
+2917,248,Ogbontioro I
+2918,248,Ida Mudu II
+2919,248,Ida Mudu I
+2920,248,Odo Emure I
+2921,248,Odo Emure II
+2922,248,Odo Emure III
+2923,248,Odo Emure IV
+2924,249,Iluomoba
+2925,249,Ijan
+2926,249,Aisegba II
+2927,249,Aisegba I
+2928,249,Egbe/Iro
+2929,249,Ode II
+2930,249,Ode I
+2931,249,Ode III
+2932,249,Agbado
+2933,249,Imesi
+2934,250,Osi
+2935,250,Igbole/Ifisin/Aaye
+2936,250,Orin/Ora
+2937,250,Ido I
+2938,250,Ido II
+2939,250,Ifaki II
+2940,250,Ilogbo
+2941,250,Usi
+2942,250,Ayetoro I
+2943,250,Ayetoro II
+2944,251,Ekameta
+2945,251,Ijero Ward 'D'
+2946,251,Ijero Ward 'B'
+2947,251,Ijero Ward 'C'
+2948,251,Ijero Ward 'A'
+2949,251,Ikoro Ward 'A'
+2950,251,Ekamarun Ward 'A'
+2951,251,Ipoti Ward 'A'
+2952,251,Ipoti Ward 'B'
+2953,251,odo Owa
+2954,251,Iloro Waard 'A'
+2955,251,Iloro/Ijunrin Ward 'B'
+2956,252,Are Araromi
+2957,252,Oke-Osun
+2958,252,Afao/Kajola
+2959,252,Ilapetu/Ijao
+2960,252,Idemo
+2961,252,Ogbonjana
+2962,252,Agbado/Oyo
+2963,252,Atiba/Aafin
+2964,252,Ugele/Aroku
+2965,252,Okeruku
+2966,253,Itapaji/Iyemero
+2967,253,Ipao/Oke Ako/Irele
+2968,253,Ijesa Isu
+2969,253,Ikole North
+2970,253,Ikole South
+2971,253,Ikole West II
+2972,253,Ikole East
+2973,253,Araromi/Bolorunduro
+2974,253,Odo Ayedun I
+2975,253,Oke Ayedun
+2976,253,Odo/Ayebode
+2977,254,Ewu
+2978,254,Iludun II
+2979,254,Iludun I
+2980,254,Ipere
+2981,254,Iye II
+2982,254,Eda Oniyo
+2983,254,Obada
+2984,254,Iye I
+2985,254,Ijesamodu
+2986,254,Iye III
+2987,255,Iyin II
+2988,255,Igede III
+2989,255,Igede I
+2990,255,Igede II
+2991,255,Igbemo
+2992,255,Afao
+2993,255,Are
+2994,255,Iworoko
+2995,255,Iyin I
+2996,256,Odo Ise III
+2997,256,Odo Ise I
+2998,256,Erinwa I
+2999,256,Orun II
+3000,256,Erinwa II
+3001,256,Oraye I
+3002,256,Odo Ise II
+3003,256,Orun I
+3004,256,Oraye III
+3005,256,Oraye II
+3006,257,Erinmope II
+3007,257,Erinmope I
+3008,257,Ikun I
+3009,257,Ikun II
+3010,257,Osun
+3011,257,Osan
+3012,257,Otun II
+3013,257,Otun I
+3014,257,Igogo II
+3015,257,Igogo I
+3016,257,Otun III
+3017,258,Ire I
+3018,258,Ire II
+3019,258,Ayede North
+3020,258,Itapa/Osin
+3021,258,Ilupeju II
+3022,258,Oye II
+3023,258,Oye I
+3024,258,Omu Oke/Omu Odo/Ijelu
+3025,258,Ayegbaju
+3026,258,Ayede South Itaji
+3027,258,Isan/Ilafon/Ilemeso
+3028,258,Ilupeju I
+3029,252,Odose
+3030,253,Ikole West I
+3031,250,Ifaki I
+3032,255,Awo
+3033,255,Iropora / Esure / Eyio
+3034,259,Okpanku
+3035,259,Mpu
+3036,259,Ndeabo
+3037,259,Oduma I
+3038,259,Oduma II
+3039,259,Oduma III
+3040,259,Oduma IV
+3041,259,Nnenwe i
+3042,259,Nnenwe II
+3043,259,Nnenwe III
+3044,260,Awgu I
+3045,260,Awgu II
+3046,260,Mgbowo
+3047,260,Agbogugu
+3048,260,Isu awa/Ogugu/Agbudu/Ituku
+3049,260,Ihe
+3050,260,Obeagu
+3051,260,Mgbidi/Mmaku
+3052,260,Anikenano/Ugwueme
+3053,260,Owelli/Amoli/Ugbo/Ogugu
+3054,260,Ogbaku
+3055,261,Mbuluiyiukwu
+3056,261,Ugwugo Nike
+3057,261,Mbulu-Njodo East
+3058,261,Mbulu-Njodo West
+3059,261,Mbuluowehe
+3060,261,Ibagwa-Nike/Edem
+3061,261,Amorji
+3062,261,Umuchigbo
+3063,261,Umuenwene
+3064,261,Trans-Ekulu
+3065,261,Abakpa I
+3066,261,Abakpa II
+3067,262,New Haven
+3068,262,G.R.A
+3069,262,Independence Layout
+3070,262,Udi Siding/Iva Valley
+3071,262,China Town
+3072,262,Ihewuzi
+3073,262,Umunevo
+3074,262,Gui Newlayout
+3075,262,Ogbette West
+3076,262,Ogbette East
+3077,262,Ogui Township
+3078,262,Asata Township
+3079,262,Onu-Asata
+3080,263,Ugwuaji
+3081,263,Maryland
+3082,263,Awkunanaw East
+3083,263,Awkunanaw West
+3084,263,Amechi I
+3085,263,Amechi II
+3086,263,Obeagu I
+3087,263,Obeagu II
+3088,263,Uwani West
+3089,263,Achara layout West
+3090,263,Achara Layout east
+3091,263,Uwani East
+3092,263,Akwuke
+3093,264,Obinofia
+3094,264,Obe agu Umana
+3095,264,Umumba Ndiumo
+3096,264,Aguobu (Umumba)
+3097,264,Umana Ndiagu
+3098,264,Agba Umana
+3099,264,Imezi Owa II
+3100,264,Imezi Owa I
+3101,264,Mgbagbu Owa I
+3102,264,Ulo/Amagu/Umulokpa II
+3103,264,Olo/Amagu Umulokpa I
+3104,264,Okpogho
+3105,264,Mgbagbu Owa II
+3106,264,Awha
+3107,264,Aguobu-Owa I
+3108,264,Aguobu-Owa II
+3109,264,Mgbagbu Owa III
+3110,264,Iwollo
+3111,264,Oghe I
+3112,264,Oghe II
+3113,265,Ukehe IV
+3114,265,Ejuoha/Udeme
+3115,265,Aku I
+3116,265,Aku II
+3117,265,Aku III
+3118,265,Ozalla I
+3119,265,Ozalla II
+3120,265,Aku V (Idueme)
+3121,265,Ikolo/Ohebe
+3122,265,Onyohor/Ochima/Idoha
+3123,265,Ukehe II
+3124,265,Ukehe III
+3125,265,Ukehe V
+3126,265,Ukehe I
+3127,265,Diogbe/Umunko
+3128,265,Ekwegbe I
+3129,265,Ekwegbe II
+3130,265,Ohaodo I
+3131,265,Ohaodo II
+3132,265,Aku IV
+3133,266,Umuozzi V
+3134,266,Umuozzi VI
+3135,266,Umuozzi X
+3136,266,Umuitodo III
+3137,266,Umuitodo I
+3138,266,Umuitodo II
+3139,266,Umuozzi Iv
+3140,266,Ezzodo
+3141,266,Umuozzi III
+3142,266,Umuozzi VII
+3143,266,Umuozzi II
+3144,266,Umuozzi VIII
+3145,266,Essodo III
+3146,266,Umuozzi IX
+3147,266,Essodo I
+3148,266,Essodo II
+3149,266,Umuozzi I
+3150,266,Ette II
+3151,266,Ette I
+3152,266,Ette Central
+3153,267,Ovoko (Umuelo/Ovoko Agu ward)
+3154,267,Ovoko (Ajuona Ward)
+3155,267,Ovoko (Umulolo Ward)
+3156,267,Iheaka (Ugo Akoyi)
+3157,267,Iheaka (Likki/Akutara Ward)
+3158,267,Uhunowerre
+3159,267,Iheakpu (Ezzi Ngwu Ward)
+3160,267,Iheakpu (Ajuona Ogbagu ward)
+3161,267,Echara
+3162,267,Amebo /Hausa/ Yoruba
+3163,267,Ezema Ward
+3164,267,Nkalagu Obukpa
+3165,267,Itchi/uwani II
+3166,267,Alor Agu
+3167,267,Itchi/Uwani I
+3168,267,Unadu
+3169,268,Neke I
+3170,268,Mbu II
+3171,268,Mbu I
+3172,268,Ikem I
+3173,268,Umualor
+3174,268,Neke II
+3175,268,Ikem II
+3176,268,Ehamufu I
+3177,268,Ehamufu III
+3178,268,Ehamufu II
+3179,268,Ehamufu IV
+3180,269,Nkerefi II
+3181,269,Nkerefi I
+3182,269,Nomeh
+3183,269,Ugbawka I
+3184,269,Mburubu
+3185,269,Nara II
+3186,269,Nara I
+3187,269,Ugbawka II
+3188,269,Ihuokpara
+3189,269,Amankanu/Ogbahu
+3190,269,Owo
+3191,269,Amechi/Idodo/Oruku
+3192,269,Akpawfu/Isienu/Amangunze
+3193,269,Amagunze
+3194,270,Akugbo IV
+3195,270,Akpugo II
+3196,270,Ndiuno Uwani (Akpugo I)
+3197,270,Obinagu Uwani (Akpugo I)
+3198,270,Akpugo III
+3199,270,Agbani
+3200,270,Amurri
+3201,270,Amodu
+3202,270,Umueze
+3203,270,Akegbe-Ugwu (okwuo)
+3204,270,Obuoffia
+3205,270,Obe
+3206,270,Ozalla
+3207,271,Ogbozalla/Idi
+3208,271,Eha-Ndiagu
+3209,271,Eha-Uno
+3210,271,Agbemebe/Umabor
+3211,271,Obukpa
+3212,271,Ibagwani/Ibagwaga Okpaligbo
+3213,271,Okpuje/Okutu/Anuka
+3214,271,Akpa/Ozzi
+3215,271,Obimo/Ikwoka
+3216,271,Ejuona/Uwani
+3217,271,Akalite
+3218,271,Ibeku
+3219,271,Mkpunano
+3220,271,Edem-Ani
+3221,271,Alor-Uno
+3222,271,Ihe
+3223,271,Nnu
+3224,271,Owerre/Umuoyo
+3225,271,Ede-Ukwu
+3226,271,Ede-Nta
+3227,272,Ugwuoba I
+3228,272,Ugwuoba II
+3229,272,Ugwuoba III
+3230,272,Akpugoeze
+3231,272,Awlaw
+3232,272,Inyi III
+3233,272,Achiuno IV
+3234,272,Achiuno I
+3235,272,Inyi I
+3236,272,Inyi II
+3237,272,Inyi Iv
+3238,272,Achiuno II
+3239,272,Achiuno III
+3240,272,Achiagu III
+3241,272,Achiagu I
+3242,272,Achiagu II
+3243,272,Oji-river IV
+3244,272,Oji-river I
+3245,272,Oji-river II
+3246,272,Oji-river III
+3247,273,Orba I
+3248,273,Orba II
+3249,273,Obollo-Eke
+3250,273,Obollo-Etiti
+3251,273,Imilike
+3252,273,Ogbodu-Aba
+3253,273,Amala
+3254,273,Obollo-Afor
+3255,273,Udunedem
+3256,273,Ezimo
+3257,274,Akpa Kwume/Nze
+3258,274,Affa/Oghu/Ikono
+3259,274,Nachi
+3260,274,Eke
+3261,274,Nsude
+3262,274,Obioma
+3263,274,Abia
+3264,274,Udi/Agbudu
+3265,274,Obinagu
+3266,274,Amokwe
+3267,274,Umuabi
+3268,274,Umuaga
+3269,274,Ngwo Uno
+3270,274,Ngwo Asa
+3271,274,Egede/Umuoka
+3272,274,Ebe
+3273,274,Abor
+3274,274,Awhum/Ukana
+3275,274,Okpatu
+3276,274,Umulumgbe
+3277,275,Adaba-nkume
+3278,275,Umulokpa
+3279,275,Ukpata
+3280,275,Ogurugu
+3281,275,Ojo
+3282,275,Igga/Asaba
+3283,275,Adani
+3284,275,Uvuru
+3285,275,Akpogu
+3286,275,Nimbo I
+3287,275,Nkpologu
+3288,275,Nimbo II
+3289,275,Abbi
+3290,275,Nrobo
+3291,275,Ugbene I
+3292,275,Ugbene II
+3293,270,Ibite Akegbe Ugwu
+3294,282,Akko
+3295,282,Garko
+3296,282,Kumo East
+3297,282,Kalshingi
+3298,282,Kumo North
+3299,282,Kumo West
+3300,282,Kumo Central
+3301,282,Kashere
+3302,282,Pindiga
+3303,282,Tumu
+3304,282,Tukulma
+3305,283,Dadiya
+3306,283,Bambam
+3307,283,Mwona
+3308,283,Kindiyo
+3309,283,Nyuwar / Jessu
+3310,283,Kulani / Degre /Sikkam
+3311,283,Bangu
+3312,283,Swa / Ref / W. Waja
+3313,283,Talasse / Dong / Reme
+3314,283,Gelengu / Balanga
+3315,284,Tudu Kwaya
+3316,284,Todi
+3317,284,Tal
+3318,284,Tanglang
+3319,284,Baganje North
+3320,284,Baganje South
+3321,284,Billiri South
+3322,284,Bare
+3323,284,Kalmai
+3324,284,Billiri North
+3325,285,Zange
+3326,285,Kunde
+3327,285,Gombe Abba
+3328,285,Waziri South / Central
+3329,285,Hashidu
+3330,285,Wuro Tale
+3331,285,Waziri North
+3332,285,Lafiya
+3333,285,Malala
+3334,285,Zaune
+3335,285,Jamari
+3336,286,Wawa / Wakkulutu
+3337,286,Ribadu
+3338,286,Kupto
+3339,286,Tongo
+3340,286,Bodor / Tilde
+3341,286,Ashaka / Magaba
+3342,286,Bajoga East
+3343,286,Bajoga  West
+3344,286,Bage
+3345,286,Jillahi
+3346,287,Shamaki
+3347,287,Pantami
+3348,287,Bolari East
+3349,287,Bolari West
+3350,287,Jeka Dafari
+3351,287,herwagana
+3352,287,Dawaki
+3353,287,Bolari East
+3354,287,Bajoga
+3355,287,Ajiya
+3356,288,Kamo
+3357,288,Awak
+3358,288,Bule / Kaltin
+3359,288,Tula Baule
+3360,288,Tungo
+3361,288,Ture
+3362,288,Kaltungo West
+3363,288,Kaltungo East
+3364,288,Tula Wange
+3365,288,Tula - Yiri
+3366,289,Komfulata
+3367,289,Dukul
+3368,289,Malleri
+3369,289,Daban Fulani
+3370,289,Jurara
+3371,289,Bojude
+3372,289,Gadam
+3373,289,Kwami
+3374,289,Malam Sidi
+3375,289,Doho
+3376,290,Birin Bolewa
+3377,290,Birin Fulani East
+3378,290,Birin Fulani West
+3379,290,Jigawa
+3380,290,Gudukku
+3381,290,Barwo Winde
+3382,290,Barwo / Nasarawo
+3383,290,Nafada West
+3384,290,Nafada Central
+3385,290,Nafada East
+3386,291,Gundale
+3387,291,Gwandum
+3388,291,Filiya
+3389,291,Kushi
+3390,291,Burak
+3391,291,Bangunji
+3392,291,Kulishin
+3393,291,Boh
+3394,291,Lalaipido
+3395,291,Lapan
+3396,292,Jagali North
+3397,292,Jagali South
+3398,292,Nono / Kunwal / W. Birdeka
+3399,292,Kuri /Lano / Lambam
+3400,292,Kwadon / Liji / Kurba
+3401,292,Kanawa / Wajari
+3402,292,Deba
+3403,292,Hinna
+3404,292,Zambul / Kwali
+3405,292,Difa / Lubo / Kinafa
+3406,292,Gwani / Shinga / Wade
+3407,287,Nasarawa
+3408,293,Lagwa
+3409,293,Ibeku
+3410,293,Umuhu
+3411,293,Amuzu
+3412,293,Nguru-Nwenkwo
+3413,294,Amuzi/Ihenworie
+3414,294,Nnarambia
+3415,294,Ogbe
+3416,294,Oparanadim
+3417,294,Otulu/Aguneze
+3418,294,Oru-Na-Lude
+3419,294,Okirika Nwenkwo
+3420,294,Okirika Nweke
+3421,294,Obohia/Ekwereazu
+3422,294,Umunumo/Umuchieze
+3423,294,Ogbor/Umueze
+3424,295,Umuezeala
+3425,295,Umunakanu
+3426,295,Umueze I
+3427,295,Umunumo
+3428,295,Umualumaku/Umuihim
+3429,295,Nsu 'A' Ikpe
+3430,295,Nsu 'B' Ihitte
+3431,295,Nzerem/Ikpem
+3432,295,Umukabia
+3433,295,Agbaja
+3434,296,Chokoneze/Akpodim/Ife
+3435,296,Oboama/Umunama
+3436,296,Amumara
+3437,296,Onicha II
+3438,296,Udo-Na-Obizi
+3439,296,Eziudo
+3440,296,Onicha I
+3441,296,Okpofe/Ezeagbogu
+3442,296,Ihitte
+3443,296,Itu
+3444,296,Onicha IV
+3445,296,Onicha III
+3446,297,Ozuakoki/Umuago
+3447,297,Uzii/Umualoma
+3448,297,Ezemazu/Ozu
+3449,297,Izuogu II
+3450,297,Izuogu I
+3451,297,Ndi Iheme Arondizuogu
+3452,297,Osina
+3453,297,Akpulu
+3454,297,Isiokpo
+3455,297,Ndimoko
+3456,297,Akwu Owerre
+3457,297,Umuopia/Umukegwu
+3458,297,Umuokwara/Umuezeaga
+3459,298,Dikenafia
+3460,298,Umuobom
+3461,298,Umuchima
+3462,298,Umuakam/Umuago
+3463,298,Ntueke
+3464,298,Obiohia
+3465,298,Ogboko I
+3466,298,Ugbelle
+3467,298,Isiekenesi I
+3468,298,Isiekenesi II
+3469,298,Umuma Isiaku
+3470,298,Amanator/Umueshi
+3471,299,Atonerim
+3472,299,Umuezegwu
+3473,299,Umuihi
+3474,299,Amainyi
+3475,299,Dimneze
+3476,299,Ikperejere
+3477,299,Okata
+3478,299,Awuchinumo
+3479,299,Abueke
+3480,299,Amakohia
+3481,300,Amatta
+3482,300,Akabo
+3483,300,Iho
+3484,300,Uzoagba
+3485,300,Avuvu
+3486,300,Amakohia
+3487,300,Atta I
+3488,300,Atta II
+3489,300,Amaimo
+3490,300,Eziama
+3491,300,Ngugo/Ikembara
+3492,300,Inyishi/Umudim
+3493,298,Ogboko II
+3494,301,Amauzari
+3495,301,Ogbor
+3496,295,Umueze II/Umueleke
+3497,301,Amaraku
+3498,301,Ibeme
+3499,301,Osu-Owerre I
+3500,301,Umunkwo
+3501,301,Osu-Owerre II
+3502,301,Osuama/Anara
+3503,301,Ugiri/Oka
+3504,301,Umuozu
+3505,301,Osu-Achara
+3506,301,Obollo
+3507,302,Amandugba II
+3508,302,Amandugba I
+3509,302,Umundugba I
+3510,302,Umundugba II
+3511,302,Amurie Omanze I
+3512,302,Amurie Omanze II
+3513,302,Ekwe I
+3514,302,Ekwe II
+3515,302,Isu-Njaba I
+3516,302,Isu-Njaba II
+3517,303,Ogbaku
+3518,303,Afara/Eziama
+3519,303,Umunoha/Azara
+3520,303,Ubomiri
+3521,303,Ifakala
+3522,303,Ogwa I
+3523,303,Ezinihitie Mbieri
+3524,303,Ogwa II
+3525,303,Amaike Mbieri
+3526,304,Ozuzu
+3527,304,Imerienwe
+3528,304,Logara/Umuohiagu
+3529,304,Obiangwu
+3530,304,Nguru/Umuowa
+3531,304,Umuhu
+3532,304,Amala/Alulu/Oburu/Obokwe/Ntu
+3533,304,Elelem/Obike
+3534,304,Ohekelem Mnorie
+3535,304,Eziama/Okpala
+3536,304,Ngor/Ihitte/Umukabia
+3537,305,umuaka III
+3538,305,Umuaka II
+3539,305,umuaka I
+3540,305,Atta II
+3541,305,Atta III
+3542,305,Amucha I
+3543,305,Okwudor
+3544,305,Atta I
+3545,305,Nkume
+3546,305,Amucha II
+3547,306,Nnanano (Nkwerre II)
+3548,306,Umukor (Nkwerre III)
+3549,306,Onusa
+3550,306,Nkwerre IV (Umunubo/Umunachi)
+3551,306,Eziama Obaire
+3552,306,Amaokpara
+3553,306,Umudi/Umuwala
+3554,303,Umunwoha/Mbieri/Umuawu
+3555,306,Owerre Nkworji I
+3556,306,Owerre Nkworji II
+3557,307,Abajah ward I
+3558,307,Abba Ward
+3559,307,Umuozu Ward
+3560,307,Abajah Ward II
+3561,307,Ezeobolo/Ofeahia/Duruoha/Umukabia (Amaigbo Ward V)
+3562,307,Dim-Na Nume
+3563,307,Kara-Na-Orlu
+3564,307,Amamnaisi (Amaigbo IV)
+3565,307,Amaju Community Ward (Amaigbo)
+3566,307,Umuanu Community Ward (Amaigbo II)
+3567,307,Amano/Umudurumba Ward (Amaigbo I)
+3568,306,Nkwerre V
+3569,302,Isu-Njaba III
+3570,308,Avutu
+3571,308,Umunachi
+3572,308,Umuariam/Achara
+3573,308,Alike
+3574,308,Amanze/Umungwa
+3575,308,Okenalogho
+3576,308,Amuzi
+3577,308,Okwuohia
+3578,308,Ehume
+3579,308,Odenkume/Umuosochie
+3580,294,Mpam
+3581,309,Obudi/Aro
+3582,309,Awa
+3583,309,Izombe
+3584,309,Uwaorie
+3585,309,Oru
+3586,309,Egwe/Egbuoma
+3587,309,Mbala/Uba
+3588,309,Oguta 'A'
+3589,309,Oseemotor/Enuigbo
+3590,309,Oguta 'B'
+3591,310,Umuagwo
+3592,310,Umuapu
+3593,310,Obitti/Mgbishi
+3594,310,Ekwuato
+3595,310,Awara/Ikwerede
+3596,310,Assa/Obile
+3597,310,Ohoba
+3598,310,Egbema 'E'
+3599,310,Egbema 'B'
+3600,310,Egbema 'A'
+3601,310,Egbema 'C'
+3602,310,Egbema 'D'
+3603,311,Umualumuoke
+3604,311,Ezinachi
+3605,311,Ogii
+3606,311,Amuro
+3607,311,Okigwe I
+3608,311,Ndimoko Ofeimo/Ibinta/Okanachi/Umuowa Ibu
+3609,311,Umulolo
+3610,311,Ihube
+3611,311,Okigwe II
+3612,311,Aku
+3613,311,Agbobu
+3614,319,Umuna
+3615,319,Ezelu
+3616,319,Eziama
+3617,319,Owerre-Okwe
+3618,319,Umucheke
+3619,319,Okwelle I
+3620,319,Ozimo/Umuneze
+3621,319,Okwelle
+3622,312,Umudioka
+3623,312,Eziachi/Amike
+3624,312,Orlu/Mgbee/Orlu Govt. Station
+3625,312,Okaeke/Okporo
+3626,319,Aboh/Okohia
+3627,319,Ofeahia/Umuanumeze
+3628,312,Umuzike/Umuowa
+3629,312,Ohafor/Okporo/Umutanze
+3630,312,Ebenese/Umueze/Nnachi Ihioma
+3631,312,Umuna
+3632,312,Owerri Ebeiri
+3633,312,Okua Bala/Ihioma
+3634,312,Ogberuru/Obibi
+3635,312,Amaifeke
+3636,312,Ihite Owerre
+3637,313,Umuhu Okabia
+3638,313,Ebenator
+3639,313,Okwuamaraihie II
+3640,313,Okwufuruaku
+3641,313,Orsu Ihiteukwa
+3642,313,Assah Ubiri Elem
+3643,313,Ihitenansa
+3644,313,Amaruru
+3645,313,Eziawa
+3646,314,Awo-Omamma II
+3647,314,Awo-Omamma I
+3648,314,Amiri II
+3649,314,Amiri I
+3650,314,Awo-Omamma III
+3651,314,Awo-Omamma IV
+3652,314,Akuma
+3653,314,Amagu
+3654,314,Akata
+3655,314,Omuma
+3656,315,Mgbidi I
+3657,315,Amafuo
+3658,315,Ozara
+3659,315,Ubulu
+3660,315,Ohakpu
+3661,315,Nempi/Elem
+3662,315,Aji
+3663,315,Mgbidi II
+3664,315,Ibiaso Egbe
+3665,315,Otulu
+3666,316,GRA
+3667,316,Aladinma I
+3668,316,Azuzi III
+3669,316,New Owerri II
+3670,316,New Owerri I
+3671,316,Azuzi II
+3672,316,Aladinma II
+3673,316,Azuzi I
+3674,316,Azuzi IV
+3675,316,Ikenegbu I
+3676,316,Ikenegbu II
+3677,317,Obibiezena
+3678,317,Ihitta-Oha
+3679,317,Orji
+3680,317,Obibi-Uratta I
+3681,317,Obibi-Uratta II
+3682,317,Emekuku II
+3683,317,Emekuku I
+3684,317,Egbu
+3685,317,Awaka/Ihitte-Ogada
+3686,317,Emil
+3687,317,Naze
+3688,317,Agbala/Obube/Ulakwo
+3689,315,Amakohia-Ubi/Ndegwu Ohii
+3690,315,Irete/Orogwe
+3691,315,Okuku
+3692,315,Umuguma
+3693,315,Avu/Oforola
+3694,315,Obinze
+3695,315,Nekede
+3696,315,Eziobodo
+3697,315,Ihiagwa
+3698,313,Okwuetiti
+3699,313,Okwuamaraihie I
+3700,297,Obodoukwu
+3701,309,Ndeuloukwu/Umuowere
+3702,303,Orodo 'B'
+3703,305,Umuaka IV
+3704,315,Emeabiam/Okolochi
+3705,303,Orodo 'A'
+3706,293,Enyiogugu
+3707,293,Nguru-Ahiato
+3708,293,Nguru-Nweke
+3709,293,Mbutu
+3710,293,Uvuru II
+3711,293,Uvuru I
+3712,293,Lorji
+3713,320,Auyo
+3714,320,Auyakayi
+3715,320,Ayama
+3716,320,Ayan
+3717,320,Gamafoi
+3718,320,Gamsarka
+3719,320,Gatafa
+3720,320,Kafur
+3721,320,Tsidir
+3722,320,Unik
+3723,321,Babura
+3724,321,Insharuwa
+3725,321,Jigawa
+3726,321,Takwasa
+3727,321,Kanya
+3728,321,Dorawa
+3729,321,Gasakoli
+3730,321,Kyambo
+3731,321,Kuzunzumi
+3732,321,Batali
+3733,321,Garu
+3734,323,Kangire
+3735,323,Kantoga
+3736,323,Kwangwara
+3737,323,Lafiya
+3738,323,Sundimina
+3739,323,Surko
+3740,323,Unguwar'Ya
+3741,323,Wurno
+3742,323,Yalwan Damai
+3743,323,Birnin Kudu
+3744,323,Kiyako
+3745,322,Karanka
+3746,322,Kachallari
+3747,322,Dangwaleri
+3748,322,Diginsa
+3749,322,Kazura
+3750,322,Fagi
+3751,322,Machinamari
+3752,322,Birniwa
+3753,322,Matamu
+3754,322,Batu
+3755,322,Nguwa
+3756,324,Kukuma
+3757,324,K/Lelen Kudu
+3758,324,Y/Tukur
+3759,324,Ahoto
+3760,324,Buji
+3761,324,Churbun
+3762,324,Gantsa
+3763,324,Falageri
+3764,324,Kawaya
+3765,324,Madabe
+3766,326,Maikilili
+3767,326,Kore Balatu
+3768,326,Medu
+3769,326,Zarada
+3770,326,Garin Chiroma
+3771,326,Madaka
+3772,326,Yalawa
+3773,326,Gagarawa Gari
+3774,326,Gagarawa Tasha
+3775,326,Maiaduwa
+3776,325,Abaya
+3777,325,Dundubus
+3778,325,Chamo
+3779,325,Duru
+3780,325,Jigawar Tsada
+3781,325,Kachi
+3782,325,Karnaya
+3783,325,Kudai
+3784,325,Limawa
+3785,325,Madobi
+3786,325,Sakwaya
+3787,327,Gwarzon Garki
+3788,327,Muku
+3789,327,Jirima
+3790,327,Kanya
+3791,327,Rafin Marke
+3792,327,Doko
+3793,327,Garki
+3794,327,Kargo
+3795,327,Buduru
+3796,327,Kore
+3797,327,Siyori
+3798,329,Abunabo
+3799,329,Adiyani
+3800,329,Dawa
+3801,329,Garbagal
+3802,329,Guri
+3803,329,Kadira
+3804,329,Lafiya
+3805,329,Margadu
+3806,329,Matara Baba
+3807,329,Musari
+3808,330,Basirka
+3809,330,Dingaya
+3810,330,Fagam
+3811,330,Farin Dutse
+3812,330,Gwaram Tsohuwa
+3813,330,Kila
+3814,330,Zandan Nagogo
+3815,330,Sara
+3816,330,Maruta
+3817,330,Tsangarwa
+3818,330,Kwandiko
+3819,331,Rorau
+3820,331,Shafe
+3821,331,Yola
+3822,331,Korayel
+3823,331,Buntusu
+3824,331,Dabi
+3825,331,Darina
+3826,331,Zaumar Sainawa
+3827,331,Gwiwa
+3828,331,Guntai
+3829,331,F/Yamma
+3830,333,Gangawa
+3831,333,Gauza Tazara
+3832,333,Idanduna
+3833,333,Jabarna
+3834,333,Kanwa
+3835,333,Kale
+3836,333,Gunka
+3837,333,Aujara
+3838,333,Harbo Sabuwa
+3839,333,Harbo Tsohuwa
+3840,333,Jahun
+3841,334,Majawa
+3842,334,Balangu
+3843,334,Zago
+3844,334,Jabo
+3845,334,Mezan
+3846,334,Sarawa
+3847,334,Kafin Hausa
+3848,334,Kazalewa
+3849,334,Gafaya
+3850,334,Dumadumin Toka
+3851,334,Ruba
+3852,338,Jarkasa
+3853,338,Arbus
+3854,338,Ja'e
+3855,338,Kaugama
+3856,338,Askandu
+3857,338,Dakaiyawa
+3858,338,Hadin
+3859,338,Marke
+3860,338,Dabuwaran
+3861,338,Unguwar Jibrin
+3862,338,Yalo
+3863,335,Dandi
+3864,335,Dabaza
+3865,335,Daba
+3866,335,Ba'auzini
+3867,335,Gada
+3868,335,Maradawa
+3869,335,Kanti
+3870,335,Sabaru
+3871,335,Unguwar Gabas
+3872,335,Unguwar Arewa
+3873,335,Unguwar Yamma
+3874,336,Baturiya
+3875,336,Marma
+3876,336,Kirika Samma
+3877,336,Gayin
+3878,336,Doleri
+3879,336,Bulunchai
+3880,336,Madachi
+3881,336,Tarabu
+3882,336,Tsheguwa
+3883,336,Fandum
+3884,337,Kwanda
+3885,337,Abalago
+3886,337,Maje
+3887,337,Katuka
+3888,337,Kiyawa
+3889,337,Faki
+3890,337,Katanga
+3891,337,Guruduba
+3892,337,Andaza
+3893,337,Garko
+3894,337,Tsurma
+3895,341,Sabon Gari Takanebu
+3896,341,Hantsu
+3897,341,Miga
+3898,341,Tsakuwawa
+3899,341,Yanduna
+3900,341,Dangyatin
+3901,341,Koya
+3902,341,Sansani
+3903,341,Garbo
+3904,341,Zareku
+3905,342,Chai-Chai
+3906,342,Yandutse
+3907,342,Sintilmawa
+3908,342,Dabi
+3909,342,Ringim
+3910,342,Kyarama
+3911,342,Tofa
+3912,342,Karshi
+3913,342,Kafin babushe
+3914,342,Sankara
+3915,343,Yanzaki
+3916,343,Gora
+3917,343,Amaryawa
+3918,343,Zugai
+3919,343,Dansure
+3920,343,Kwaita
+3921,343,Fara
+3922,343,Tunas
+3923,343,Baragumi
+3924,343,Roni
+3925,343,Sankau
+3926,344,Danzomo
+3927,344,Takatsaba
+3928,344,Danladi
+3929,344,Dangwanki
+3930,344,Sule-Tankarkar
+3931,344,Albasu
+3932,344,Amanga
+3933,344,Jeke
+3934,344,Shabaru
+3935,344,Yandamo
+3936,345,Chukuto
+3937,345,Chakwaikwaiwa
+3938,345,Taura
+3939,345,S/Garin Yaya
+3940,345,Maje
+3941,345,Kwalam
+3942,345,Majiya
+3943,345,Kiri
+3944,345,Gujungu
+3945,345,Ajaura
+3946,339,Dankumbo
+3947,339,Maigatari Arewa
+3948,339,Fulata
+3949,339,Maigatari Kudu
+3950,339,Matoya
+3951,339,Galadi
+3952,339,Kukayasku
+3953,339,Balarabe
+3954,339,Turbus
+3955,339,Jajeri
+3956,339,Madana
+3957,340,Garin Gabas
+3958,340,Tagwaro
+3959,340,Tonikutara
+3960,340,Shaiya
+3961,340,Arki
+3962,340,Maira Kumi-Bara Musa
+3963,340,Tashena
+3964,340,Fateka Akurya
+3965,340,Dunari
+3966,340,Maka Ddari
+3967,340,Malam Madori
+3968,346,Achilafiya
+3969,346,Belas
+3970,346,Gwarta
+3971,346,Kuda
+3972,346,Dawan-Gawo
+3973,346,Karkarna
+3974,328,Hammado
+3975,328,Garin Alhaji Barka
+3976,328,Danama
+3977,328,Gusau
+3978,328,Dantanoma
+3979,328,Zango
+3980,328,Kofar Yamma
+3981,328,Kofar Arewa
+3982,328,Galagamma
+3983,328,Baikarya
+3984,328,Garin Gambo
+3985,332,Yankoli
+3986,332,Sabon Garu
+3987,332,Gagulmari
+3988,332,Matsaro
+3989,332,Atafi
+3990,332,Kasuwar Kuda
+3991,332,Rumfa
+3992,332,Kasuwar Kofa
+3993,332,Yayari
+3994,332,Dubantu
+3995,332,Majema
+3996,346,Zungumba
+3997,346,Yankwashi
+3998,346,Ringim
+3999,346,Gurjiya
+4000,369,Dutsen Abba
+4001,369,Wucicciri
+4002,369,Dambo
+4003,369,Kaura
+4004,369,Unguwan Juma
+4005,369,Limancin-Kona
+4006,369,Unguwan Fatika
+4007,369,Gyallesu
+4008,369,Tudun Wada
+4009,369,"Kwarbai ""B"""
+4010,369,"Kwarbai ""A"""
+4011,369,Tukur Tukur
+4012,368,Unguwar Rimi
+4013,368,Gidan Jatau
+4014,368,Madakiya
+4015,368,Zonkwa
+4016,368,Kamantan
+4017,368,Kamuru Ikulu North
+4018,368,Gora
+4019,368,Unguwar Gaiya
+4020,368,Zangon Urban
+4021,368,Zaman Dabo
+4022,368,Zonzon
+4023,367,Gamagira
+4024,367,Kinkiba
+4025,367,Maigana
+4026,367,Garun Gwanki
+4027,367,Rahama
+4028,367,Dan Wata
+4029,367,Soba
+4030,367,Turawa
+4031,367,Richifa
+4032,367,Gimba
+4033,367,Kwassallo
+4034,366,Arak
+4035,366,Gwantu
+4036,366,Nandu
+4037,366,Ninzam West
+4038,366,Ninzam South
+4039,366,Aboro
+4040,366,Fadan Karshi
+4041,366,Bokana
+4042,366,Ayu
+4043,366,Ninzam North
+4044,365,Jama'a
+4045,365,Bomo
+4046,365,Samaru
+4047,365,Dogarawa
+4048,365,Zabi
+4049,365,Basawa
+4050,365,Hanwa
+4051,365,Chikaji
+4052,365,Muchia
+4053,365,Jushi Waje
+4054,365,Unguwan Gabas
+4055,364,Dandamisa
+4056,364,Nassarawan Doya
+4057,364,Daguziri
+4058,364,Tudun Wada
+4059,364,Makarfi
+4060,364,Gazara
+4061,364,Gimi
+4062,364,Mayere
+4063,364,Gwanki
+4064,364,Gubuchi
+4065,363,Gure/Kahugu
+4066,363,Garu
+4067,363,Rimin Kura
+4068,363,Lazuru
+4069,363,Lere
+4070,363,Abadawa
+4071,363,Sabon Birni
+4072,363,Yar Kasuwa
+4073,363,Saminaka
+4074,363,Dan Alhaji
+4075,363,Kayarda
+4076,362,Hunkuyi
+4077,362,Likoro
+4078,362,Sabon Gari Hunkuyi
+4079,362,Garu
+4080,362,Taban Sani
+4081,362,Kudan
+4082,362,Zabi
+4083,362,Doka
+4084,362,Kauran Wali North
+4085,362,Kauran Wali South
+4086,361,Zabi
+4087,361,Dutsen Wai
+4088,361,Zuntu
+4089,361,Pambegua
+4090,361,Karreh
+4091,361,Anchau
+4092,361,Damau
+4093,361,Kubau
+4094,361,Haskiya
+4095,361,Mah
+4096,361,Kargi
+4097,360,Dawaki
+4098,360,Makami
+4099,360,Kauru West
+4100,360,Kauru East
+4101,360,Kwassam
+4102,360,Bital
+4103,360,Geshere
+4104,360,Badurum Sama
+4105,360,Damakasuwa
+4106,360,Pari
+4107,360,Kamaru
+4108,359,Agban
+4109,359,Zankan
+4110,359,Kukum
+4111,359,Fada
+4112,359,Kpak
+4113,359,Mallagum
+4114,359,Kadarko
+4115,359,Kaura
+4116,359,Manchok
+4117,359,Bondon
+4118,358,Maro
+4119,358,Idon
+4120,358,Kallah
+4121,358,Rimau
+4122,358,Kasuwan Magani
+4123,358,Buda
+4124,358,Tantatu
+4125,358,Kajuru
+4126,358,Kufana
+4127,358,Afogo
+4128,357,Iddah
+4129,357,Jere North
+4130,357,Jere South
+4131,357,Kagarko North
+4132,357,Kagarko South
+4133,357,Kukui
+4134,357,Katugal
+4135,357,Aribi
+4136,357,Kushe
+4137,357,Kurmin Jibrin
+4138,356,Television
+4139,356,Kakuri Gwari
+4140,356,Kakuri Hausa
+4141,356,Makera
+4142,356,Barnawa
+4143,356,Tudun Wada West
+4144,356,Tudun Wada South
+4145,356,Badiko
+4146,356,Unguwan Sanusi
+4147,356,Tudun Nuwapa
+4148,356,Tudun Wada North
+4149,356,Sabon Gari South
+4150,356,Sabon Gari North
+4151,355,Gaji
+4152,355,Unguwan Liman
+4153,355,Kabala Costain/Doki
+4154,355,Shaba
+4155,355,Unguwan Sarki
+4156,355,Gabasawa
+4157,355,Unguwan Shanu
+4158,355,Maiburji
+4159,355,Kawo
+4160,355,Unguwan Dosa
+4161,355,Hayin Banki
+4162,355,Badarawa
+4163,354,Bishini
+4164,354,Katari
+4165,354,Awon
+4166,354,Kurmin Musa
+4167,354,Sabon Sarki
+4168,354,Gidan Tagwai
+4169,354,Kwaturu
+4170,354,Gumel
+4171,354,Ankwa
+4172,354,Kachia Urban
+4173,354,Agunu
+4174,354,Doka
+4175,353,Bedde
+4176,353,Kagoma
+4177,353,Maigizo 'A'
+4178,353,Kafanchan 'B'
+4179,353,Kafanchan 'A'
+4180,353,Takau 'B'
+4181,353,Kaninkon
+4182,353,Asso
+4183,353,Jagindi
+4184,353,Godogodo
+4185,353,Atuku
+4186,366,Gidan Waya
+4187,352,Daddu
+4188,352,Fai
+4189,352,Chori
+4190,352,Nok
+4191,352,Fada
+4192,352,Sabzuro
+4193,352,Sabchem
+4194,352,Dura/Bitaro
+4195,352,Sambam
+4196,352,Nduyah
+4197,351,Kuya
+4198,351,Paki
+4199,351,Rumi
+4200,351,Auchan
+4201,351,Saulawa
+4202,351,Ikara
+4203,351,Saya-Saya
+4204,351,Janfala
+4205,351,Pala
+4206,351,K/Kogi
+4207,350,Rigasa
+4208,350,Rigachiku
+4209,350,Zangon Aya
+4210,350,Igabi
+4211,350,Gwaraji
+4212,350,Gadan Gayan
+4213,350,Afaka
+4214,350,Sabon Birnin Daji
+4215,350,Kerawa
+4216,350,Turunku
+4217,350,Birnin Yero
+4218,349,Kidandan
+4219,349,Idasu
+4220,349,Galadimawa
+4221,349,Pan Hauya
+4222,349,Kadage
+4223,349,Yakawada
+4224,349,Gangara
+4225,349,Kakangi
+4226,349,Giwa
+4227,349,Shika
+4228,349,Danmahawayi
+4229,348,Kuriga
+4230,348,Kunai
+4231,348,Chikun
+4232,348,GwaGwada
+4233,348,Garin Arewa Tirkaniya
+4234,348,Nasarawa
+4235,348,Unguwan Yelwa
+4236,348,Narayi
+4237,348,Sabon Tasha
+4238,348,Kujama
+4239,347,Randagi
+4240,347,MagajinG2
+4241,347,MagajinG3
+4242,347,Kuyelo
+4243,347,MagajinG1
+4244,347,Gayam
+4245,347,Tabanni
+4246,347,Kutemesi
+4247,347,Dogon Dawa
+4248,347,Kazagekage
+4249,347,Kakangi
+4250,369,Kufena
+4251,348,Rido
+4252,348,Kakau
+4253,366,Wasa Station
+4254,355,Kwarau
+4255,370,Toranke
+4256,370,Gafasa
+4257,370,Kunkurawa
+4258,370,Dabin Kanawa
+4259,370,Balare
+4260,370,Ungawar Bai
+4261,370,Gurduba
+4262,370,Chula
+4263,370,Dundun
+4264,370,Ajingi
+4265,371,Gagarame
+4266,371,Tsangaya
+4267,371,Daho
+4268,371,Albasu Central
+4269,371,Chamarana
+4270,371,Fanda
+4271,371,Bataiya
+4272,371,Hungu
+4273,371,Faragai
+4274,371,Saya-saya
+4275,372,Sare-Sare
+4276,372,Gogori
+4277,372,Gadanya
+4278,372,Wuro Bagga
+4279,372,Bagwai
+4280,372,Kiyawa
+4281,372,Dangada
+4282,372,Romo
+4283,372,Kwajali
+4284,372,Rimin Dako
+4285,373,Rahama
+4286,373,Kuki
+4287,373,Anadariya
+4288,373,Gwarmai
+4289,373,Rantan
+4290,373,Kofa
+4291,373,Ranka
+4292,373,Gargai
+4293,373,Wak
+4294,373,Durmawa
+4295,373,Tariwa
+4296,373,Baguda
+4297,373,Bebeji
+4298,373,Damau
+4299,374,Danzabuwa
+4300,374,Kyalli
+4301,374,Bichi
+4302,374,Muntsira
+4303,374,Waire
+4304,374,Kaukau
+4305,374,Badume
+4306,374,Yallami
+4307,374,Kwamarawa
+4308,374,Fagolo
+4309,374,Saye
+4310,375,Sanda
+4311,375,Kumurya
+4312,375,Barkum
+4313,375,Gurjiya
+4314,375,Gwamma
+4315,375,Bono
+4316,375,Bunkure
+4317,375,Gafan
+4318,375,Chirin
+4319,375,Kulluwa
+4320,376,Dogon Nama
+4321,376,Bakin Ruwa
+4322,376,Yalwa
+4323,376,Madigawa
+4324,376,Gobirawa
+4325,376,Kofar Ruwa
+4326,376,Gwammaja
+4327,376,Kofar Mazugal
+4328,376,Adakawa
+4329,376,Kantudu
+4330,376,Dala
+4331,376,Kabuwaya
+4332,377,Gwanda
+4333,377,Gwarabjawa
+4334,377,Goron Maje
+4335,377,Sansan
+4336,377,Kore
+4337,377,Fagwalawa
+4338,377,Saidawa
+4339,377,Danbatta West
+4340,377,Ajumawa
+4341,377,Danbatta East
+4342,378,Danbagiwa
+4343,378,Gano
+4344,378,Dosan
+4345,378,Dabar Kwari
+4346,378,Tsakuwa
+4347,378,Dawakiji
+4348,378,Yanbarau
+4349,378,Tamburawa
+4350,378,Gurjiya
+4351,378,Dawaki
+4352,378,Unguwar Duniya
+4353,378,Zogarawa
+4354,378,Yankatsari
+4355,378,Yargaya
+4356,378,Jido
+4357,379,Marke
+4358,379,Gargari
+4359,379,Tattarawa
+4360,379,Jalli
+4361,379,Ganduje
+4362,379,Dawaki East
+4363,379,Kwa
+4364,379,Tumfafi
+4365,379,Dawanau
+4366,379,Dawaki West
+4367,379,Dan Guguwa
+4368,380,Maraku
+4369,380,Dariya
+4370,380,Ragada
+4371,380,Dogon Kawo
+4372,380,Falgore
+4373,380,Zainabi
+4374,380,Tagwaye
+4375,380,Duguwa
+4376,380,Ririwai
+4377,380,Unguwar Natsohuwa
+4378,381,Fagge B
+4379,381,Fagge A
+4380,381,Sabongari East
+4381,381,Kwachiri
+4382,381,Sabongari West
+4383,381,Fagge D
+4384,381,Fagge C
+4385,381,Fagge E
+4386,381,Rijiyar Lemo
+4387,381,Yammata
+4388,383,Katumari
+4389,383,Sarina
+4390,383,Raba
+4391,383,Kafin Malamai
+4392,383,Garko
+4393,383,Gurjiya
+4394,383,Zakarawa
+4395,383,Dal
+4396,383,Garin Ali
+4397,383,Kwas
+4398,382,Joda
+4399,382,Zugachi
+4400,382,Yautar Kudu
+4401,382,Karmami
+4402,382,Yantar Arewa
+4403,382,Yumbu
+4404,382,Mekiya
+4405,382,Garun Danga
+4406,382,Gabasawa
+4407,382,Zakirai
+4408,382,Tarauni
+4409,384,Garun Babba
+4410,384,Chiromawa
+4411,384,Kadawa
+4412,384,Dorawar-Sallau
+4413,384,Fankurun
+4414,384,Garun Malam
+4415,384,Yad Akwari
+4416,384,Yalwan  Yadakwari
+4417,384,Makwaro
+4418,384,Jobawa
+4419,385,Maimakawa
+4420,385,Gamoji
+4421,385,Gamarya
+4422,385,Gaya Arewa
+4423,385,Shagogo
+4424,385,Wudilawa
+4425,385,Kademi
+4426,385,Kazurawa
+4427,385,Balan
+4428,385,Gaya kudu
+4429,386,Tsamiya-Babba
+4430,386,Babawa
+4431,386,Jogana
+4432,386,Gawo
+4433,386,Tumbau
+4434,386,Ketawa
+4435,386,Wangara
+4436,386,Mesar-Tudu
+4437,386,Zango
+4438,386,Gezawa
+4439,386,Sararin-Gezawa
+4440,387,Dorayi
+4441,387,Kabuga
+4442,387,Sani Mai Magge
+4443,387,Goron Dutse
+4444,387,Gwale
+4445,387,Galadanchi
+4446,387,Diso
+4447,387,Gyaranya
+4448,387,Mandawari
+4449,387,Dandago
+4450,388,Madadi
+4451,388,Unguwar Tudu
+4452,388,Getso
+4453,388,Jama' A
+4454,388,Kara
+4455,388,Kutama
+4456,388,Gwarzo
+4457,388,Mainika
+4458,388,Lakwaya
+4459,388,Sabon Birni
+4460,389,Dugabau
+4461,389,Kanwa
+4462,389,Kabo
+4463,389,Masanawa
+4464,389,Hauwade
+4465,389,Durun
+4466,389,Godiya
+4467,389,Garo
+4468,389,Gammo
+4469,389,Gude
+4470,390,Gandun Albasa
+4471,390,Kankarofi
+4472,390,Sharada
+4473,390,Tudun Wazirchi
+4474,390,Dan'agundi
+4475,390,Jakara
+4476,390,Tudun Nufawa
+4477,390,Sheshe
+4478,390,Zaitawa
+4479,390,Shahuchi
+4480,390,Chedi
+4481,390,Yakasai
+4482,390,Zango
+4483,391,Tudun Kaya
+4484,391,Kwanyawa
+4485,391,Daura
+4486,391,Yola
+4487,391,Unguwar Hajji
+4488,391,Turawa
+4489,391,Kafin Dafga
+4490,391,Yammedi
+4491,391,Karaye
+4492,391,Kurugu
+4493,392,Unguwar Gai
+4494,392,Kadigawa
+4495,392,Fammar
+4496,392,Fassi
+4497,392,Kahu
+4498,392,Tarai
+4499,392,Kibiya II
+4500,392,Durba
+4501,392,Kibiya I
+4502,392,Nariya
+4503,393,Badafi
+4504,393,Yalwa
+4505,393,Dansohiya
+4506,393,Bauda
+4507,393,Dangora
+4508,393,Ba'awa
+4509,393,Kogo
+4510,393,Yako
+4511,393,Dashi
+4512,393,Tsaudawa
+4513,393,Maraku
+4514,393,Galadimawa
+4515,393,Bargoni
+4516,393,Kiru
+4517,393,Zuwo
+4518,394,Mariri
+4519,394,Challawa
+4520,394,Danbare
+4521,394,Panshekara
+4522,394,Chiranchi
+4523,394,Kumbotso
+4524,394,Na'ibawa
+4525,394,Unguwar Rimi
+4526,394,Kureken Sani
+4527,394,Guringawa
+4528,394,Danmaliki
+4529,395,Gwarmai
+4530,395,Kasuwar Kuka
+4531,395,Garin Sheme
+4532,395,Ridawa
+4533,395,Bumai
+4534,395,Shuwaki
+4535,395,Matan Fada
+4536,395,Kunchi
+4537,395,Yandadi
+4538,395,Shamakawa
+4539,396,Dukawa
+4540,396,Dan Hassan
+4541,396,Gundutse
+4542,396,Karfi
+4543,396,Kosawa
+4544,396,Rigar Duka
+4545,396,Dalili
+4546,396,Tanawa
+4547,396,Kurunsumau
+4548,396,Kura
+4549,397,Galinja
+4550,397,Kaura Mata
+4551,397,Kanwa
+4552,397,Burji
+4553,397,Kwankwaso
+4554,397,Kubaraci
+4555,397,Kafin Agur
+4556,397,Rikadawa
+4557,397,Yakun
+4558,397,Madobi
+4559,397,Gora
+4560,397,Cinkoso
+4561,398,Satame
+4562,398,Babbar Riga
+4563,398,Wailare
+4564,398,Tangaji
+4565,398,Maitsidau
+4566,398,Durma
+4567,398,Koguna
+4568,398,Jibga
+4569,398,Makoda
+4570,398,Koren Tatso
+4571,398,Kadandani
+4572,399,Azore
+4573,399,Sarbi
+4574,399,Wasai
+4575,399,Minjibir
+4576,399,Gandurwawa
+4577,399,Tsakiya
+4578,399,Kuru
+4579,399,Kantama
+4580,399,Kunya
+4581,399,Kwarkiya
+4582,399,Tsakuwa
+4583,400,Kaura Goje
+4584,400,Gwagwarwa
+4585,400,Gama
+4586,400,Gawuna
+4587,400,Tudun Murtala
+4588,400,Tudun Wada
+4589,400,Dakata
+4590,400,Hotoro South
+4591,400,Hotoro North
+4592,400,Giginyu
+4593,400,Kawaji
+4594,401,Madachi
+4595,401,Lausu
+4596,401,Rano
+4597,401,Dawaki
+4598,401,Zinyau
+4599,401,Zurgu
+4600,401,Rurum Sabon-Gari
+4601,401,Rurum Tsohon-Gari
+4602,401,Saji
+4603,401,Yalwa
+4604,402,Doka Dawa
+4605,402,Zango Dan Abdu
+4606,402,Dugurawa
+4607,402,Butu-Butu
+4608,402,Gulu
+4609,402,Sakaratsa
+4610,402,Karofin Yashi
+4611,402,Dawakin Gulu
+4612,402,Tamawa
+4613,402,Yalwan Danziyal
+4614,402,Jili
+4615,402,Rimin Gado
+4616,403,Falgore
+4617,403,Gwangwan
+4618,403,Ruwan Bago
+4619,403,Zarewa
+4620,403,Beli
+4621,403,Rogo Ruma
+4622,403,Rogo Sabon Gari
+4623,403,Fulatan
+4624,403,Jajaye
+4625,403,Zoza
+4626,404,Faruruwa
+4627,404,Goron Dutse
+4628,404,Kadamu
+4629,404,Alajawa
+4630,404,Tsaure
+4631,404,Kokiya
+4632,404,Dutsen-Bakoshi
+4633,404,Leni
+4634,404,Shanono
+4635,404,Shakogi
+4636,405,Masu
+4637,405,Magami
+4638,405,Sitti
+4639,405,Gani
+4640,405,Garfa
+4641,405,Sumaila
+4642,405,Rumo
+4643,405,Gala
+4644,405,Kanawa
+4645,405,Rimi
+4646,405,Gediya
+4647,406,Kachako
+4648,406,Bagwaro
+4649,406,Faruruwa
+4650,406,Durbunde
+4651,406,Karfi
+4652,406,Fajewa
+4653,406,Zuga
+4654,406,Takai
+4655,406,Falali
+4656,406,Kuka
+4657,407,Unguwar Gano
+4658,407,Hotoro (NNPC)
+4659,407,Kauyen Alu
+4660,407,Darmanawa
+4661,407,Unguwa Uku
+4662,407,Babban giji
+4663,407,Tarauni
+4664,407,Daurawa
+4665,407,Gyadi-Gyadi Kudu
+4666,407,Gyadi-Gyadi Arewa
+4667,408,Dindere
+4668,408,Gajida
+4669,408,Ginsawa
+4670,408,Tofa
+4671,408,Doka
+4672,408,Yanoko
+4673,408,Yalwa Karama
+4674,408,Jauben Kudu
+4675,408,Kwami
+4676,408,Yarimawa
+4677,408,Wangara
+4678,408,Lambu
+4679,408,Unguwar Rimi
+4680,408,Janguza
+4681,408,Langel
+4682,409,Yankamaye
+4683,409,Yanganau
+4684,409,Zarogi
+4685,409,Dunbulun
+4686,409,Gozaki
+4687,409,Tsanyawa
+4688,409,Daddarawa
+4689,409,Gurun
+4690,409,Kabagiwa
+4691,409,Tatsan
+4692,410,Shuwaki
+4693,410,Karefa
+4694,410,Tsoho Gari
+4695,410,Sabon Gari
+4696,410,Yaryasa
+4697,410,Jandutse
+4698,410,Jita
+4699,410,Nata'ala
+4700,410,Dalawa
+4701,410,Baburi
+4702,410,Burumburum
+4703,411,Yadakunya
+4704,411,Rangaza
+4705,411,Zango
+4706,411,Gayawa
+4707,411,Rijiyar Zaki
+4708,411,Tudun Fulani
+4709,411,Bachirawa
+4710,411,Kadawa
+4711,411,Ungogo
+4712,411,Panisau
+4713,411,Karo
+4714,412,Tangar
+4715,412,J/Galadima
+4716,412,Tamburawar Gabas
+4717,412,Madari Mata
+4718,412,'Yangizo
+4719,412,Garin Dau
+4720,412,Warawa
+4721,412,Gogel
+4722,412,Imawa
+4723,412,Jigawa
+4724,412,'Yan Dalla
+4725,412,Amarawa
+4726,412,Katarkawa
+4727,412,Jemagu
+4728,412,Danlasan
+4729,413,Darki
+4730,413,Achika
+4731,413,Dankaza
+4732,413,Indabo
+4733,413,Utai
+4734,413,Dagumawa
+4735,413,Sabon Gari
+4736,413,Wudil
+4737,413,Kausani
+4738,413,Lajawa
+4739,414,Dawan Musa
+4740,414,Barde/Kwantakwaran
+4741,414,Tsiga
+4742,414,Bakori B
+4743,414,Bakori A
+4744,414,Kurami/Yankwani
+4745,414,Kakumi
+4746,414,Guga
+4747,414,Kabomo
+4748,414,Jargaba
+4749,414,Kandarawa
+4750,415,Yargamji
+4751,415,Tsanni
+4752,415,Batagarawa A
+4753,415,Dandagoro
+4754,415,Kayauki
+4755,415,Ajiwa
+4756,415,Jino
+4757,415,Batagarawa B
+4758,415,Bakiyawa
+4759,415,Barawa
+4760,416,Yauyau/Mallamawa
+4761,416,Darini/Magaji/Abu
+4762,416,Ruma
+4763,416,Manawa
+4764,416,Wagini
+4765,416,Madogara
+4766,416,Batsari
+4767,416,Kandawa
+4768,416,Dan. Alh/Yangaiya
+4769,416,Karare
+4770,416,Abadau/Kagara
+4771,417,Babban Mutum
+4772,417,Taramnawa/Bare
+4773,417,Yanmaulu
+4774,417,Unguwar Rai
+4775,417,Hui
+4776,417,Garki
+4777,417,Yanduna
+4778,417,Mai Bara
+4779,417,Agala
+4780,417,Muduri
+4781,417,Baure
+4782,417,Kagara/Faski
+4783,418,Giremawa
+4784,418,Yangora
+4785,418,Doro
+4786,418,Faru/Dallaji
+4787,418,Shibdawa
+4788,418,Bindawa
+4789,418,Tama/Daye
+4790,418,Gaiwa
+4791,418,Kamri
+4792,418,Baure
+4793,418,Jibawa/R. Bade
+4794,419,Doka
+4795,419,Safana
+4796,419,Charanchi
+4797,419,Banye
+4798,419,Kuraye
+4799,419,Ganuwa
+4800,419,Koda
+4801,419,Majen wayya
+4802,419,Radda
+4803,419,Tsakatsa
+4804,422,Dan Ali
+4805,422,Yan-Tumaki A
+4806,422,Yan-Tumaki B
+4807,422,Dandire 'B'
+4808,422,Dandire A
+4809,422,Mara
+4810,422,Mai Dabino B
+4811,422,Mai Dabino A
+4812,422,Dan Musa B
+4813,422,Dan Alkima
+4814,422,Dan Musa A
+4815,420,Dandume B
+4816,420,Magaji Wando B
+4817,420,Dandume A
+4818,420,Nasarawa
+4819,420,Dantankari
+4820,420,Mahuta B
+4821,420,Tumburkai A
+4822,420,Magaji Wando A
+4823,420,Tumburkai B
+4824,420,Mahuta A
+4825,420,Mahuta C
+4826,421,Jiba
+4827,421,Tandama
+4828,421,Danja B
+4829,421,Tsangamawa
+4830,421,Danja A
+4831,421,Yakaji A
+4832,421,Dabai
+4833,421,Yakaji B
+4834,421,Kahutu A
+4835,421,Kahutu B
+4836,424,Dutsi B
+4837,424,Dutsi A
+4838,424,Yamel A
+4839,424,Dan Aunai
+4840,424,Yamel B
+4841,424,Sirika B
+4842,424,Sirika A
+4843,424,Ruwankaya A
+4844,424,Ruwankaya B
+4845,424,Kayawa
+4846,425,Makera
+4847,425,Dabawa
+4848,425,Dutsin-Ma B
+4849,425,Kuki B
+4850,425,Kuki A
+4851,425,Bagagadi
+4852,425,Kutawa
+4853,425,Shema
+4854,425,Dutsin-Ma A
+4855,425,Karofi B
+4856,425,Karofi A
+4857,426,Yarmalamai
+4858,426,Ruwan Godiya
+4859,426,Tafoki
+4860,426,Mairuwa
+4861,426,Daudawa
+4862,426,Sabonlayi/Galadima
+4863,426,Yankara
+4864,426,Faskari
+4865,426,Sheme
+4866,426,Maigora
+4867,427,Tudun Iya
+4868,427,Maska
+4869,427,Goya
+4870,427,Mai Gamji
+4871,427,Dukke
+4872,427,Sabon Gari
+4873,427,Dandutse
+4874,427,Ung Ibrahim
+4875,427,Unguwar Musa
+4876,427,Unguwar Rabiu
+4877,427,Makera
+4878,428,Agayawa
+4879,428,Yandoma
+4880,428,Dara
+4881,428,Bareruwa/Ruruma
+4882,428,Bidore/Yaya
+4883,428,Manomawa/Kafi
+4884,428,Kurfeji/Yankaura
+4885,428,Jobe/Kandawa
+4886,428,Daunaka/B.Kwari
+4887,428,Ingawa
+4888,428,Dugul
+4889,429,Kusa
+4890,429,Riko
+4891,429,Gangara
+4892,429,Mazanya/Magama
+4893,429,Jibia B
+4894,429,Jibia A
+4895,429,Farfaru
+4896,429,Faru
+4897,429,G/Baure/Mallamawa
+4898,429,Bugaje
+4899,429,Yangaiya
+4900,430,Gozaki
+4901,430,Dutsin Kura/Kanya
+4902,430,Sabuwar Kasa
+4903,430,Yari bori
+4904,430,Masari
+4905,430,Mahuta
+4906,430,Kafur
+4907,430,Yartalata/Rigoji
+4908,430,Dantutture
+4909,430,Gamzago
+4910,431,Dankama
+4911,431,Matsai
+4912,431,Yandaki
+4913,431,Dankaba
+4914,431,Baawa
+4915,431,Girka
+4916,431,Abdallawa
+4917,431,Yanhoho
+4918,431,Gafiya
+4919,431,Kaita
+4920,432,Garagi
+4921,432,Zango/Zabaro
+4922,432,Wawar Kaza
+4923,432,Pauwa A&B
+4924,432,Dan Murabu
+4925,432,Gatakawa s/Gari/Mabai
+4926,432,Kankara A&B
+4927,432,Hurya
+4928,432,Kukasheka
+4929,432,Burdugau
+4930,432,Dan'maidaki
+4931,433,Kunduru/Gyaza
+4932,433,Kafinsoli
+4933,433,Sukuntuni
+4934,433,Kafin Dangi/Fakuwa
+4935,433,Galadima 'A'
+4936,433,Tafashiya/Nasarawa
+4937,433,Gachi
+4938,433,Galadima 'B'
+4939,433,Magam/Tsa
+4940,433,Rimaye
+4941,434,Wakili Kudu III
+4942,434,Wakilin Yamma II
+4943,434,Wakilin Yamma I
+4944,434,Wakilin Arewa (A)
+4945,434,Wakilin Kudu I
+4946,434,Wakilin Kudu II
+4947,434,Wakilin Arewa (B)
+4948,434,Shinkafi 'A
+4949,434,Shinkafi 'B'
+4950,434,Wakilin Gabas II
+4951,434,Wakilin Gabas I
+4952,434,Kangiwa
+4953,435,Tsauri 'A'
+4954,435,Tsauri 'B'
+4955,435,Wurma 'B'
+4956,435,Wurma 'A'
+4957,435,Birchi
+4958,435,Rawayau 'A'
+4959,435,Rawayau 'B'
+4960,435,Barkiyya
+4961,435,Kurfi 'A'
+4962,435,Kurfi 'B'
+4963,436,Yashe 'B'
+4964,436,Yashe 'A
+4965,436,Kofa
+4966,436,Dudunni
+4967,436,Mawashi
+4968,436,Boko
+4969,436,Kusada
+4970,436,Kaikai
+4971,436,Bauranya 'A'
+4972,436,Bauranya 'B'
+4973,437,Koza
+4974,437,Mai Koni 'A'
+4975,437,Mai Koni 'B'
+4976,437,Mai'adua 'A'
+4977,437,Mai'adua 'B'
+4978,437,Mai'adua 'C'
+4979,437,Bumbum 'a'
+4980,437,Bumbum 'B'
+4981,437,Natsalle
+4982,437,Danyashe
+4983,438,Karfi
+4984,438,Rawan Sanyi
+4985,438,Yaba
+4986,438,Borin Dawa
+4987,438,Malum Fashi 'B'
+4988,438,Malum Fashi 'A'
+4989,438,Na-Alma
+4990,438,Dayi
+4991,438,Yarmama
+4992,438,Dansarai
+4993,438,Makaurachi
+4994,438,Gorar Dansaka
+4995,439,Muduru
+4996,439,Tsagem/Takusheyi
+4997,439,Jani
+4998,439,Machika
+4999,439,Kwatta
+5000,439,Duwan/Makau
+5001,439,Bujawa/Gewayau
+5002,439,Mani
+5003,439,Hamcheta
+5004,439,Bagiwa
+5005,439,Magami
+5006,440,S/rijiya
+5007,440,Bamble
+5008,440,Tamilo 'B'
+5009,440,Doguru 'B'
+5010,440,Doguru 'A'
+5011,440,Tamilo 'A'
+5012,440,Gallu
+5013,440,Jigawa
+5014,440,Mashi
+5015,440,Sonkaya
+5016,440,Karau
+5017,441,Gwarjo
+5018,441,Mazoji 'A'
+5019,441,Mazoji 'B'
+5020,441,Sayaya
+5021,441,Matazu 'B'
+5022,441,Matazu 'A
+5023,441,Karaduwa
+5024,441,Kogari
+5025,441,Dissi
+5026,441,Rinjin idi
+5027,442,Tuge
+5028,442,Dangani
+5029,442,Musawa
+5030,442,Danjanku/Karachi
+5031,442,Gingin
+5032,442,Garu
+5033,442,Kurkujan 'B'
+5034,442,Jikamshi
+5035,442,Kira
+5036,442,Yaradau/Tabanni
+5037,442,Kurkujan 'A'
+5038,443,Makurda
+5039,443,Masabo/Kurabau
+5040,443,Tsagero
+5041,443,Abukur
+5042,443,Rimi
+5043,443,Fardami
+5044,443,Majengobir
+5045,443,Kadandani
+5046,443,Sabon Garin/Alarain
+5047,443,Remawa/Iyatawa
+5048,444,Gazari
+5049,444,Rafin Iwa
+5050,444,Sabuwa 'B'
+5051,444,Sabuwa 'A'
+5052,444,Maibakko
+5053,444,Machika
+5054,444,Dugun Mu'azu
+5055,444,Sayau
+5056,444,Damari
+5057,444,Gamji
+5058,446,Karkarku
+5059,446,Kwasarawa
+5060,446,Kagare
+5061,446,Katsayal
+5062,446,Rade 'A'
+5063,446,Sandamu
+5064,446,Fago 'A'
+5065,446,Fago 'B'
+5066,446,Rade 'B'
+5067,446,Daneji 'A'
+5068,446,Daneji 'B'
+5069,447,Kawarin Kudi
+5070,447,Garni
+5071,447,Dargage
+5072,447,Zango
+5073,447,Sara
+5074,447,Rogogo/Cidari
+5075,447,Kawarin Malawamai
+5076,447,Kanda
+5077,447,Yardaje
+5078,447,Gwamba
+5079,423,Madobi A
+5080,423,Madobi B
+5081,423,Mazoji B
+5082,423,Mazoji A
+5083,423,Unbadawaki b
+5084,423,Sarkin Yara A
+5085,423,Tudun Wada
+5086,423,Sabon Gari
+5087,423,Sarkin Yara B
+5088,423,Kusugu
+5089,423,Ubandawaki A
+5090,445,Runka 'B'
+5091,445,Safana
+5092,445,Tsaskiya
+5093,445,Runka 'A'
+5094,445,Baure 'B'
+5095,445,Zakka 'B'
+5096,445,Zakka 'A'
+5097,445,Babban Duhu 'B'
+5098,445,Babban Duhu 'A'
+5099,445,Baure 'A'
+5100,448,Danwarai
+5101,448,Aliero S/Fada II
+5102,448,Rafin Bauna
+5103,448,Aliero  Dangaladima II
+5104,448,Jiga Makera
+5105,448,Sabiyal
+5106,448,Kashin Zama
+5107,448,Jiga Birni
+5108,448,Aliero  Dangaladima I
+5109,448,Aliero S/Fada I
+5110,449,Gumumdai/Rafin Tsaka
+5111,449,Chibike
+5112,449,Kangiwa
+5113,449,Gorun Dikko
+5114,449,Falde
+5115,449,Feske/Jaffeji
+5116,449,Biu
+5117,449,Daura/Sakkwabe/Jarkuka
+5118,449,Laima/Jantullu
+5119,449,Sarka/Dantsoho
+5120,449,Yeldu
+5121,450,Sauwa/Kaurar Sani
+5122,450,Gulma
+5123,450,Alwasa/Gotomo
+5124,450,Tungar Zazzagawa/Rumbuki/Sarkawa
+5125,450,Lailaba
+5126,450,Felande
+5127,450,Gwazange/Kisawa/Ugyaga
+5128,450,Kokani South
+5129,450,Kokani North
+5130,450,Galadima
+5131,450,Dikko
+5132,451,Birnin Tudu/Gudale
+5133,451,Bayawa North
+5134,451,Bayawa South
+5135,451,Augie South
+5136,451,Yola
+5137,451,Augie North
+5138,451,Tiggi/Awade
+5139,451,Dundaye/Kwaido/Zagi/Illela
+5140,451,Bagaye/Mera
+5141,451,Bubuce
+5142,452,Lolo/Giris
+5143,452,Illo/Sabon/Gari/Yantau
+5144,452,Bani/Tsamiya/Kali
+5145,452,Kaoje/Gwamba
+5146,452,Lafagu/Gante
+5147,452,Bahindi/Boki-Doma
+5148,452,Zagga/Kwasara
+5149,452,Matsinka/Geza
+5150,452,Bagudo/Tuga
+5151,452,Kende/Kurgu
+5152,452,Sharabi/Kwanguwai
+5153,453,Nassarawa II
+5154,453,Birnin Kebbi Dangaladima
+5155,453,Birnin Kebbi Mafara
+5156,453,Nassarawa I
+5157,453,Godongaji
+5158,453,Kardi/Yamama
+5159,453,Gulumbe
+5160,453,Laga
+5161,453,Gawasu
+5162,453,Kola /Tarasa
+5163,453,Makera
+5164,453,Maurida /Karyo/Ung. Mijin-Nana
+5165,453,Zauro
+5166,453,Ambursa
+5167,453,Ujariyo
+5168,455,Kamba / Kamba
+5169,455,Maihausawa
+5170,455,Kyangakwai
+5171,455,Geza
+5172,455,Maigwaza
+5173,455,Dolekaina
+5174,455,Buma
+5175,455,Kwakkwaba
+5176,455,Bani Zumbu
+5177,455,Fana
+5178,455,Shiko
+5179,456,Penin Amana/Penin Gaba
+5180,456,Gulbin Kuka/Maijarhula
+5181,456,Fakai/Zussun
+5182,456,Marafa
+5183,456,Kangi
+5184,456,Bangu/Garinisa
+5185,456,Bajida
+5186,456,Inga(Bulu) Maikende
+5187,456,Birnin Tudu
+5188,456,Mahuta
+5189,457,Gulmare
+5190,457,Kambaza
+5191,457,Dalijan
+5192,457,Cheberu/Bada
+5193,457,Gwandu Sarkin Fawa
+5194,457,Dodoru
+5195,457,Malisa
+5196,457,Maruda
+5197,457,Gwandu Marafa
+5198,457,Masama Kwasgara
+5199,458,Dunbegu/Bausara
+5200,458,Dangamaji
+5201,458,Gindi/Nassarawa/Kyarmi/Galbi
+5202,458,Jega Firchin
+5203,458,Jega Magaji 'B'
+5204,458,Jega Magaji 'A'
+5205,458,Jega Kokani
+5206,458,Kimba
+5207,458,Katanga/Fagada
+5208,458,Alelu/Gehuru
+5209,458,Jandutsi/Birnin Malam
+5210,459,Badariya/Magarza
+5211,459,Dangoma/Gayi
+5212,459,Etene
+5213,459,Kalgo
+5214,459,Mutubari
+5215,459,Wurogauri
+5216,459,Diggi
+5217,459,Zuguru
+5218,459,Kuka
+5219,459,Nayilwa
+5220,460,Zariya Kalakala/Amiru
+5221,460,Dutsin Mari/Dulmeru
+5222,460,Madacci/Firini
+5223,460,Besse
+5224,460,Takware
+5225,460,Maikwari/ Karamar/ Damba/ Bakoshi
+5226,460,Koko Fircin
+5227,460,Koko Magaji
+5228,460,Illela/S/Gari
+5229,460,Dada/Alelu
+5230,460,Jadadi
+5231,460,Lani/Manyan/Tafukka/Shiba
+5232,461,Liba/Danwa/Kuka Kogo
+5233,461,Andarai/ Kurunkwu/ Zongun Liba
+5234,461,Sarandosa/Gubba
+5235,461,Karaye/Dogondaji
+5236,461,Kawara/S/Sara/Yarkamba
+5237,461,Mungadi/Botoro
+5238,461,Maiyama
+5239,461,Giwa Tazo/Zara
+5240,461,Kuben Rigidiga
+5241,461,Gumbin Kure
+5242,461,Sambawa/Mayalo
+5243,462,Ngaski
+5244,462,Libata/Kwangia
+5245,462,Wara
+5246,462,Kwakwaran
+5247,462,Gafara Machupa
+5248,462,Makawa Uleira
+5249,462,Utono/Hoge
+5250,462,Garin Baka/Makarin
+5251,462,Birnin Yauri
+5252,462,Kambuwa/Danmaraya
+5253,463,Dankolo
+5254,463,Makuku
+5255,463,Doka/Bere
+5256,463,Adai
+5257,463,Sakaba
+5258,463,Janbirni
+5259,463,Gelwasa
+5260,463,Maza/Maza
+5261,463,Tudun Kuka
+5262,463,Fada
+5263,464,Sokage/Golongo/Hundeji
+5264,464,Binuwa/Gebe/Bunkuji
+5265,464,Sawashi
+5266,464,Shanga
+5267,464,Yarbesse
+5268,464,Dugu Tsoho/Dugu Raha
+5269,464,Kawara/Ingu/Sargo
+5270,464,Rafin Kirya/Tefki Tara
+5271,464,Takware
+5272,464,Atuwo
+5273,465,Aljannare
+5274,465,Barbarejo
+5275,465,Dakingari
+5276,465,Kwaifa
+5277,465,Bandan
+5278,465,Giro
+5279,465,Bakuwai
+5280,465,Suru
+5281,465,Daniya/Shema
+5282,465,Dendane
+5283,465,Ginga
+5284,466,Ayu
+5285,466,Bena
+5286,466,Dan Umaru/Mairairai
+5287,466,Ribah/Machika
+5288,466,Kanya
+5289,466,Waje
+5290,466,Wasagu
+5291,466,Kyabu/Kandu
+5292,466,Danko/Maga
+5293,466,Yalmo/Shindi
+5294,466,Gwanfi/Kele
+5295,468,Senchi
+5296,468,Manga/Ushe
+5297,468,Isgogo /Dago
+5298,468,Rumu/Daben/Seme
+5299,468,Tadurga
+5300,468,Bedi
+5301,468,Rafin Zuru
+5302,468,Zodi
+5303,468,Ciroman Dabai
+5304,468,Rikoto
+5305,454,Raha
+5306,454,Maidahini
+5307,454,Bunza Marafa
+5308,454,Bunza Dangaladima
+5309,454,Gwade
+5310,454,Tilli/Hilema
+5311,454,Sabon Birni
+5312,454,Salwai
+5313,454,Tunga
+5314,454,Zogrima
+5315,467,Chulu/Koma
+5316,467,Jijima
+5317,467,Zamare
+5318,467,Gungun Sarki
+5319,467,Tondi
+5320,467,Yelwa East
+5321,467,Yelwa West
+5322,467,Yelwa South
+5323,467,Yelwa Central
+5324,467,Yelwa North
+5325,469,Adavi-Eba
+5326,469,Okunchi/Ozuri/Onieka
+5327,469,Ege/Iruvochinomi
+5328,469,Nagazi Farm Center
+5329,469,Ogaminana
+5330,469,Iruvucheba
+5331,469,Ino Ziomi/Ipaku/Osisi
+5332,469,Kuroko II
+5333,469,Kuroko I
+5334,469,Ikaraworo/Idobanyere
+5335,470,Ebiya North
+5336,470,Ebiya South
+5337,470,Abodi/Patesi
+5338,470,Badoko
+5339,470,Ogigiri
+5340,470,Achagana
+5341,470,Omgbo
+5342,470,Odonu/Unosi
+5343,470,Adogu/Apamira/Ogodo Uhuovene
+5344,470,Obangede/Ohunene/Ukoko Inye're
+5345,470,Ganaga/Township
+5346,471,Ankpa Suburb II
+5347,471,Ankpa I
+5348,471,Ankpa Suburb I
+5349,471,Ankpa II
+5350,471,Ojoku IV
+5351,471,Ojoku III
+5352,471,Ankpa Township
+5353,471,Ojoku I
+5354,471,Ojoku II
+5355,471,Enjema I
+5356,471,Enjema II
+5357,471,Enjema III
+5358,471,Enjema IV
+5359,472,Gboloko
+5360,472,Kpata
+5361,472,Akuba II
+5362,472,Mozum
+5363,472,Ayede/Akakana
+5364,470,Adodo
+5365,470,Ichuwa/Upaja
+5366,472,Ikende
+5367,472,Ozugbe
+5368,472,Ozongulo/Kpanche
+5369,472,Akuba I
+5370,473,Ogbabede
+5371,473,Abocho
+5372,473,Anyigba
+5373,473,Ojikpadala
+5374,473,Adumu Egume
+5375,473,Okura Olafia
+5376,473,Dekina Town
+5377,473,Iyale
+5378,473,Odu II
+5379,473,Odu I
+5380,473,Ogane Inigu
+5381,474,Ujeh
+5382,474,Ayah
+5383,474,Ojila
+5384,474,Odeke
+5385,474,Akpanyo
+5386,474,Analo
+5387,474,Iyano
+5388,474,Onyedega
+5389,474,Ejule
+5390,474,Unale
+5391,475,Ichala
+5392,475,Ogegele
+5393,475,Ede
+5394,475,Sabon Gari
+5395,475,Ega
+5396,475,Igalaogba
+5397,475,Owoli Apa
+5398,475,Igecheba
+5399,475,Ukwaja
+5400,476,Ajaka I
+5401,476,Ajaka II
+5402,476,Oforachi I
+5403,476,Oforachi II
+5404,476,Ekwuloko
+5405,476,Avrugo
+5406,476,Oji-Aji
+5407,476,Ubele
+5408,476,Akpanya
+5409,477,Iyamoye
+5410,477,Aiyere/Arimah
+5411,477,Ileteju/Origa
+5412,477,Ibgolayere/Ilaere
+5413,477,Ogidi
+5414,477,Iyara
+5415,477,Iffe/Ikoyi/Okejumu
+5416,477,Ekinrin Ade
+5417,477,Egbeda Egga/Okedayo
+5418,477,Ogale/Aduge
+5419,477,Aiyegunle
+5420,477,Aiyetoro I
+5421,475,Ugwoda
+5422,476,Odolu
+5423,477,Aiyetoro II
+5424,477,Iyah/Ayeh
+5425,477,Odokoro
+5426,478,Okedayo
+5427,478,Egbeda
+5428,478,Otu
+5429,478,Odolu
+5430,478,Aiyewa
+5431,478,Asuta
+5432,478,Aiyeteju
+5433,478,Odo-Akete
+5434,478,Akutupa-Kiri
+5435,478,Aiyetoro-Kiri
+5436,478,Iluke
+5437,478,Okebukun
+5438,478,Olle/Oke-Ofin
+5439,478,Odo-Ape
+5440,479,Irenodu
+5441,479,Akpasu
+5442,479,Koton-Karfe South East
+5443,479,Tawari
+5444,479,Ukwo-Koton-Karfe
+5445,479,Odaki-Koton-Karfe
+5446,479,Girinya
+5447,479,Gegu-Beki South
+5448,479,Gegu-Beki North
+5449,479,Chikara South
+5450,479,Chikara North
+5451,480,Lokoja-A
+5452,478,Okekoko
+5453,480,Lokoja-D
+5454,480,Lokoja-C
+5455,480,Lokoja-B
+5456,480,Lokoja-E
+5457,480,Kakanda
+5458,480,Kupa North East
+5459,480,Kupa South West
+5460,480,Eggan
+5461,480,Oworo
+5462,481,Odole I
+5463,481,Odole II
+5464,481,Ileteju I
+5465,481,Okeagi/Ilai
+5466,481,Illeteju II
+5467,481,Aiyede/Okagi
+5468,481,Orokere
+5469,481,Agbafogun
+5470,481,Aiyedayo/Aiyedaro
+5471,481,Takete Idde/Otafun
+5472,482,Itobe/Okokenyi
+5473,482,Aloji
+5474,482,Ugwolawo II
+5475,482,Ugwolawo I
+5476,482,Ochadamu
+5477,482,Ejule Allah
+5478,482,Igo
+5479,482,Aloma
+5480,482,Ogbonicha
+5481,482,Iboko/Efakwu
+5482,483,Ugugu
+5483,483,Oturu Opowuroye
+5484,483,Obinoyin
+5485,483,Aiyeromi
+5486,483,Obatgben
+5487,483,Ileteju
+5488,473,Emewe
+5489,472,Eforo
+5490,482,Ofoke
+5491,483,Okesi
+5492,483,Okibo
+5493,483,Eni
+5494,484,Obaroke Uvete
+5495,484,Ohueta
+5496,484,Oboroke Eba
+5497,484,Oboroke Uvete II
+5498,484,Obaiba II
+5499,484,Okuehu
+5500,484,Ohuepe/Omavi Uboro
+5501,484,Okaito/Usungwen
+5502,484,Obaiba I
+5503,484,Obangede/Uhuodo
+5504,484,Eika/Ohizenyi
+5505,470,Old Ajaokuta
+5506,485,Obehira Uvetta
+5507,485,Obehira Eba
+5508,485,Bariki
+5509,485,Obessa
+5510,485,Okene-Eba/Agassa/Ahache
+5511,483,Oshobane
+5512,485,Otutu
+5513,485,Orietesu
+5514,485,Idoji
+5515,485,Upogoro/Odenku
+5516,485,Onyukoko
+5517,469,Idanuhua
+5518,485,Abuga/Ozuja
+5519,486,Ogugu I
+5520,486,Ogugu II
+5521,486,Ogugu III
+5522,486,Olamaboro III
+5523,486,Imane I
+5524,486,Imane II
+5525,486,Olamaboro i
+5526,486,Olamaboro II
+5527,486,Olamaboro IV
+5528,486,Olamaboro V
+5529,487,Olla
+5530,487,Ogodu
+5531,487,Oji-Aji
+5532,487,Opoda/Ofejiji
+5533,487,Akpacha
+5534,487,Icheke Ajopachi
+5535,487,Abejukolo I
+5536,487,Abejukolo
+5537,487,Okpatala
+5538,487,Bagana
+5539,488,Alu/Igbagun/Okanre
+5540,488,Ife Olukotun II
+5541,488,Ife Olukotun I
+5542,488,Ponyan
+5543,488,Jege/Oke/Agi Ogbom/Isao
+5544,488,Ejuku
+5545,488,Ilafin/Idofin/Odo-Ogba
+5546,488,Makutu I
+5547,488,Makutu II
+5548,487,Bagaji
+5549,488,Itedo
+5550,489,Ogbe
+5551,489,Odo Ara Omi Ogga
+5552,489,Odo Ere Oke Ere
+5553,489,Isaulu Esa/Okoloke/Okunran
+5554,489,Odo Eri Okoto
+5555,489,Ejiba
+5556,489,Iyamerin/Igbaruku
+5557,489,Oke Egbe I
+5558,489,Oke Egbe II
+5559,489,Oke Egbe III
+5560,489,Oke Egbe IV
+5561,489,Odo Egbe I
+5562,489,Odo Egbe II
+5563,489,Odo Egbe
+5564,491,Yashikira
+5565,491,Gure/Gwasoro
+5566,491,Boriya/Shiya
+5567,491,Okuta
+5568,491,Gwedebereru/Babane
+5569,491,Shinawu/Tunbuyan
+5570,491,Ilesha
+5571,491,Gwanara
+5572,491,Kenu/Taberu
+5573,491,Kpaura/Yakiru
+5574,491,Kiyoru/Bwen
+5575,500,Wajibe
+5576,500,Kaima III
+5577,500,Kemanji
+5578,500,Kaiama II
+5579,500,Gwanabe I
+5580,500,Adena
+5581,500,Bani
+5582,501,Jebba
+5583,501,Ejidongari
+5584,501,Logun/Jehunkunnu
+5585,501,Bode-Saadu
+5586,501,Okutala
+5587,501,Womi/Ayaki
+5588,501,Arobadi
+5589,501,Malete/Gbugudu
+5590,501,Pakunmo
+5591,501,Ajanaku
+5592,501,Oloru
+5593,501,Okemi
+5594,501,Shao
+5595,501,Babadudu
+5596,501,Lanwa
+5597,492,Tsaragi II
+5598,492,Tsaragi I
+5599,492,Tsonga II
+5600,492,Tsonga I
+5601,492,Tsonga III
+5602,492,Tsaragi III
+5603,492,Lafiagi IV
+5604,492,Lafiagi III
+5605,492,Lafiagi I
+5606,492,Lafiagi II
+5607,505,Lade III
+5608,505,Lade II
+5609,505,Lade I
+5610,505,Pategi IV
+5611,505,Pategi II
+5612,505,Kpada III
+5613,505,Pategi I
+5614,505,Pategi III
+5615,505,Kpada II
+5616,505,Kpada I
+5617,494,Share V
+5618,494,Share IV
+5619,494,Share III
+5620,494,Share II
+5621,494,Share I
+5622,494,Oke-Ode II
+5623,494,Oke-Ode I
+5624,494,Oke-Ode III
+5625,494,Ile-Ire
+5626,494,Oro-Ago
+5627,494,Ora
+5628,494,Agunjin
+5629,494,Igbaja I
+5630,494,Igbaja III
+5631,494,Idofian I
+5632,494,Idofian II
+5633,494,Omupo
+5634,496,Akanbi II
+5635,496,Akanbi IV
+5636,496,Akanbi III
+5637,496,Balogun-Fulani III
+5638,496,Okaka I
+5639,496,Akanbi I
+5640,496,Akanbi V
+5641,496,Balogun-Fulani I
+5642,496,Balogun-Fulani II
+5643,496,Okaka II
+5644,496,Oke-Ogun
+5645,495,Magaji Are II
+5646,495,Magaji Are I
+5647,495,Ibagun
+5648,495,Iponrin
+5649,495,Apado
+5650,495,Marafa/Pepele
+5651,497,Ogidi
+5652,497,Ojuekun/Zarumi
+5653,497,Oloje
+5654,497,Warrah/Egbe Jila/Oshin
+5655,503,Idofin/Odo-Ashe
+5656,503,Idofin Igbana I
+5657,503,Idofin Igbana I
+5658,503,Odo-Owa I
+5659,503,Odo-Owa II
+5660,503,Iloffa
+5661,503,Aiyedun
+5662,503,Imoji/Ilale/Erinmope
+5663,503,Ekan
+5664,493,Oke-Opin/Etan
+5665,493,Osi I
+5666,493,Osi II
+5667,493,Opin
+5668,493,Isapa
+5669,493,Eruku
+5670,493,Koro
+5671,493,Obbo-Ile
+5672,493,Obbo-Aiyeggunle II
+5673,493,Obbo-Aiyeggunle I
+5674,499,Olla
+5675,499,Sabaja/Pamo
+5676,499,Iwo
+5677,499,Owu Isin
+5678,499,Oke Aba
+5679,499,Alla
+5680,499,Edidi
+5681,499,Ijara
+5682,499,Oke Onigbin
+5683,499,Isanlu
+5684,499,Isanlu I
+5685,498,Oko
+5686,498,Omu-Aran II (Ihaye)
+5687,498,Omu-Aran I (Aran)
+5688,498,Ipetu/Rore/Aran-Orin
+5689,498,Arandun
+5690,498,Esie/Ijan
+5691,498,Ajase Ipo II
+5692,498,Oro II
+5693,498,Oro I
+5694,498,Ajase Ipo I
+5695,502,Balogun
+5696,502,Shawo South East
+5697,502,Ojomu Central II
+5698,502,Ojomu South East
+5699,502,Shawo South West
+5700,502,Shawo Central
+5701,502,Essa-A
+5702,502,Essa-B
+5703,502,Essa-C
+5704,502,Ojomu North/North West
+5705,502,Ojomu Central I
+5706,502,Igboidun
+5707,504,Igosun
+5708,504,Erin-Ile North
+5709,504,Ilemona
+5710,504,Erin-Ile South
+5711,504,Inaja/Ahogbada
+5712,504,Irra
+5713,504,Igbona
+5714,504,Ikotun
+5715,504,Ijagbo
+5716,504,Ojoku
+5717,504,Ipee
+5718,490,Ila-Oja
+5719,490,Odo-Ode/Aboto
+5720,490,Afon
+5721,490,Okesho
+5722,490,Budo-Egba
+5723,490,Ballah/Otte
+5724,490,Owode/Gbogun
+5725,490,Ago-Oja/Oshin/Sapati/Laduba
+5726,490,Ogbondoroko/Reke
+5727,490,Ogele
+5728,490,Efue/Berikodo
+5729,490,Adigbongbo/Awe/Orimaro
+5730,490,Yowere/Sosoki
+5731,490,Elebue/Agbona/Fata
+5732,490,Yowere II/Okeweru
+5733,490,Onire/Odegiwa/Alapa
+5734,501,Megida
+5735,501,Abati/Alara
+5736,494,Igbaja II
+5737,495,Gambari I
+5738,495,Balogun Gambari II
+5739,495,Zango
+5740,495,Maya/Ile-Apa
+5741,495,Oke Oyi/Oke Ose/Alalubosa
+5742,495,Agbeyangi/Gbadamu/Osin
+5743,497,Ajikobi
+5744,497,Adewole
+5745,497,Magaji Ngeri
+5746,497,Baboko
+5747,497,Oko-Erin
+5748,497,Balogun Alanamu Central
+5749,497,Badari
+5750,497,Ubandawaki
+5751,490,Gambari/Aiyekale
+5752,500,Gwaria
+5753,500,Gwanabe II
+5754,500,Kaiama I
+5755,498,Omu-Aran III (Ifaja)
+5756,503,Imode/Egosi
+5757,506,Keke
+5758,506,Darocha
+5759,506,Iloro/Onipetesi
+5760,506,Isale/Idimangoro
+5761,506,oniwaya/Papa-Uku
+5762,506,Agbotikuyo/Dopemu
+5763,506,Oyewole/Papa Ashafa
+5764,506,Isale Odo
+5765,506,Okekoto
+5766,506,Tabon Tabon/Oko Oba
+5767,506,Orile Agege/Oko Oba
+5768,507,Ago Hausa
+5769,507,Tolu
+5770,507,Temidire I
+5771,507,Temidire II
+5772,507,Wilmer
+5773,507,Olodi
+5774,507,Awodi-Ora
+5775,507,Layeni
+5776,507,Mosafejo
+5777,507,Alaba Oro
+5778,507,Ojo Road
+5779,508,Shasha/Akowonjo
+5780,508,Egbeda/Alimosho
+5781,508,Pleasure/Oke-Odo
+5782,508,Abule-Egba/Aboru/Meiran/Alagbado
+5783,508,Ipaja South
+5784,508,Ipaja North
+5785,508,Ayobo/Ijon Village (Camp David)
+5786,508,Igando/Egan
+5787,508,Idimu/Isheri Olofin
+5788,508,Egbe/Agodo
+5789,508,Ikotun/Ijegun
+5790,509,Igbologun
+5791,509,Ibeshe
+5792,509,Irede
+5793,509,Kirikiri
+5794,509,Ijegun
+5795,509,Satellite
+5796,509,Amuwo
+5797,509,Amuwo-Odofin Housing Estate Mile 2
+5798,509,Festac III
+5799,509,Festac II
+5800,509,Festac I
+5801,510,Sari and Environs
+5802,510,Olodan st Olojowou st/Alhdogo Olatokunbo st Iganmu
+5803,510,Gaskiya & Environs
+5804,510,Afolabi Alasia str. And Environs
+5805,510,Ijora-Oloye
+5806,510,Apapa III (Creek rd. Tincan/Snake Island)
+5807,510,Apapa IV (Pelewura Crescent and Environs)
+5808,510,Apapa II (Liverpool rd. and Environs)
+5809,510,Malu road and Environs
+5810,510,Apapa i (Marine rd. & Environs)
+5811,511,Ilogbo-Araromi
+5812,511,Iworo Gbanko
+5813,511,Ajido
+5814,511,Awhanjigoh
+5815,511,Ikoga
+5816,511,Ibereko
+5817,511,Posukoh
+5818,511,Ajara
+5819,511,Iya-afin
+5820,511,Apa
+5821,511,Keta-east
+5822,512,Agbowa Ikosi
+5823,512,Agbowa
+5824,512,Ago Owu
+5825,512,Itoikin
+5826,512,Orugbo
+5827,512,Ejirin
+5828,512,Odoragunsin
+5829,512,Poka
+5830,512,Odomola
+5831,512,Ilara
+5832,512,Ibonwon
+5833,512,Ise/Igbogun
+5834,512,Abomiti
+5835,512,Oriba/Ladaba
+5836,512,Ajaganabe
+5837,512,Etita/Ebode
+5838,512,Oke-Balogun
+5839,512,Popo-Oba
+5840,512,lagbade
+5841,513,Victoria Island I
+5842,513,Ado/Langbasa/Badore
+5843,513,Ajah/Sangotedo
+5844,513,Lekki/Ikate and Environs
+5845,513,Ilado/Eti-Osa and Environs
+5846,513,Ilasan Housing Estate
+5847,513,Victoria Island II
+5848,513,Obalende
+5849,513,Ikoyi I
+5850,513,Ikoyi II
+5851,515,Pamada/Abule-Egba
+5852,515,New Ifako/Oyemekun
+5853,515,Ijaye
+5854,515,Old Ifako/Karaole
+5855,515,Fagba/Akute road
+5856,515,Iju-Obawole
+5857,515,Iju Isaga
+5858,515,Ijaiye/Ojokoro
+5859,515,Ijaiye/Agbado/Kollington
+5860,515,Alakuko/Kollington
+5861,515,Ajegunle/Akinde/Animashaun
+5862,516,Airport/Onipetesi/Inilekere
+5863,516,Anifowoshe/Ikeja
+5864,516,Ipodo/Seriki Aro
+5865,516,Adekunle Vill./Adeniyi Jones/Ogba
+5866,516,Oke-ira/Aguda
+5867,516,Ojodu/Agidingbi/Omole
+5868,516,Alausa/Oregun/Olusosun
+5869,516,Wasimi/Opebi/Allen
+5870,516,Gra/Police Barracks
+5871,516,Onigbongbon
+5872,517,Imota II
+5873,517,Imota I
+5874,517,Ijede I
+5875,517,Agura/Iponmi
+5876,517,Isiu
+5877,517,Baiyeku/Oreta
+5878,517,Igbogbo I
+5879,517,Ibeshe
+5880,517,Ipakodo
+5881,517,Olorunda/Igbaga
+5882,517,Aga/Ijimu
+5883,517,Isele II
+5884,517,Isele III
+5885,517,Isele I
+5886,517,Erikorodu
+5887,517,Agbala
+5888,517,Odogunyan
+5889,517,Igbogbo II
+5890,517,Ijede II
+5891,518,Oworonshoki
+5892,518,Ifako/Soluyi
+5893,518,Anthony/Ajao Estate/Mende/Maryland
+5894,518,Ojota/Ogudu
+5895,518,Isheri-Olowo-Ira/Shangisha/Magodo Phase I & II
+5896,518,Owode Onirin/Ajegunle/Odo-Ogun
+5897,518,Ikosi Ketu/Mile 12/Agiliti/Maidan
+5898,518,Ketu/Alapere/Agidi/Orisigu/Kosofe/Ajelogo/Akanimod
+5899,518,Agboyi I
+5900,518,Agboyi II
+5901,519,Olowogbowo/Elegbata
+5902,519,Oluwole
+5903,519,Oko-awo
+5904,519,Idumota/Oke
+5905,519,Oju-Oto
+5906,519,Agarawu/Obadina
+5907,519,Iduntafa
+5908,519,Ilupesi
+5909,519,Isale-Agbede
+5910,519,Olosun
+5911,519,Oko-faji
+5912,519,Olushi/Kakawa
+5913,519,Anikantamo
+5914,519,Popo-Aguda
+5915,519,Sandgrouse
+5916,519,Eiyekole
+5917,519,Epetedo
+5918,519,Onikan
+5919,519,Lafiaji/Ebute
+5920,520,Oyadiran Estate/Abule-Oja
+5921,520,Iwaya
+5922,520,Yaba/Igbobi
+5923,520,Alagomeji
+5924,520,Maroko/Ebute Metta
+5925,520,Glover/Ebute Metta
+5926,520,Oko-Baba
+5927,520,Olaleye Village
+5928,520,Oyingbo Market/Ebute Metta
+5929,520,Epetedo
+5930,520,Otto/Iddo
+5931,521,Ilupeju Industrial Estate
+5932,521,Ilupeju
+5933,521,Ojuwoye
+5934,521,Olateju
+5935,521,Babalosa
+5936,521,Mushin/Atewolara
+5937,521,Idi-Oro/Odi-Olowu
+5938,521,Kayode/Fadeyi
+5939,521,Alakara
+5940,521,Papa-Ajao
+5941,521,Idi-Araba
+5942,521,Babalosa/Idi-Araba
+5943,521,Ilasamaja
+5944,521,Itire
+5945,522,Ilogbo
+5946,522,Etegbin
+5947,522,Iba
+5948,522,Ijanikin
+5949,522,Okokomaiko
+5950,522,Ajangbadi
+5951,522,Ojo Town
+5952,522,Sabo
+5953,522,Idoluwo
+5954,522,Irewe
+5955,522,Tafi
+5956,523,Okota
+5957,523,Ilasamaja
+5958,523,Ishagatedo
+5959,523,Isolo
+5960,523,Oke-Afa/Ejigbo
+5961,523,Ajao Estate
+5962,523,Orile-Oshodi
+5963,523,Mafoluku
+5964,523,Oshodi/Bolade
+5965,523,Sogunle
+5966,523,Sogunle/Alasia
+5967,524,Igbobi/Fadeyi
+5968,524,Fola agoro/Bajulaiye/Igbari-Akoka
+5969,524,Ilaje/Akoka
+5970,524,Abule-Okuta/Ilaje/Bariga
+5971,524,Onipanu
+5972,524,Alade
+5973,524,Palmgrove/Ijebutedo
+5974,524,Bajulaiye
+5975,524,Lad-Lak/Bariga
+5976,524,Mafowoku/Pedro
+5977,524,Gbagada Phase I Obanikoro/Pedro
+5978,524,Gbagada Phase II /Bariga/Apelehin
+5979,525,Shitta/Ogunlana Drive
+5980,525,Akinhanmi/Cole
+5981,525,Yaba/Ojuelegba
+5982,525,Adeniran/Ogunsanya
+5983,525,Igbaja/Stadium
+5984,525,Ikate
+5985,525,Itire
+5986,525,Ijeshatedo
+5987,525,Iponri Housing Estate/Eric Moore
+5988,525,Aguda
+5989,525,Coker
+5990,525,Orile
+5991,514,Ibeju i
+5992,514,N2 (Ibeju II)
+5993,514,S2 (Siriwon/Igbekodo I)
+5994,514,Lekki II
+5995,514,Iwerekun II
+5996,514,03 (Orimedu III)
+5997,514,Orimedu I
+5998,514,P1 (Iwerekun I)
+5999,514,S2a (Siriwon/Igbekodo II)
+6000,514,S1 (Lekki I)
+6001,514,02 (Orimedu II)
+6002,526,Anchobaba
+6003,526,Nunku
+6004,526,Andaha
+6005,526,Agyaga
+6006,526,Moroa
+6007,526,Gwanje
+6008,526,Akwanga West
+6009,526,Ningo / Bohar
+6010,526,Ancho Nighaan
+6011,526,Akwanga East
+6012,526,Gudi
+6013,527,Azara
+6014,527,Wuse
+6015,527,Jangaru
+6016,527,Kanje/Abuni
+6017,527,Galadima
+6018,527,Madaki
+6019,527,Tunga
+6020,527,Akiri
+6021,527,Ribi
+6022,527,Makwangiji
+6023,528,Alagye
+6024,528,Doka
+6025,528,Sabon Gari
+6026,528,Madaki
+6027,528,Ungwan Dan Galadima
+6028,528,Madauchi
+6029,528,Ungwan Sarki Dawaki
+6030,528,Akpanaja
+6031,528,Rukubi
+6032,528,Agbashi
+6033,529,Kafin Shanu/Betti
+6034,529,Karshi II
+6035,529,Karshi I
+6036,529,Uke
+6037,529,Agada/Bagaji
+6038,529,Tattara/Kondoro
+6039,529,Gitata
+6040,529,Gurku/Kabusu
+6041,529,Panda / Kare
+6042,529,Karu
+6043,529,Aso / Kodape
+6044,530,Kwara
+6045,530,Kadarko
+6046,530,Galadima
+6047,530,Madaki
+6048,530,Agaza
+6049,530,Aloshi
+6050,530,Iwagu
+6051,530,Oki
+6052,530,Amiri
+6053,530,Obene
+6054,531,Sabon Gari
+6055,531,Jigwada
+6056,531,Ang.Rimi
+6057,531,Keffi Town East / Kofar Goriya
+6058,531,Yara
+6059,531,Angwan Iya I
+6060,531,Liman Abaji
+6061,531,Tudun Kofa T.V
+6062,531,Angwan Iya II
+6063,531,Gangare Tudu
+6064,532,Ninkoro
+6065,532,Garaku
+6066,532,Dari
+6067,532,Hadari
+6068,532,Kokona
+6069,532,Amba
+6070,532,Bassa
+6071,532,Kofar Gwari
+6072,532,Yelwa
+6073,532,Koya  / Kana
+6074,532,Agwada
+6075,533,Arikya
+6076,533,Ashige
+6077,533,Assakio
+6078,533,Adogi
+6079,533,Agyaragun Tofa
+6080,533,Keffin/Wambai
+6081,533,Shabu/Kwandere
+6082,533,Akurba/Bakin Rijiya
+6083,533,Makama
+6084,533,Zanwa
+6085,533,Gayam
+6086,533,Chiroma
+6087,533,Wakwa
+6088,535,Umme
+6089,535,Nasarawa Eggon
+6090,535,Alogani
+6091,535,Wakama
+6092,535,Ubbe
+6093,535,Ende
+6094,535,Lambaga/Arikpa
+6095,535,Kagbu Wana
+6096,535,Ikka Wangibi
+6097,535,Aloce/Ginda
+6098,535,Igga/Burumburum
+6099,535,Agunji
+6100,535,Mada Station
+6101,535,Lizzin Keffi/Ezzen
+6102,534,Ara I
+6103,534,Ara II
+6104,534,Laminga
+6105,534,Nasarawa Main Town
+6106,534,Tunga/Bakono
+6107,534,Loko
+6108,534,Guto/Aisa
+6109,534,Akum
+6110,534,Udenin Gida
+6111,534,Nasarawa East
+6112,534,Nasarawa  Central
+6113,534,Udenin
+6114,534,Kanah/Ondo/Apawu
+6115,534,Nasarawa North
+6116,534,Odu
+6117,536,Adudu
+6118,536,Agwatashi
+6119,536,Obi
+6120,536,Deddere/Riri
+6121,536,Tudun Adabu
+6122,536,Duduguru
+6123,536,Gwadenye
+6124,536,Kyakale
+6125,536,Gidan Ausa I
+6126,536,Gidan Ausa II
+6127,537,Umaisha
+6128,537,Ugya
+6129,537,Shege
+6130,537,Bugakarmo
+6131,537,Katakpa
+6132,537,Toto
+6133,537,Dausu
+6134,537,Gadagwa
+6135,537,Gwargwada
+6136,537,Kanyehu
+6137,537,Shafan Kwato
+6138,537,Shafan Abakpa
+6139,538,Mangar
+6140,538,Wayo
+6141,538,Konvah
+6142,538,Jimiya
+6143,538,Nakere
+6144,538,Kwara
+6145,538,Arum
+6146,538,Gitta
+6147,538,Wamba East
+6148,538,Wamba West
+6149,539,Baro
+6150,539,Tagagi
+6151,539,Magaji
+6152,539,Boku
+6153,539,Dauaci
+6154,539,Kutiriko
+6155,539,Etsugaie
+6156,539,Ekossa
+6157,539,Ekowugi
+6158,539,Ekowuna
+6159,539,Ekobadeggi
+6160,540,Mago
+6161,540,Adehe
+6162,540,Agwata
+6163,540,Gallah
+6164,540,Busuru
+6165,540,Papiri
+6166,540,Rofia
+6167,540,Kashini
+6168,540,Kokoli
+6169,540,Suteku
+6170,541,Nassarafu
+6171,541,Umaru Majigi  II
+6172,541,Bariki
+6173,541,Dokodza
+6174,541,Mayaki Ndajiya
+6175,541,Umaru/Majigi  I
+6176,541,Masaba I
+6177,541,Kyari
+6178,541,Wadata
+6179,541,Ceniyan
+6180,541,Masaba  II
+6181,541,Masaba I
+6182,541,Masaga II
+6183,541,Masaga  I
+6184,542,Konkoso
+6185,542,Kabe/Pissa
+6186,542,Babanna
+6187,542,Dugga
+6188,542,Shagunu
+6189,542,Malale
+6190,542,Wawa
+6191,542,Karabonde
+6192,542,New Bussa
+6193,542,Riverine
+6194,543,Chanchaga
+6195,543,Maitumbi
+6196,543,Bosso Central  I
+6197,543,Bosso central  II
+6198,543,Shata
+6199,543,Maikunkele
+6200,543,Garatu
+6201,543,Kodo
+6202,543,Beji
+6203,543,Kampala
+6204,544,Nassarawa 'C'
+6205,544,Limawa 'B'
+6206,544,Minna South
+6207,544,Limawa 'A'
+6208,544,Nassarawa 'B'
+6209,544,Minna Central
+6210,544,Makera
+6211,544,Tudun Wada South
+6212,544,Tudun Wada North
+6213,544,Nassarawa 'A'
+6214,544,Sabon Gari
+6215,545,Rokota
+6216,545,Guzan
+6217,545,Enagi
+6218,545,Fazhi
+6219,545,Sakpe
+6220,545,Etsu Tasha
+6221,545,Gonagi
+6222,545,Gazhe  II
+6223,545,Gazhe  I
+6224,545,Gbangban
+6225,546,Edozhigi
+6226,546,Gbadafu
+6227,546,Edokota
+6228,546,Batagi
+6229,546,Gogata
+6230,546,Etsu audu
+6231,546,Batako
+6232,546,Nuwankota
+6233,546,Lemu
+6234,546,Sammajiko
+6235,547,Shako
+6236,547,Kwaka
+6237,547,Lefu
+6238,547,Bonu
+6239,547,Tufa
+6240,547,Izom
+6241,547,Gawu
+6242,547,Lambata
+6243,547,Diko
+6244,547,Kabo
+6245,548,Katcha
+6246,548,Edotsu
+6247,548,Gbakogi
+6248,548,Bakeko
+6249,548,Sidi saba
+6250,548,Dzwafu
+6251,548,Badeggi
+6252,548,Essa
+6253,548,Kataregi
+6254,548,Bisanti
+6255,549,Masuga
+6256,549,Tunganwawa
+6257,549,Tungan Kawo
+6258,549,Usalle
+6259,549,Nagwamatse
+6260,549,Madara
+6261,549,Rafin Gora
+6262,549,Kudu
+6263,549,Yamma
+6264,549,Gabas
+6265,549,Central
+6266,549,Arewa
+6267,549,Magajiya
+6268,550,Takuti/Shaku
+6269,550,Arewa/Yamma
+6270,550,Kudu/Gabas
+6271,550,Birnin Maza/Tashibo
+6272,550,Gurdi/Zago
+6273,550,Gulu/Anguwa Vatsa
+6274,550,Muye/Egba
+6275,550,Ebbo/Gbacinku
+6276,550,Gupa/Abugi
+6277,550,Evuti/Kpada
+6278,551,Lagun
+6279,551,Dassun
+6280,551,Batati
+6281,551,Egbako
+6282,551,Kusotachi
+6283,551,Gaba
+6284,551,Busu/Kuchi
+6285,551,Mambe
+6286,551,Jima
+6287,551,Doko
+6288,551,Dabban
+6289,551,Kutigi
+6290,552,Nassarawa
+6291,552,Auna Central
+6292,552,Auna South
+6293,552,Auna South East
+6294,552,Auna East Central
+6295,552,Auna East
+6296,552,Ibelu East
+6297,552,Ibelu Central
+6298,552,Nasko
+6299,552,Ibelu North
+6300,552,Ibelu West
+6301,553,Gulbin - Boka
+6302,553,Maburya
+6303,553,Kumbashi
+6304,553,Kakihum
+6305,553,Beri
+6306,553,Inkwai
+6307,553,Bobi
+6308,553,Igwama
+6309,553,Kontokoro
+6310,553,Galma/Wamba
+6311,553,Bangi
+6312,554,Kwatachi
+6313,554,Ibbi
+6314,554,Dapangi/Makera
+6315,554,Kulho
+6316,554,Saho-Rami
+6317,554,Babban  Rami
+6318,554,Mazakuka/Likoro
+6319,554,Kaboji
+6320,554,Kasanga
+6321,554,Mashegu
+6322,555,Muregi
+6323,555,Gbara
+6324,555,Ja'agi
+6325,555,Jebba North
+6326,555,Gbajibo/Muwo
+6327,555,Labozhi
+6328,555,Bokani
+6329,555,Kudu
+6330,555,Kpaki/Takuma
+6331,555,Mokwa
+6332,555,Rabba/Ndayako
+6333,556,Dandaudu
+6334,556,Daza
+6335,556,Fuka
+6336,556,Beni
+6337,556,Gini
+6338,556,Guni
+6339,556,Kazai
+6340,556,Sarkin Pawa
+6341,556,Dangunu
+6342,556,Kuchi
+6343,556,Kabula
+6344,557,Kwagana
+6345,557,Adunu
+6346,557,Ishau
+6347,557,Kafin Koro
+6348,557,Chimbi
+6349,557,Kwakuti
+6350,557,Gwam
+6351,557,Jere
+6352,557,Paiko Central
+6353,557,Nikuchi T/Mallam
+6354,557,Tutungo Jedna
+6355,558,Tegina Gari
+6356,558,Yakila
+6357,558,Kundu
+6358,558,Tegina West
+6359,558,Sabon Gari
+6360,558,Kagara Gari
+6361,558,Kakuri
+6362,558,Kongoma West
+6363,558,Kushirki South
+6364,558,Kongoma Central
+6365,558,Kusherki North
+6366,559,Dukku
+6367,559,Danrangi
+6368,559,T/Magajiya
+6369,559,Ushe
+6370,559,Dugge
+6371,559,Jama'are
+6372,559,Rijau
+6373,559,T/Bunu
+6374,559,Genu
+6375,559,Warari
+6376,559,Shambo
+6377,560,She
+6378,560,Egwa/Gwada
+6379,560,Pina
+6380,560,Bangajiya
+6381,560,Ubandoma
+6382,560,Manta
+6383,560,Kato
+6384,560,Gussoro
+6385,560,Gurmana
+6386,560,Bassa/Kukoki
+6387,560,Erana
+6388,560,Galkogo
+6389,560,Allawa
+6390,560,Kushaka/Kurebe
+6391,560,Kwaki/Chukwuba
+6392,561,Maje North
+6393,561,Kurmin Sarki
+6394,561,Bagama 'B'
+6395,561,Bagmama 'A'
+6396,561,Wambai
+6397,561,Hashimi 'B'
+6398,561,Magajiya
+6399,561,Hashimi 'A'
+6400,561,Iku South I
+6401,561,Iku South II
+6402,562,Zuma West
+6403,562,Zuma East
+6404,562,Iku
+6405,562,Ija Gwari
+6406,562,Wuse  East
+6407,562,Wuse West
+6408,562,Ija Koro
+6409,562,New Bwari
+6410,562,Dogon Kurmi
+6411,562,Garam
+6412,563,Tukunji/Yamigi
+6413,563,Gwarjiko
+6414,563,Lokogoma
+6415,563,Zungeru
+6416,563,Kodo
+6417,563,Akare
+6418,563,Kwata
+6419,563,Sabon Gari
+6420,563,Maito
+6421,563,Kanwuri
+6422,563,Barwa
+6423,564,Ibara Orile/Onisasa
+6424,564,Isaga Ilewo
+6425,564,Ita-Oshin/Olomore
+6426,564,Lafenwa
+6427,564,Ago Oko
+6428,564,Ikija
+6429,564,Elega
+6430,564,Ikereku
+6431,564,Imala-Idiemi
+6432,565,Igbore/Ago Oba
+6433,565,Ibara I
+6434,564,Gbagura
+6435,564,Ika
+6436,564,Oke-Ago Owu
+6437,564,Sabo
+6438,565,Imo/Isabo
+6439,565,Sodeke/Sale-Ijeun I
+6440,565,Sodeke/Sale-Ijeun II
+6441,565,Keesi/Emere
+6442,565,Ake II
+6443,565,Ijaye/Idi-Aba
+6444,565,Ake III
+6445,565,Erunbe/Oke Ijeun
+6446,565,Ago-Egun/Ijesa
+6447,565,Ake I
+6448,565,Ijemo
+6449,565,Itoko
+6450,564,Ilugun/Iberekodo
+6451,566,Agbara/Ejila Awori
+6452,566,Ado Odo II
+6453,566,Ilogbo
+6454,566,Ere
+6455,564,Olorunda Ijale
+6456,566,Ado Odo I
+6457,566,Alapoti
+6458,566,Agbara I
+6459,566,Iju
+6460,566,Sango
+6461,566,Ijoko
+6462,566,Atan
+6463,566,Igbesa
+6464,566,Ketu-Adie-Owe
+6465,566,Ota III
+6466,566,Ota II
+6467,566,Ota I
+6468,567,Igua
+6469,567,Ido Foi
+6470,567,Ijoun
+6471,567,Ebute Igbooro
+6472,567,Ohunbe
+6473,567,Aye Toro I
+6474,567,Ibese
+6475,567,Iboro/Joga
+6476,567,Sunwa
+6477,567,Aye Toro II
+6478,568,Oke Odan
+6479,568,Idogo
+6480,568,Ajilete
+6481,568,Ilobi/Erinja
+6482,568,Owode I
+6483,568,Owode II
+6484,568,Iwoye
+6485,568,Ilaro III
+6486,568,Ilaro II
+6487,569,Itori
+6488,569,Arigbajo
+6489,569,Asa/Yobo
+6490,569,Obada-Oko
+6491,569,papalanto
+6492,569,Abalabi
+6493,569,Mosan
+6494,569,Owowo
+6495,569,Wasimi
+6496,569,Elere/Onigbedu
+6497,567,Imasai
+6498,570,Iseri
+6499,570,Ajuwon/Akute
+6500,570,Ibogun
+6501,570,Ifo II
+6502,570,Ifo III
+6503,571,Ajebandele
+6504,571,Imobi I
+6505,571,Imobi II
+6506,571,Ijebu Mushin I
+6507,571,Ijebu Mushin II
+6508,571,Ijebu Ife I
+6509,571,Ijebu Ife II
+6510,571,Ogbere
+6511,571,Owu
+6512,571,Itele
+6513,571,Ikija
+6514,573,Isoyin
+6515,573,Ilese
+6516,573,Oke-Eri/Ogbogbo
+6517,573,Erunwon
+6518,573,Igede/Itamarun
+6519,573,Odosimadegun/Odosebora
+6520,573,Atan/Imuku
+6521,573,Imewiro/Ododeyo/Imomo
+6522,573,Odesenlu
+6523,572,Ako-Onigbagbo/Gelete
+6524,572,Ago Iwoye I
+6525,572,Oru/Awa/Ilaporu
+6526,572,Osun
+6527,572,Mamu/Etiri
+6528,572,Japara/Ojowo
+6529,572,Atikori
+6530,572,Oke Sopin
+6531,574,Ijasi/Idepo
+6532,574,Porogun II
+6533,574,Porogun I
+6534,574,Ijade/Imepe II
+6535,574,Ijade/Imepe I
+6536,574,Odo-Egbo/Oliworo
+6537,574,Isiwo
+6538,574,Itamapako
+6539,574,Isoku/Ososa
+6540,574,Odo-Esa
+6541,574,Itantebo
+6542,575,Iperu III
+6543,575,Iperu II
+6544,575,Ikenne I
+6545,575,Ikenne II
+6546,575,Ogere II
+6547,575,Iperu
+6548,575,Ilisan I
+6549,575,Ilisan/Irolu
+6550,575,Ogere I
+6551,576,Afon
+6552,576,Kajola/Agberiodo
+6553,576,Olorunda/Gbomo
+6554,576,Imeko
+6555,576,Iwoye/Jabata
+6556,576,Ilara/Alagbe
+6557,576,Idofa
+6558,576,Oke Agbede/Moriwi/Matale
+6559,576,Idi Ayin
+6560,577,Ifonyintedo
+6561,577,Ajegunle
+6562,577,Ihunbo/Ilase
+6563,577,Agosasa
+6564,577,Ijofin/Idosa
+6565,577,Agada
+6566,577,Tube
+6567,577,Idiroko
+6568,577,Mauni I
+6569,577,Agosasa
+6570,577,Ipokia I
+6571,577,Mauni II
+6572,578,Mokoloki
+6573,578,Owode
+6574,578,Ajura
+6575,578,Moloko-Asipa
+6576,578,Oba
+6577,578,Onidundu
+6578,578,Obafemi
+6579,578,Kaloja
+6580,578,Alapako-Oni
+6581,578,Ajebo
+6582,579,Alabata
+6583,579,Opeji
+6584,579,Obete
+6585,579,Alagbagba
+6586,579,Odeda
+6587,579,Ilugun
+6588,579,Olodo
+6589,579,Balogun Itesi
+6590,579,Osiele
+6591,579,Obantoko
+6592,576,Otapele
+6593,578,Egbeda
+6594,564,Totoro/Sokori
+6595,565,Ibara II
+6596,572,Ago Iwoye II
+6597,572,Omen
+6598,572,Oke Agbo
+6599,573,Oju Ona
+6600,570,Agbado
+6601,570,Ifo I
+6602,570,Sunren
+6603,570,Coker
+6604,568,Ilaro I
+6605,570,Ososun
+6606,580,Idowa
+6607,580,Ibefun
+6608,580,Odogbolu II
+6609,580,Ososa
+6610,580,Ala/Igbile
+6611,580,Ogbo/Moraika/Ita-Epo I
+6612,580,Obore/Ibido/Ikise
+6613,580,Ilado
+6614,580,Omu
+6615,580,Ogbo/Moraika/Ita Epo II
+6616,580,Aiyepe
+6617,580,Imosan
+6618,580,Imodi
+6619,580,Odogbolu I
+6620,575,Ilisan II
+6621,580,Okun-Owa
+6622,581,Iwopin
+6623,581,Oni
+6624,581,Ibiade
+6625,581,Ayila/Itebu
+6626,581,Ayede/Lomiro
+6627,581,Efire
+6628,581,Ode-Omi
+6629,581,Abigi
+6630,581,Makun/Irokun
+6631,581,Lukogbe/Ilusin
+6632,582,Moborode/Oke-Ola
+6633,582,Ipara
+6634,582,Ode I
+6635,582,Ayegbami
+6636,582,Ilara
+6637,582,Akaka
+6638,582,Orile-Oko
+6639,582,Ode II
+6640,582,Igan/Ajina
+6641,582,Odofin/Imagbo/Petekun/Dawara
+6642,583,Ode-Lemo
+6643,583,Latawa
+6644,583,Ijagba
+6645,583,Isokun/Oyebajo
+6646,583,Ogijo/Likosi
+6647,583,Surulere
+6648,583,Isote
+6649,583,Simawa/Iwelepe
+6650,570,Oke-Aro/Ibaragun/Robiyan
+6651,578,Ofada
+6652,583,Oko/Epe/Itula I
+6653,583,Ayegbami/Ijokun
+6654,583,Sabo I
+6655,583,Oko/Epe/Itula II
+6656,583,Agbowa
+6657,583,Ibido/Ituwa/Alara
+6658,583,Sabo II
+6659,584,Isowopo II
+6660,584,Isowopo I
+6661,584,Ikado II
+6662,584,IlepaII
+6663,584,Edo
+6664,584,Ekan
+6665,584,Oyinmo
+6666,584,Oorun II
+6667,584,Oorun I
+6668,584,Iyometa I
+6669,584,Ilepa I
+6670,584,Iyometa II
+6671,584,Ikado I
+6672,585,Oke-irun/Surulere
+6673,585,Ogbagi
+6674,585,Odo-Irun/Oyinmo
+6675,585,Ese/Afin
+6676,585,Arigidi/Iye I
+6677,585,Arigidi  II
+6678,585,Erusu/Karamu/Ibaramu
+6679,585,Okeagbe
+6680,585,Oyin/Oge
+6681,585,Ajowa/Igasi/Eriti/Gedegede
+6682,587,Ipesi
+6683,587,Ifira
+6684,587,Sosan
+6685,587,Ipe I
+6686,587,Ipe II
+6687,587,Epinmi I
+6688,587,Epinmi II
+6689,587,Isua I
+6690,587,Isua IV
+6691,587,Isua II
+6692,587,Isua III
+6693,588,Igbatoro
+6694,588,Ayede/Ogbese
+6695,588,Iluabo/Eleyewo/Bolorunduro
+6696,588,Oba-Ile
+6697,588,Igoba/Isinigbo
+6698,588,Isimija/Irado
+6699,588,Odo-oja/Ijigbo
+6700,588,Moferere
+6701,588,Ayetoro
+6702,588,Oke Iju
+6703,588,Oke-Afa/Owode
+6704,588,Agamo/Oke-Oore/Akomowa
+6705,591,Owena/Aponmulona
+6706,591,Alade/Atosin
+6707,591,Ijomu/Isurin
+6708,591,Isalu Jigbokin
+6709,591,Isalu Ehinpeti
+6710,591,Ofosu/Onisere
+6711,591,Irowo
+6712,591,Idale-Lemikan
+6713,591,Idale-Logbosere
+6714,591,Ala-Elefosan
+6715,592,Ipogun/Ibule
+6716,592,Ilara II
+6717,592,Isarun/ Erigi
+6718,592,Ilara I
+6719,592,Ero/Ibuji/Mariwo
+6720,592,Obo/Ikota/Olo-gbo
+6721,592,Igbaka-oke I
+6722,592,Igbaka-oke II
+6723,592,Ijare I
+6724,592,Ijare II
+6725,593,Mahin IV
+6726,593,Mahin III
+6727,593,Aheri
+6728,593,Etikan
+6729,593,Mahin II
+6730,593,Mahin I
+6731,593,Ugbo I
+6732,593,Ugbo II
+6733,593,Ugbo III
+6734,593,Ugbo IV
+6735,593,Ugbo V
+6736,593,Ugbo VI
+6737,596,Ago-Alaye
+6738,596,Araromi Obu
+6739,596,Oniparaga
+6740,596,Ajue
+6741,596,Odigbo
+6742,596,Ore I
+6743,596,Agbabu
+6744,596,Ore II
+6745,596,Ebijan
+6746,596,Ayesan
+6747,596,Koseru
+6748,600,Afo
+6749,600,Idoani II
+6750,600,Idoani I
+6751,600,Idogun
+6752,600,Imeri
+6753,600,Okeluse
+6754,600,Imoru/Arimogija
+6755,600,Ute
+6756,600,Ikaro/Elegbeka
+6757,600,Ijagba
+6758,600,Ifon II
+6759,600,Ifon I
+6760,601,Uso/Emure Ile
+6761,601,Isuada/Ipenmen/Idasan/Obasooto
+6762,601,Ijebu II
+6763,601,Iyere
+6764,601,Isaipen
+6765,601,Ijebu I
+6766,601,Iloro
+6767,601,Ehinogbe
+6768,601,Igboroko I
+6769,601,Igboroko II
+6770,601,Ipele
+6771,590,Ukparama II
+6772,590,Ukparama I
+6773,590,Arogbo III
+6774,590,Arogbo I
+6775,590,Arogbo II
+6776,590,Apoi II
+6777,590,Apoi I
+6778,590,Apoi III
+6779,590,Apoi V
+6780,590,Apoi IV
+6781,597,Ayeka/Igbodigo
+6782,597,Erinje
+6783,597,Ode aye I
+6784,597,Okitipupa II
+6785,597,Okitipupa I
+6786,597,Igbotako I
+6787,597,Ikoya/oloto
+6788,597,Ilutitun III
+6789,597,Ilutitun I
+6790,597,Ilutitun II
+6791,597,Iju-odo/Erekiti
+6792,597,Aye II
+6793,597,Igbotako II
+6794,589,Oda
+6795,589,Aponmu
+6796,589,Oke aro/Uro I
+6797,589,Oke aro/uro II
+6798,589,Lisa
+6799,589,Odopetu
+6800,589,Gbogi/Isikan I
+6801,589,Gbogi/Isikan II
+6802,589,Owode/Imuagun
+6803,589,Oshodi/Isolo
+6804,589,Ijomu/Obanla
+6805,586,Oba I
+6806,586,Ikun
+6807,586,Supare I
+6808,586,Supare II
+6809,586,Oka iv/Owake/Ebo/Ayegunle
+6810,586,Oba II
+6811,586,Akungba II
+6812,586,Akungba I
+6813,586,Oka V A Owalusin/Ayepe
+6814,586,Oka V B Oka Odo/Okela/Bolorunduro
+6815,586,Oka III B Owase /Ikese/Iwonrin/Ebinrin/Idorin
+6816,586,Oka I Ibaka / Sabo
+6817,586,Oka II A Ikanmu
+6818,586,Oka III A  Agba
+6819,586,Oka II B Okia/Korowa/Simerin/Uba
+6820,599,Enuowa/Obalalu
+6821,599,Odojomu/Erinketa/Legiri
+6822,599,Okeagunla Okerowo/Okekuta
+6823,599,Lodasa/Iparuku/Lijoka
+6824,599,Gbaghengha/Gbongbo/Ajagba Alafia
+6825,599,Litaye/Obunkekere/Igbindo
+6826,599,Ifore/Odosida/Loro
+6827,599,ILUNLA/Bagbe/Odowo I
+6828,599,Ilunla/Bagbe/Odowo II
+6829,599,Okelisa Okedoko/Ogbodu
+6830,599,Orisunmibare/Araromi
+6831,599,Oke-otunba/Oke-diba/Sokoti
+6832,595,Akotogbo II
+6833,595,Akotogbo I
+6834,595,Irele V
+6835,595,Irele III
+6836,595,Irele II
+6837,595,Irele I
+6838,595,Iyansan/Omi
+6839,595,Ajagba II
+6840,595,Irele IV
+6841,595,Ajagba I
+6842,598,Ateru/Otasan/Igba
+6843,598,Owena Bridge
+6844,598,Epe
+6845,598,Tepo
+6846,598,Fagbo
+6847,598,Oboto
+6848,598,Obada
+6849,598,Asantan Oja
+6850,598,Bolorunduro I
+6851,598,Orisunmibare
+6852,594,Ileoluji V
+6853,594,Ileoluji VI
+6854,594,Oke-igbo IV
+6855,594,Oke-igbo III
+6856,594,Oke-igbo II
+6857,594,Ileoluji III
+6858,594,Ileoluji II
+6859,594,Ileoluji IV
+6860,594,Oke-igbo I
+6861,594,Ileoluji I
+6862,603,Ifewara I
+6863,603,Ifewara II
+6864,603,Ita Gunmodi
+6865,603,Ifelodun
+6866,603,Ibodi
+6867,603,Osu III
+6868,603,Osu I
+6869,603,Isa Obi
+6870,603,Osu II
+6871,603,Muroko
+6872,603,Oke Bode
+6873,604,Ode-Omu Rural
+6874,604,Gbongan Rural
+6875,604,Ijegbe/Oke-Eso/Oke-Owu Ijugbe
+6876,604,Lagere/Amola
+6877,604,Otun Balogun
+6878,604,Balogun
+6879,604,Olufi
+6880,604,Otun-Olufi
+6881,604,Araromi-Owu
+6882,604,Anlugbua
+6883,604,Obalufon
+6884,605,Oluponna II
+6885,605,Oluponna III
+6886,605,Oluponna I
+6887,605,Oke-Osun
+6888,605,Kuta I
+6889,605,Kuta II
+6890,605,Ileogbo I
+6891,605,Ileogbo II
+6892,605,Ileogbo IV
+6893,605,Ileogbo III
+6894,606,Obala Iloro
+6895,606,Gbeleru Obaala II
+6896,606,Eripa
+6897,606,Gbeleru Obaala I
+6898,606,Iresi I
+6899,606,Iresi II
+6900,606,Oke-Irun
+6901,606,Oke-Omi Otan
+6902,606,Oke Ode Otan
+6903,606,Oke-Otan
+6904,607,College/Egbada Road
+6905,607,Oke Esa/Oke Ogi
+6906,607,Oloti Iragbiji
+6907,607,Oja - Oba
+6908,607,Isale-Oyo
+6909,607,Oke Aree
+6910,607,Isale Asa Iree
+6911,607,Ororuwo
+6912,607,Ada II
+6913,607,Agba
+6914,607,Ada I
+6915,614,Iwoye/Idoo/Origo
+6916,614,Okin Ni/Olorunsogo/Ofatedo
+6917,614,Ara II
+6918,614,Ara I
+6919,614,Ojo/Aro
+6920,614,Ido-Osun
+6921,614,Awo/Abudo
+6922,614,Ikotun
+6923,614,Ira Gberi I
+6924,614,Ira Gberi II
+6925,615,Inisa I/Aato/Igbon
+6926,615,Ola/Aye/Agurodo
+6927,615,Ifeodan 'A'/Owu-Ile
+6928,615,Ifeodan 'B'/Masifa
+6929,615,Ilawo/Isoko/Isundunrin
+6930,615,Inisa II/Afaake/Ayegunle
+6931,615,Elejigbo 'B'/Osolo
+6932,615,Elejigbo/Ayegbogbo
+6933,615,Elejigbo 'D'/Ejemu
+6934,615,Elejigbo 'C'/Mapo
+6935,615,Elejigbo 'A'
+6936,613,Abiri Ogudu
+6937,613,Aye
+6938,613,Kere
+6939,613,Oke Owena
+6940,613,Osi
+6941,613,Mefoworade
+6942,613,Aare
+6943,613,Olode
+6944,613,Ayesan
+6945,613,Ikija  II
+6946,613,Ikija  I
+6947,617,Ekoende/Eko Ajala
+6948,617,Ikirun Rural
+6949,617,Owode Ikirun
+6950,617,Isale/Oke Afo
+6951,617,Amola Ikirun
+6952,617,Station Road Ikirun
+6953,617,Okeba Ikirun
+6954,617,Eesa Ikirun
+6955,617,Olonde Ikirun
+6956,617,Obagun
+6957,617,Iba I
+6958,617,Iba II
+6959,618,Ajaba/Edemosi/Aba Orangun
+6960,618,Oke Ede
+6961,618,Ejigbo III
+6962,618,Ejigbo II
+6963,618,Ejigbo I
+6964,618,Isedo I
+6965,618,Isedo II
+6966,618,Iperin
+6967,618,Eyindi
+6968,618,Eyindi/Iperin
+6969,618,Oke Ola
+6970,620,Lower Egbe-Idi
+6971,620,Ereja
+6972,620,Ilaje
+6973,620,Ayeso
+6974,620,Isokun
+6975,620,Itakogun/Upper Egbe-Idi
+6976,620,Isida/Adeti
+6977,620,Upper/Lower Igbogi
+6978,620,Omofe/Idasa
+6979,620,Ikoyi / Ikoti Araromi
+6980,622,Ikire 'K'
+6981,622,Ikire 'J'
+6982,622,Ikire 'F'
+6983,622,ikire 'A'
+6984,622,Ikire 'G'
+6985,622,Ikire 'H'
+6986,622,Ikire 'I'
+6987,622,Ikire 'B'
+6988,622,Ikire 'C'
+6989,622,Ikire 'D'
+6990,622,Ikire 'E'
+6991,624,Oke-oba I
+6992,624,Oke-oba II
+6993,624,Isale Oba III
+6994,624,Isale Oba I
+6995,624,Isale Oba II
+6996,624,Isale Oba IV
+6997,624,Gidigbo I
+6998,624,Gidigbo II
+6999,624,Gidigbo III
+7000,624,Oke-Adan II
+7001,624,Oke-Adan I
+7002,624,Molete I
+7003,624,Molete II
+7004,624,Molete III
+7005,624,Oke-adan III
+7006,625,Ilase/Idominasi
+7007,625,Esa-Oke
+7008,625,Imesi-Ile
+7009,625,Esa - Odo
+7010,625,Eesun/Idooko
+7011,625,Ibokun
+7012,625,Ilahun/Ikinyinwa
+7013,625,Ipetu-Ile/Adaowode
+7014,625,Ilare
+7015,625,Otan-Ile
+7016,627,Isero/Ikonifin
+7017,627,Asa Ajagunlase
+7018,627,Obamoro/Ile Ogo
+7019,627,Ajagba/Iwooke
+7020,627,Bode-Osi
+7021,627,Ikire ile/Iwara
+7022,627,Telemu
+7023,627,Ogbaagba I
+7024,627,Ogbaagba II
+7025,627,Asamu/Ilemowu
+7026,628,Ilie
+7027,628,Oba-Ile
+7028,628,Oba Oke
+7029,628,Ayetoro
+7030,628,Owoope
+7031,628,Atelewo
+7032,628,Akogun
+7033,628,Balogun
+7034,628,Owode II
+7035,628,Owode I
+7036,628,Agowande
+7037,629,Iwoye
+7038,629,Ijebu-Jesa
+7039,629,Ijeda Iloko
+7040,629,Erinmo/Iwaraja
+7041,629,Erin-Oke
+7042,629,Erin-Ijesa
+7043,629,Apoti Dagbaja
+7044,629,Ira
+7045,629,Ikeji-Ile
+7046,629,Ijeji Arakeji/Owena
+7047,629,Ipetu Ijesa I
+7048,629,Ipetu-Ijesa II
+7049,630,Olufon Orolu 'J'
+7050,630,Olufon Orolu 'F'
+7051,630,Olufon Orolu 'I'
+7052,630,Olufon Orolu 'A'
+7053,630,Olufon Orolu 'E'
+7054,630,Olufon Orolu 'C'
+7055,630,Olufon Orolu 'B'
+7056,630,Olufon Orolu 'D'
+7057,630,Olufon Orolu 'H'
+7058,630,Olufon Orolu 'G'
+7059,616,Oyi
+7060,616,Isinmi
+7061,616,Ayetoro
+7062,616,Aworo/Oke-Ila Rural
+7063,616,Balogun
+7064,616,Obaale
+7065,616,Temidire
+7066,616,Akesin
+7067,616,Co-Operative
+7068,616,Asaoni
+7069,626,Asi/Asaba
+7070,626,Osolo/Oparin/Ola
+7071,626,Oloyan Elemosho / Esa
+7072,626,Ijabe/Ila Odo
+7073,626,Ekosin/Iyeku
+7074,626,Faji/Opete
+7075,626,Igbaye
+7076,626,Baale
+7077,626,Oba Ojomu
+7078,626,Ore/Agbeye
+7079,626,Okua/Ekusa
+7080,626,Jagun Osi Bale Ode
+7081,626,Esa Otun Baale Ode
+7082,626,Olunisa
+7083,626,Olukotun
+7084,631,Ataoja 'E'
+7085,631,Ataoja 'D'
+7086,631,Ataoja 'C'
+7087,631,Ataoja 'B'
+7088,631,Ataoja 'A'
+7089,631,Otun Hagun B
+7090,631,Are-Ago
+7091,631,Baba Kekere
+7092,631,Otun Jagun 'A'
+7093,631,Alagba
+7094,631,Jagun B'
+7095,631,Ekerin
+7096,631,Jagun 'A'
+7097,631,Eketa
+7098,631,Otun Balogun 'A'
+7099,612,Oyere - II
+7100,612,Ipetumodu I
+7101,612,Edunabon II
+7102,612,Edunabon I
+7103,612,Oyere I
+7104,612,Asipa/Akinlalu
+7105,612,Famia
+7106,612,Ipetumodu II
+7107,612,Yakoyo
+7108,612,Moro
+7109,610,Iremo/Ajebandele
+7110,610,Akarabata
+7111,610,Iremo II (Eleyele)
+7112,610,Iremo III
+7113,610,Iremo V
+7114,610,Iremo IV
+7115,610,Ilare III
+7116,610,Ilare IV
+7117,610,Moore Ojaja
+7118,610,Ilare II
+7119,610,Ilare I
+7120,619,Biladu
+7121,619,Bolorunduro
+7122,619,Upper & Lower Ijoka
+7123,619,Isare
+7124,619,Ilerin
+7125,619,Iloro/Roye
+7126,619,Itisin/Ogudu
+7127,619,Okesa
+7128,619,Ijamo
+7129,619,Ifosan/Oke-Eso
+7130,619,Imo
+7131,609,Loogun
+7132,609,Oloki/Akoda
+7133,609,Sekona
+7134,609,Olodan
+7135,609,Alajue II
+7136,609,Alajue I
+7137,609,Babanla/Agate
+7138,609,Babasanya
+7139,609,Jagun/Jagun
+7140,609,Kuye
+7141,608,Sabo/Agbongbe II
+7142,608,Olusokun
+7143,608,Alusekere
+7144,608,Asunmo
+7145,608,Abogunde/Sagba
+7146,608,Sabo/Agbongbe I
+7147,608,Apaso
+7148,608,Ologun/Agbaakin
+7149,608,Olaba/Atapara
+7150,608,Bara Ejemu
+7151,608,Isibo/Buari-Isola
+7152,611,Yekemi
+7153,611,Modakeke II
+7154,611,Modakeke I
+7155,611,Okerewe III
+7156,611,Okerewe I
+7157,611,Ilode II
+7158,611,Ilode I
+7159,611,Moore
+7160,611,Okerewe II
+7161,611,Modakeke III
+7162,623,Awala II
+7163,623,Oranran Ward
+7164,623,Alapomu II
+7165,623,Awala I
+7166,623,Idogun Ward
+7167,623,Asalu (Mogimogi)
+7168,623,Oosa Adifa
+7169,623,Alapomu I (Odo-Osun)
+7170,623,Asalu Ikoyi
+7171,623,Osa Ikoyi (Oloke)
+7172,623,Olukoyi (Oja-Osun)
+7173,621,Elerin 'A'
+7174,621,Elerin 'B'
+7175,621,Elerin 'C'
+7176,621,Elerin 'E'
+7177,621,Elerin 'D'
+7178,621,Olobu 'D'
+7179,621,Olubu 'B'
+7180,621,Olobu 'C'
+7181,621,Olobu 'A'
+7182,621,Bara 'B'
+7183,621,Bara 'A'
+7184,602,Forest Reserve I
+7185,602,Forest reserve II
+7186,602,Faforiji
+7187,602,Ajebandele
+7188,602,Igangan
+7189,602,Eti-Oni
+7190,602,Ayegunle
+7191,602,Iperindo
+7192,602,Iwara
+7193,602,Ipole
+7194,632,Ilora III
+7195,632,Fiditi II
+7196,632,Ilora II
+7197,632,Ilora I
+7198,632,Imini
+7199,632,Fiditi I
+7200,632,Akinmorin/Jobele
+7201,632,Awe I
+7202,632,Iware
+7203,632,Awe II
+7204,633,Ijaye/Ojedeji
+7205,633,Iroko
+7206,633,Olode/Amosun/Onidundu
+7207,633,Ajibade/Alabata/Elekuru
+7208,633,Iwokoto/Talontan/Idi-oro
+7209,633,Akinyele/Isabiyi/Irepodun
+7210,633,Ikereku
+7211,633,Olanla/Oboda/laBode
+7212,633,Olorisa-oko/Okegbemi/Mele
+7213,633,Ojoo/Ajibode/Laniba
+7214,633,Ojo-Emo/Moniya
+7215,633,Arulogun/Eniosa/Aroro
+7216,664,Igbon/Gambari
+7217,664,Baya-Oje
+7218,664,Iwofin
+7219,664,Iresaadu
+7220,664,Mayin
+7221,664,Oko
+7222,664,Ilajue
+7223,664,Iresaapa
+7224,664,Iregba
+7225,664,Arolu
+7226,662,Agbonle
+7227,662,Ogbooro II
+7228,662,Sepeteri I
+7229,662,Sepeteri IV
+7230,662,Sepeteri III
+7231,662,Sepeteri II
+7232,662,Ogbooro I
+7233,662,Oje Owode I
+7234,662,Oje owode II
+7235,662,Ago Amodu I
+7236,662,Ago Amodu II
+7237,659,Ori Ire VI
+7238,659,Ori Ire V
+7239,659,Ori Ire IX
+7240,659,Ori Ire VIII
+7241,659,Ori Ire VII
+7242,659,Ori Ire X
+7243,659,Ori Ire I
+7244,659,Ori Ire II
+7245,659,Ori Ire III
+7246,659,Ori Ire IV
+7247,658,Bonni
+7248,658,Onigboho/Alomo/Okere
+7249,658,Igi Isubu
+7250,658,Onibode III
+7251,658,Onibode II
+7252,658,Onibode I
+7253,658,Aare
+7254,658,Alepata
+7255,658,Igbope/Iyeye I
+7256,658,Igbope/Iyeye II
+7257,657,Araromi/Aperin
+7258,657,Olode/Gbedun/Ojebode
+7259,657,Akanran/Olorunda
+7260,657,Gbada Efon
+7261,657,Odi Odeyale/Odi Aperin
+7262,657,Oremeji/Agugu
+7263,657,Olorunsogo
+7264,657,Ogbere Tioya
+7265,657,Ogbere
+7266,657,Ojoku/Ajia
+7267,657,Badeku
+7268,656,Olonde/Aba-Nla
+7269,656,Onipe
+7270,656,Okanhinde/Latunde
+7271,656,Idi-Osan/Egbeda-Atuba
+7272,656,Muslim/Ogbere
+7273,656,Ayegun
+7274,656,Olomi/Olurinde
+7275,656,Idi-Iroko/Ikereku
+7276,656,Orisunbare/Ojo-Ekun
+7277,656,Odo-Ona Nla
+7278,655,Opa/Ogunniyi
+7279,655,Waro/Apata-Alaje
+7280,655,Aboke (Aboyun Ogun)
+7281,655,Onigbeti I (Iyamopo)
+7282,655,Elerugba/Elehinke/Sagbo (Aperu)
+7283,655,Onigbeti II/Sagbon Agoro (Sagbon)
+7284,655,Seriki I & Abosino (Okin)
+7285,655,Seriki II (Agbele)
+7286,655,Onigbeti III & IV (Agbeni)
+7287,655,Ikolaba/Obadimo
+7288,654,Ajaawa I
+7289,654,Mowolowo/Iwo-Ate
+7290,654,Odo-Oba
+7291,654,Ayede
+7292,654,Ajaawa II
+7293,654,Idewure
+7294,654,Lagbedu
+7295,654,Otamokun
+7296,654,Opete
+7297,654,Ayetoro
+7298,651,Ajara/Opeodu
+7299,651,Lagelu Market/Kajola/Gbena
+7300,651,Lalupon III
+7301,651,Ejioku/Igbon/Ariku
+7302,651,Lalupon I
+7303,651,Ofa-Igbo
+7304,651,Lalupon II
+7305,651,Arulogun Ehin/Kelebe
+7306,651,Sagbe/Pabiekun
+7307,651,Apatere/Kuffi/Ogunbode/Ogo
+7308,651,Lagun
+7309,651,Ogunjana/Olowode/Ogburo
+7310,651,Ogunremi/Ogunsina
+7311,651,Oyedeji/Olode/Kutayi
+7312,650,Isemi-Ile/Imia/Ilua
+7313,650,Gbelekale I & II
+7314,650,Elero
+7315,650,Kajola
+7316,650,Isia
+7317,650,Imoba/Oke-Ogun
+7318,650,Ijo
+7319,650,Olele
+7320,650,Iba-Ogan
+7321,650,Ayetoro-Oke I
+7322,650,Ilaji Oke/Iwere-Oke
+7323,649,Iwere-Ile IV
+7324,649,Iwere-Ile I
+7325,649,Iwere-Ile II
+7326,649,Iwere-Ile III
+7327,649,Sabi Gana II
+7328,649,Agbaakin II
+7329,649,Agbaakin I
+7330,649,Sabi Gana I
+7331,649,Sabi Gana III
+7332,649,Sabi Gana IV
+7333,646,Iba I
+7334,646,Agoro
+7335,646,Ikolaba
+7336,646,Iba V
+7337,646,Ajagunna
+7338,646,Laha/Ajana
+7339,646,Iba IV
+7340,646,Iba II
+7341,646,Atipa
+7342,646,Iba III
+7343,652,Abogunde
+7344,652,Jagun
+7345,652,Isale Alaasa
+7346,652,Isale Ora/Saja
+7347,652,Aguodo/ Masifa
+7348,652,Aaje/Ogunbado
+7349,652,Isale Afon
+7350,652,Osupa
+7351,652,Okelerin
+7352,652,Sabo/Tara
+7353,652,Arowomole
+7354,652,Akata
+7355,652,Alapata
+7356,652,Ibapon
+7357,652,Ilogbo
+7358,652,Lagbedu
+7359,652,Ijeru II
+7360,652,Ijeru I
+7361,652,Isoko
+7362,652,Oke-Ola/Farm Settlement
+7363,648,Komu
+7364,648,Babaode
+7365,648,Igbojaiye
+7366,648,Owode/Ipapo
+7367,648,Oke-Amu
+7368,648,Otu II
+7369,648,Ipapo
+7370,648,Otu I
+7371,648,Okaka II
+7372,648,Okaka I
+7373,647,Ado-awaye
+7374,647,Akinwumi/Osoogun
+7375,647,Ekunle I
+7376,647,Ekunle II
+7377,647,Koso II
+7378,647,Faramora
+7379,647,Ijemba/Oke-Ola/Oke-Oja
+7380,647,Koso I
+7381,647,Isalu II
+7382,647,Ladogan/Oke Eyin
+7383,647,Isalu I
+7384,645,Ogundele/Alaho/Siba/Idi-Ahun
+7385,645,Aba Emo/Ilaju/Alako
+7386,645,Batake/Idi-Iya
+7387,645,Akinware/Akindele
+7388,645,Akufo/Idigba/Araromi
+7389,645,Erinwusi/Koguo/Odetola
+7390,645,Omi Adio/Omi Onigbagbo Bakatari
+7391,645,Fenwa/Oganla/Elenusonso
+7392,645,Apete/Ayegun/Awotan
+7393,645,Ido/Onikede/Okuna Awo
+7394,644,Ofiki II
+7395,644,Igangan III
+7396,644,Igangan I
+7397,644,Igangan IV
+7398,644,Igangan II
+7399,644,Ofiki I
+7400,644,Ayete I
+7401,644,Ayete II
+7402,644,Tapa II
+7403,644,Tapa I
+7404,643,Oke -Oba
+7405,643,Isale Togun
+7406,643,Itabo
+7407,643,Oke Otun
+7408,643,Oke-Imale
+7409,643,Anko
+7410,643,New Eruwa
+7411,643,Sango
+7412,643,Aborerin
+7413,643,Isaba
+7414,642,Idofin Isaganun
+7415,642,Iberekodo I /(Pataoju)
+7416,642,Igbole/Pako
+7417,642,Iberekodo/Agbooro/Ita Baale
+7418,642,Okeserin I & II
+7419,642,Idere III (Koso/Apa)
+7420,642,Idere II (Ominigbo/Oke - Oba)
+7421,642,Oke-Odo
+7422,642,Idere I (Molete)
+7423,642,Isale-Oba
+7424,634,Aremo
+7425,634,Bashorun
+7426,634,Agunpopo III
+7427,634,Oke-afin I
+7428,634,Oke-afin II
+7429,634,Ashipa I
+7430,634,Agunpopo II
+7431,634,Agunpopo I
+7432,634,Ashipa II
+7433,634,Ashipa III
+7434,663,Aganmu/Kooko
+7435,663,Ekokan / Imua
+7436,663,Okere II
+7437,663,Sangote/Booda/Baabo/Ilua
+7438,663,Okere I
+7439,663,Iya
+7440,663,Sepeteri/Bapon
+7441,663,Oke-Oro
+7442,663,Ajegunle
+7443,663,Bagii
+7444,663,Ogidigbo/Kinnikinni
+7445,636,Ayede/Alugbo/Koloko
+7446,636,Osegere/Awaye
+7447,636,Erunmu
+7448,636,Owobaale/Kasumu
+7449,636,Egbeda
+7450,636,Olodan/Ajinogbo
+7451,636,Olodo/Kumapayi I
+7452,636,Olubadan Estate
+7453,636,Olodo II
+7454,636,Olodo III
+7455,636,Olode/Alakia
+7456,660,Akeetan
+7457,660,Isokun I
+7458,660,Owode
+7459,660,Iseke
+7460,660,Fasola/Soku
+7461,660,Ajokidero/Akewugberu
+7462,660,Isokun II
+7463,660,Iyaji
+7464,660,Opapa
+7465,660,Pakoyi/Idode
+7466,635,Alaga
+7467,635,Ofiki
+7468,635,Baasi
+7469,635,Tede I
+7470,635,Tede II
+7471,635,Ago Are II
+7472,635,Owo/Agunrege/Sabe
+7473,635,Ago Are I
+7474,635,Irawo Owode
+7475,635,Irawo Ile
+7476,639,Ward 11 NW7
+7477,639,Ward 10 NW7
+7478,639,Ward 9 NW6
+7479,639,Ward 7 NW4
+7480,639,Ward 8 NW5
+7481,639,Ward 4 NW2
+7482,639,Ward 3 NW1
+7483,639,Ward I NI (Part I)
+7484,639,Ward 2 NI (Part II)
+7485,639,Ward 5 NW3 (Part I)
+7486,639,Ward 6 NW3 (Part I)
+7487,638,Ward IV E4
+7488,638,Ward III E3
+7489,638,Ward 2 NI (Part II)
+7490,638,Ward V E5A
+7491,638,Ward I EI
+7492,638,Ward VI E5B
+7493,638,Ward VII E6
+7494,638,Ward X E8
+7495,638,Ward VIII E7 I
+7496,638,Ward IX E7II
+7497,638,Ward XII E9 II
+7498,640,Ward XI  E9 I
+7499,640,S 7B
+7500,640,S 7A
+7501,640,S 1
+7502,640,C1
+7503,640,S 2A
+7504,640,S 2B
+7505,640,S 3
+7506,640,S 6A
+7507,640,S 4A
+7508,640,S 4B
+7509,640,S 6B
+7510,640,S S5
+7511,641,Ward 12 SW9 II
+7512,641,Ward 11 SW9(1)
+7513,641,Ward 9 SW8 (1)
+7514,641,Ward 10 SW8 II
+7515,641,Ward 08 SW7
+7516,641,Ward 7 SW6
+7517,641,Ward 6 SW5
+7518,641,Ward 5 SW4
+7519,641,Ward 4 SW3A & 3B
+7520,641,Ward 1 C2
+7521,641,Ward 3 SW2
+7522,641,Ward 2 SW1
+7523,637,Ward XI NW8
+7524,637,Ward XII NW8
+7525,637,Ward V N5B
+7526,637,Ward VIII N6A PART III
+7527,637,Ward VII N6A PART II
+7528,637,Ward X N6B PART II
+7529,637,Ward VI N6A PART I
+7530,637,Ward IX (N6B PART I)
+7531,637,Ward II N3
+7532,637,Ward III N4
+7533,637,Ward IV N5A
+7534,637,Ward I N2
+7535,661,Alaodi/Modeke
+7536,661,Apaara
+7537,661,Balogun
+7538,661,Jabata
+7539,661,Owode/Araromi
+7540,661,Oluajo
+7541,661,Apinni
+7542,661,Oke Apo
+7543,661,Ajagba
+7544,661,Agboye/Molete
+7545,666,Kurra Falls
+7546,666,Gindin Akwati
+7547,666,Marit/Mazat
+7548,666,Gassa/Sho
+7549,666,Barakin Ladi
+7550,666,Lobiring
+7551,666,Heipang
+7552,666,Zabot
+7553,666,Kapwis
+7554,666,Rafan
+7555,666,Tafan
+7556,667,Kimakpa
+7557,667,Gabia
+7558,667,Ta'agbe
+7559,667,Zobwo
+7560,667,Tahu
+7561,667,Kakkek
+7562,667,Buhit
+7563,667,Kishika
+7564,667,Mafara
+7565,667,Kasuru
+7566,667,Gurum
+7567,667,Buji
+7568,667,Kadamo
+7569,667,Rimi
+7570,667,Jengre
+7571,667,Zabolo
+7572,665,Sha
+7573,665,Manguna
+7574,665,Daffo
+7575,665,Damwai
+7576,665,Toff
+7577,665,Richa
+7578,665,Mbar/Mangar
+7579,665,Bokkos
+7580,665,Tangur
+7581,665,Mushere West
+7582,665,Mushere Central
+7583,665,Mangor
+7584,665,Butura
+7585,665,Kwatas
+7586,668,Shere West
+7587,668,Fobur 'B'
+7588,668,Shere East
+7589,668,Jarawan Kogi
+7590,668,Mai Gemu
+7591,668,Fobur 'A'
+7592,668,Fursum
+7593,668,Maijuju
+7594,668,Federe
+7595,668,Zandi
+7596,669,Naraguta 'B'
+7597,669,Jos Jarawa
+7598,669,Jenta Apata
+7599,669,Ali Kazaure
+7600,669,Tudun Wada - Kabong
+7601,669,Jenta Adamu
+7602,669,Gangare
+7603,669,Sarkin Arab
+7604,669,Tafawa Balewa
+7605,669,Abba Na Shehu
+7606,669,Vanderpuye
+7607,669,Naraguta 'A'
+7608,669,Garba Daho
+7609,669,Ibrahim Katsina
+7610,670,Vwang
+7611,670,Turu
+7612,670,Gyel 'B'
+7613,670,Zawan 'B'
+7614,670,Giring
+7615,670,Du
+7616,670,Shen
+7617,670,Gyel 'A'
+7618,670,Bukuru
+7619,670,Zawan 'A'
+7620,670,Kuru 'B'
+7621,670,Kuru 'A'
+7622,671,Dugub
+7623,671,Gagdi
+7624,671,Gumsher
+7625,671,Gwamlar
+7626,671,Namaran
+7627,671,Kunkyam
+7628,671,Jarmai
+7629,671,Dengi
+7630,671,Kanam
+7631,671,Jom
+7632,671,Kantana
+7633,671,Munbutbo
+7634,671,Birbyang
+7635,671,Garga
+7636,672,Ampang-East
+7637,672,Nemel
+7638,672,Kabwir Pada
+7639,672,Dawaki
+7640,672,Kabwir/Gyangyang
+7641,672,Amper Seri
+7642,672,Amper Chika 'A'
+7643,672,Amper Chika 'B'
+7644,672,Langshi
+7645,672,Garram
+7646,674,Nyer
+7647,674,Mban/Zamko
+7648,674,Funyalang
+7649,674,Waroh
+7650,674,Jat
+7651,674,Kwande
+7652,674,Reak
+7653,674,Pil gani
+7654,674,Pishe/Yashi
+7655,674,Kuffen
+7656,674,Kwallak
+7657,674,Pajat
+7658,674,Lipchok
+7659,674,Keller
+7660,673,Magama
+7661,673,Sabon Gida
+7662,673,Turaki
+7663,673,Talgwang
+7664,673,Lashel
+7665,673,Mabudi
+7666,673,Timbol
+7667,673,Gamakai
+7668,673,Fajul
+7669,673,Dadin Kowa
+7670,675,Jipal/Chakfem
+7671,675,Gindiri II
+7672,675,Chanso
+7673,675,Gindiri I
+7674,675,Jannaret
+7675,675,Langai
+7676,675,Mangu II
+7677,675,Mangu I
+7678,675,Kadun
+7679,675,Mangu Halle
+7680,675,Pushit
+7681,675,Pan Yam
+7682,675,Kombun
+7683,675,Kerang
+7684,675,Ampang west
+7685,675,Mangun
+7686,676,Koenoem 'A'
+7687,676,Piapung 'A'
+7688,676,Baltep
+7689,676,Tunkus
+7690,676,Lalin
+7691,676,Garkawa North East
+7692,676,Garkawa North
+7693,676,Garkawa Central
+7694,676,Koenoem 'B'
+7695,676,Piapung 'B'
+7696,677,Dok-Pai
+7697,677,Tal
+7698,677,Jiblik
+7699,677,Kangshu
+7700,677,Kadung
+7701,677,Fier
+7702,677,Lankan
+7703,677,PankshinChigwong
+7704,677,Pankshin Central
+7705,677,Chip
+7706,677,Wokkos
+7707,677,PankshinSouth (Belning)
+7708,678,Dokan Kasuwa
+7709,678,Kwa
+7710,678,Kwang
+7711,678,Doemak-Goechim
+7712,678,Bwall
+7713,678,Doemak-Koplong
+7714,678,Kwalla Yitla'ar
+7715,678,Kwalla Moeda
+7716,678,Namu
+7717,678,Kurgwi
+7718,678,Kwande
+7719,679,Bum
+7720,679,Attakar
+7721,679,Danto
+7722,679,Sopp
+7723,679,Ra-Hoss
+7724,679,Riyom
+7725,679,Ta-Hoss
+7726,679,Sharubutu
+7727,679,Rim
+7728,679,Jol/Kwi
+7729,680,Kurungbau (B)
+7730,680,Moekat
+7731,680,Shimankar
+7732,680,Kalong
+7733,680,Yelwa
+7734,680,Derteng
+7735,680,Kurungbau (A)
+7736,680,Pangshom
+7737,680,Poeship
+7738,680,Shendam Central (B)
+7739,680,Shendam Central (A)
+7740,681,Kadarko
+7741,681,Bashar
+7742,681,Yola Wakat
+7743,681,Danbiram
+7744,681,Mavo
+7745,681,Saluwe
+7746,681,Nyalum/Kampani
+7747,681,Gudus
+7748,681,Wase Tofa
+7749,681,Kuyambana
+7750,681,Kumbong
+7751,681,Kumbur
+7752,682,Anyu
+7753,682,Emughan II
+7754,682,Emughan I
+7755,682,Akani
+7756,682,Emago-Kugbo
+7757,682,Agada
+7758,682,Emelego
+7759,682,Okpeden
+7760,682,Otapha
+7761,682,Abua IV
+7762,682,Abua III
+7763,682,Abua II
+7764,682,Abua I
+7765,683,Uppata V
+7766,683,Uppata IV
+7767,683,Uppata VI
+7768,683,Uppata II
+7769,683,Uppata I
+7770,683,Akoh III
+7771,683,Akoh II
+7772,683,Uppata III
+7773,683,Ahoada IV
+7774,683,Akoh I
+7775,683,Ahoada II
+7776,683,Ahoada I
+7777,683,Ahoada III
+7778,684,Ubie III
+7779,684,Igbuduya IV
+7780,684,Ubie I
+7781,684,Joinkrama
+7782,684,Ubie II
+7783,684,Ubie IV
+7784,684,Igbuduya II
+7785,684,Igbuduya I
+7786,684,Ediro I
+7787,684,Ediro II
+7788,684,Igbuduya III
+7789,684,Okarki
+7790,685,Kula  I
+7791,685,North/South Group
+7792,685,Kula II
+7793,685,Jack II
+7794,685,Jack I
+7795,685,Briggs I
+7796,685,Briggs II
+7797,685,Briggs III
+7798,685,Alise Group
+7799,685,Obonoma
+7800,685,Manuel II
+7801,685,Manuel I
+7802,685,Jack III
+7803,685,Georgewill II
+7804,685,Georgewill I
+7805,685,Manuel III
+7806,685,Georgwill III
+7807,686,Ikuru Town
+7808,686,Ekede
+7809,686,Ngo Town
+7810,686,Agwut-Obolo
+7811,686,Ataba II
+7812,686,Ataba I
+7813,686,Unyen Gala
+7814,686,Asarama
+7815,686,Samanga
+7816,686,Unyeada II
+7817,686,Unyeada I
+7818,687,Buguma South East
+7819,687,Buguma South
+7820,687,West Cental Group
+7821,687,Isia Group I
+7822,687,Buguma West
+7823,687,Buguma East I
+7824,687,Buguma South  West
+7825,687,Buguma East II
+7826,687,Buguma North East
+7827,687,Buguma North  West II
+7828,687,Buguma North West I
+7829,687,Isia Group II
+7830,687,Buguma East West
+7831,688,Ward V Finima
+7832,688,Ward VI Abalamabie
+7833,688,Ward VII Dema Abbey
+7834,688,Ward IX Nanabie
+7835,688,Ward III Dan Jumbo/ Beresiri
+7836,688,Ward X Oloma Ayaminima
+7837,688,Ward IV New Layout
+7838,688,Ward III Orosiriri
+7839,688,Ward II Court/ Ada Allison
+7840,688,Ward I Oro-Igwe
+7841,688,Ward XI Peterside
+7842,688,Ward XII Kalaibiama
+7843,689,Obuama
+7844,689,Degema III
+7845,689,Degema II
+7846,689,Degema I
+7847,689,Bille
+7848,689,Ke/Old Bakana
+7849,689,Tomble I
+7850,689,Tomble II
+7851,689,Tomble III
+7852,689,Tomble IV
+7853,689,Bukuma
+7854,689,Bakana IV
+7855,689,Bakana V
+7856,689,Bakana I
+7857,689,Bakana II
+7858,689,Bakana III
+7859,689,Bakana VI
+7860,690,Eteo
+7861,690,Akpajo
+7862,690,Aleto
+7863,690,Alesa
+7864,690,Agbonchia
+7865,690,Alode
+7866,690,Ogale
+7867,690,Ebubu
+7868,690,Ekporo
+7869,690,Onne
+7870,691,Ubimini
+7871,691,Egbeda
+7872,691,Omudioga/ Akpadu
+7873,691,Elele Alimini
+7874,691,Emohua  II
+7875,691,Ogbakiri  II
+7876,691,Ogbakiri  I
+7877,691,Odegu  II
+7878,691,Rumuekpe
+7879,691,Rundele
+7880,691,Obelle
+7881,691,Odegu  I
+7882,691,Ibaa
+7883,692,Igbodo
+7884,692,Ndashi
+7885,692,Okehi
+7886,692,Obite
+7887,692,Mba
+7888,692,Egbu
+7889,692,Akpoku/Umuoye
+7890,692,Owu
+7891,692,Ozuzu
+7892,692,Odufor
+7893,692,Obibi/Akwukabi
+7894,692,Afara
+7895,692,Nihi
+7896,692,Igbo II
+7897,692,Egwi/Opiro
+7898,692,Igbo III
+7899,692,Igbo I
+7900,692,Ulakwo
+7901,692,Akwa/Odogwa
+7902,693,Yeghe I
+7903,693,Yeghe II
+7904,693,Derken/Deeyor/Nweribiara
+7905,693,Nweol/Gioko/Barako
+7906,693,Biara II
+7907,693,Biara I
+7908,693,Bera
+7909,693,B-Dere
+7910,693,K-Dere I
+7911,693,Bodo III
+7912,693,Bodo I
+7913,693,Bodo II
+7914,693,Mogho
+7915,693,Kpor/Lewe/Gbe
+7916,693,Bomu I
+7917,693,Bomu II
+7918,693,K-Dere II
+7919,694,Omerelu
+7920,694,Apani
+7921,694,Ubima
+7922,694,Omademe/Ipo
+7923,694,Igwuruta
+7924,694,Ozuaha
+7925,694,Umuanwa
+7926,694,Elele II
+7927,694,Isiokpo I
+7928,694,Elele I
+7929,694,Isiokpo II
+7930,694,Omagwa
+7931,694,Aluu
+7932,695,Kono/Kwawa
+7933,695,Bane
+7934,695,Baen/Kpean/Duburo
+7935,695,Opuoko/Kalaoko
+7936,695,Bargha
+7937,695,Lorre/Luebe/Kpaa
+7938,695,Okwali
+7939,695,Llueku/Nyokuru
+7940,695,Sogho
+7941,695,Kaani
+7942,695,Bori
+7943,695,Uegwere
+7944,695,Boue
+7945,695,Gwara/Kaa/Eeken
+7946,695,Zaakpori
+7947,695,Taabaa
+7948,695,Sii/Betem/Kbaabbe
+7949,695,Beeri
+7950,695,Wiiyaa Kara
+7951,696,Rukpoku
+7952,696,Rumuolumeni
+7953,696,Rumueme (7A)
+7954,696,Rumukwuta (8B)
+7955,696,Rumueme (7C)
+7956,696,Rumueme (7B)
+7957,696,Rumuigbo (8A)
+7958,696,Rumuokoro
+7959,696,Rumuodomaya (3A)
+7960,696,Choba
+7961,696,Ozuoba/Ogbogoro
+7962,696,Oro-Igwe
+7963,696,Rumuodara
+7964,696,Rumuomasi
+7965,696,Rumuokwu (2B)
+7966,696,Worji
+7967,696,Elelenwo (3B)
+7968,697,Ndoni III
+7969,697,Usomini South Kreigani
+7970,697,Egi II
+7971,697,Egi III (Erema)
+7972,697,Egi I
+7973,697,Egi IV
+7974,697,Igburu
+7975,697,Egbema II
+7976,697,Omoku Town IV (Usomini)
+7977,697,Omuku Town (Obieti)
+7978,697,Omoku Town V
+7979,697,Egbema I
+7980,697,Ndoni I
+7981,697,Ndoni II
+7982,697,Omoku Town V
+7983,697,Omoku Town II
+7984,697,Omoku Town I
+7985,698,Ogu I
+7986,698,Ogu II
+7987,698,Ogu III
+7988,698,Ogu IV
+7989,698,Ogu V
+7990,698,Bolo I
+7991,698,Bolo II
+7992,698,Bolo III
+7993,698,Bolo IV
+7994,698,Wakama
+7995,698,Ele
+7996,698,Ogu VI
+7997,699,Ogoloma II
+7998,699,Ogoloma I
+7999,699,Okrika IV
+8000,699,Okrika III
+8001,699,Okrika II
+8002,699,Okrika I
+8003,699,Okrika V
+8004,699,Ogan
+8005,699,Kalio
+8006,699,Ogoloma III
+8007,699,Okrika VII
+8008,699,Okrika VI
+8009,700,Ofeh Community
+8010,700,Oyoro
+8011,700,Obiohia Community
+8012,700,Ohimogho Community
+8013,700,Ariraniiri/Owu-Ahia Community
+8014,700,Eberi-Dikeomuuo Community
+8015,700,Umuajuloke Community
+8016,700,Obibi/Ajuloke Community
+8017,700,Umuogba I Community
+8018,700,Umuogba II Community
+8019,702,Obete
+8020,702,Azuogu
+8021,702,Umuagbai
+8022,702,Obeakpu
+8023,702,Egburu
+8024,702,Okoloma
+8025,702,Asa
+8026,702,Komkom
+8027,702,Oyigbo central
+8028,702,Oyigba west
+8029,704,Ward X (Ban-Ogoi)
+8030,704,Ward III (Korokoro)
+8031,704,Ward II (Kpite)
+8032,704,Ward IV Koroma/Horo
+8033,704,Bubu/Bara/Kani
+8034,704,Ward I (Botem/Gbeneo)
+8035,704,Ward VI (Gio/Kporghor/Gbam)
+8036,704,Ward V (Kira/Borobara)
+8037,704,Ward VII (Nonwa)
+8038,704,Oyigbo West
+8039,701,Queens Town Kalama
+8040,701,Nkoro I
+8041,701,Nkoro II
+8042,701,Nkoro III
+8043,701,Kalaibiama I
+8044,701,Kalaibiama II
+8045,701,Diepiri
+8046,701,Ukonu
+8047,701,Dappaye Ama-Kiri II
+8048,701,Jaja
+8049,701,Dappaye Ama-Kiri I
+8050,703,Nkpolu Oroworukwo Two
+8051,703,Abuloma/Amadi-Ama
+8052,703,Port Harcourt VII
+8053,703,Port Harcourt Township VI
+8054,703,Port Harcourt Township
+8055,703,Elekahia
+8056,703,Rumuwoji (One)
+8057,703,Ogbunabali
+8058,703,Oroabali
+8059,703,Orogbum
+8060,703,Oroworukwo
+8061,703,Ochiri/Rumukalagbor
+8062,703,Oromineke/Ezimgbu
+8063,703,Diobu
+8064,703,Mgbundukwu (Two)
+8065,703,Rumuwoji (Two)
+8066,703,Rumuwoji (Three)
+8067,703,Mgbundukwu (One)
+8068,703,Nkpolu Oroworukwo
+8069,703,Rumuobiekwe Ward
+8070,691,Emohua I
+8071,705,Bingaje
+8072,705,Kilgori
+8073,705,Birniruwa
+8074,705,Fakka
+8075,705,Yabo 'B'
+8076,705,Ruggar Iya
+8077,705,Binji
+8078,705,Torankawa
+8079,705,Bakale
+8080,705,Yabo 'A'
+8081,706,Bangi/Dabaga
+8082,706,Badau/Darhela
+8083,706,Sifawa/Lukuyawa
+8084,706,Danchadi
+8085,706,Bodinga/Tauma
+8086,706,Kwacciyar Lalle
+8087,706,Bagarawa
+8088,706,Takatuku/Madorawa
+8089,706,Tulluwa/Kulafasa
+8090,706,Dingyadi/Badawa
+8091,706,Mazan Gari/Jirga Miyo
+8092,707,Wababe/Salau
+8093,707,Giere/Gajara
+8094,707,Ruggar Gidado
+8095,707,Rikina
+8096,707,Tuntube/Tsehe
+8097,707,Shuni
+8098,707,Rudu/Amanawa
+8099,707,Tsafanade
+8100,707,Fajaldu
+8101,707,Dange
+8102,707,Bodai/Jurga
+8103,708,Kyadawa/Holai
+8104,708,Kadassaka
+8105,708,Gada
+8106,708,Kiri
+8107,708,Kwarma
+8108,708,Kaffe
+8109,708,Kaddi
+8110,708,Dukamaje/Ilah
+8111,708,Tsitse
+8112,708,Gilbadi
+8113,708,Kadadin Buda (Kaddi)
+8114,709,S/gari Dole/Dan/Tasakko
+8115,709,Rimawa
+8116,709,Takakume
+8117,709,Shinaka
+8118,709,Kwakwazo
+8119,709,Birjingo
+8120,709,Goronyo
+8121,709,Kojiyo
+8122,709,Giyawa
+8123,709,Boyeka I
+8124,709,Kagara
+8125,710,Maraken Bori
+8126,710,Balle
+8127,710,Karfen Sarki
+8128,710,Karfen Chana
+8129,710,Chilas/Makuya
+8130,710,Bachaka
+8131,710,Kurdula
+8132,710,Awulkiti
+8133,710,Gwazange/Boto
+8134,710,Tulun Doya
+8135,711,Asara  Arewa
+8136,711,Gigane
+8137,711,Atakwanyo
+8138,711,Gwadabawa
+8139,711,Asara Kudu
+8140,711,Salame
+8141,711,Mammande
+8142,711,Huchi
+8143,711,Chimola Arewa
+8144,711,Chimmola/Kudu
+8145,711,Gidan Kaya
+8146,712,Kalmalo
+8147,712,Illela
+8148,712,Damba
+8149,712,G/ Katta
+8150,712,R. Gati
+8151,712,Araba
+8152,712,Tozai
+8153,712,Garu
+8154,712,Darna/ Sabon Gari
+8155,712,Darne/ Tsolawo
+8156,712,G/ Hamma
+8157,713,Yanfako
+8158,713,Gebe 'A'
+8159,713,Gebe 'B'
+8160,713,Tozai
+8161,713,Bargaja
+8162,713,Isa North
+8163,713,Isa South
+8164,713,Turba
+8165,713,Tsabren Sarkin Darai
+8166,713,Tidibale
+8167,714,Margai - A
+8168,714,Margai - B
+8169,714,Girkau
+8170,714,Kebbe East
+8171,714,Kebbe West
+8172,714,Ungushi
+8173,714,Sangi
+8174,714,uchi
+8175,714,Nasagudu
+8176,714,Fakku
+8177,715,Tsaki/ Walake'e
+8178,715,Durbawa
+8179,715,G. Rugga
+8180,715,G/ Modibbo/ G. Akwara
+8181,715,H/ Ali/ Marabawa
+8182,715,Kware
+8183,715,S/Birni/ G. Karma
+8184,715,Bankanu/ R. Kade
+8185,715,Basansan
+8186,715,Tunga/ Mallamawa
+8187,715,Kabanga
+8188,716,Gawakuke
+8189,716,Tursa
+8190,716,Rabah
+8191,716,Riji/Maikujera
+8192,716,Gwaddodi/Gidan Bu Wai
+8193,716,Rara
+8194,716,Kurya
+8195,716,Gandi 'A'
+8196,716,Gandi 'B'
+8197,716,Tsamiya
+8198,716,Yar Tsakuwa
+8199,717,Tsamaye
+8200,717,Unguwar Lalle
+8201,717,Lajinge
+8202,717,Makuwana
+8203,717,Kurawa
+8204,717,S/birni East
+8205,717,Gatawa
+8206,717,S/birni West
+8207,717,Kalgo
+8208,717,Gangara
+8209,717,Tara
+8210,718,Mandera
+8211,718,Sanyinnawal
+8212,718,Kajiji
+8213,718,Shagari
+8214,718,Jaredi
+8215,718,Gangam
+8216,718,Dandin Mahe
+8217,718,Lambara
+8218,718,Kambama
+8219,718,Horo Birni
+8220,719,Gande West
+8221,719,Gande East
+8222,719,Katami South
+8223,719,Katami North
+8224,719,Labani
+8225,719,Marafa West
+8226,719,Marafa East
+8227,719,Kubodu North
+8228,719,Kubodu South
+8229,719,Silame
+8230,720,S/Adar Gandu
+8231,720,S/Adar/G/Igwai
+8232,720,Magajin gari B
+8233,720,Magajin Rafi 'B'
+8234,720,S/Musulmi 'B'
+8235,720,S/Musulmi 'A'
+8236,720,Magajin Rafi 'A'
+8237,720,Magajin Gari 'A'
+8238,720,Waziri 'B'
+8239,720,Waziri 'C'
+8240,720,Waziri 'A'
+8241,721,Gagi 'B'
+8242,721,Gagi 'A'
+8243,721,Gagi 'C'
+8244,721,R/Dorowa 'B'
+8245,721,S/Zamfara 'B'
+8246,721,Sarkin Adar Kwanni
+8247,721,S/A/K/Atiku
+8248,721,S/Zamfara 'A'
+8249,721,T/Wada 'B'
+8250,721,R/Dorowa 'A'
+8251,721,T/Wada 'A'
+8252,722,Barkeji/Nabaguda
+8253,722,Bashire/Maikada
+8254,722,Tambuwal/Shinfiri
+8255,722,Faga/Alasan
+8256,722,Bagida/Lukkingo
+8257,722,Romon Sarki
+8258,722,Bakaya/Sabon Birni
+8259,722,Dogondaji/Sala
+8260,722,Jabo/Kagara
+8261,722,Sanyinna
+8262,722,Saida/Goshe
+8263,723,Ruwa-Wuri
+8264,723,Salewa
+8265,723,Magonho
+8266,723,Sakkwai
+8267,723,Raka
+8268,723,Gidan Madi
+8269,723,Kwacce-Huru
+8270,723,Tangaza
+8271,723,Sutti
+8272,723,Kalanjeni
+8273,724,Lambar Tureta
+8274,724,Gidan Kare/Bimasa
+8275,724,Tureta Gari
+8276,724,Fura Girke
+8277,724,Barayar Giwa
+8278,724,Tsamiya
+8279,724,Lofa
+8280,724,Duma
+8281,724,Kuruwa
+8282,724,Kwarare
+8283,725,Bado/Kasarawa
+8284,725,Arkilla
+8285,725,Gwamatse
+8286,725,Kammata
+8287,725,Wamakko
+8288,725,Gumbi/Wajake
+8289,725,Kalambaina/Girabshi
+8290,725,G/Hamidu/G/Kaya
+8291,725,Dundaye/Gumburawa
+8292,725,G/Bubu/G/Yaro
+8293,725,K/kimba/Gedewa
+8294,726,Chacho/Marnona
+8295,726,Alkammu/Gyelgyel
+8296,726,Achida
+8297,726,Lahodu/G/Bango
+8298,726,Dinawa
+8299,726,Kwasare/Sisawa
+8300,726,Dankemu
+8301,726,Dimbiso
+8302,726,Marafa
+8303,726,Magarya
+8304,726,Kwargaba
+8305,727,Birniruwa
+8306,727,Bakale
+8307,727,Binji
+8308,727,Fakka
+8309,727,Kilgori
+8310,727,Ruggar Iya
+8311,727,Bingaje
+8312,727,Torankawa
+8313,727,Yabo 'B'
+8314,727,Yabo 'A'
+8315,728,Alim-Gora
+8316,728,Ardo Kola
+8317,728,Iware
+8318,728,Jauro Yinu
+8319,728,Lamido Borno
+8320,728,Mayo Ranewo
+8321,728,Sarkin Dutse
+8322,728,Tau
+8323,728,Zongon Kombi
+8324,728,Sunkani
+8325,729,Badakoshi
+8326,729,Bali A
+8327,729,Bali B
+8328,729,Gang Dole
+8329,729,Ganglari
+8330,729,Gangtiba
+8331,729,Gang Mata
+8332,729,Kaigama
+8333,729,Maihula
+8334,729,Suntai
+8335,729,Takalafiya
+8336,730,Akate
+8337,730,Asibiti
+8338,730,Fada
+8339,730,Gayama
+8340,730,Gindin Dutse
+8341,730,Gyatta Aure
+8342,730,Bikadarko
+8343,730,Mararraba
+8344,730,Nyita
+8345,730,Suntai
+8346,731,Gulumjina
+8347,731,Gangami
+8348,731,Garbabi
+8349,731,Gashaka
+8350,731,Gayam
+8351,731,Jamtari
+8352,731,Mai-Idanu
+8353,731,Mayo Selbe
+8354,731,"Serti ""A"""
+8355,731,"Serti ""B"""
+8356,732,Gassol
+8357,732,Gunduma
+8358,732,Mutum Biyu I
+8359,732,Mutum Biyu II
+8360,732,Nam Nai
+8361,732,Sabon Gida
+8362,732,Sarkin Shira
+8363,732,Sendirde
+8364,732,Tua
+8365,732,Wurojam
+8366,732,Wuryo
+8367,732,Yarima
+8368,733,Ibi Nwonyo II
+8369,733,Ibi Rimi Uku II
+8370,733,Ibi Nwonyo I
+8371,733,Ibi Rimi Uku I
+8372,733,Sarkin Kudu I
+8373,733,Sarkin Kudu II
+8374,733,Sarkin Kudu III
+8375,733,Dampar III
+8376,733,Dampar I
+8377,733,Dampar II
+8378,734,Kachalla Sembe
+8379,734,Sarkin Dawaki
+8380,734,Turaki 'A'
+8381,734,Turaki 'B'
+8382,734,Mayo Goi
+8383,734,Sintali
+8384,734,Majidadi
+8385,734,Barade
+8386,734,Abbare Yelwa
+8387,734,Kona
+8388,735,Amar
+8389,735,Andamin
+8390,735,Didango
+8391,735,Darofai
+8392,735,Bachama
+8393,735,Jen Kaigama
+8394,735,Jen Ardido
+8395,735,Bikwin
+8396,735,Kwanchi
+8397,735,"Karim ""A"""
+8398,735,"Karim ""B"""
+8399,736,Abong
+8400,736,Akwento/Boko
+8401,736,Ashuku/Eneme
+8402,736,Njuwande
+8403,736,Bente/Galea
+8404,736,Bissaula
+8405,736,Didan
+8406,736,Nyido/Tosso
+8407,736,Ndaforo/Geanda
+8408,736,Baissa
+8409,737,Lau II
+8410,737,Lau I
+8411,737,Garin Dogo
+8412,737,Jimlari
+8413,737,Mayo Lope
+8414,737,Abbere II
+8415,737,Abbare I
+8416,737,Donadda
+8417,737,Kunini
+8418,737,Garin Magaji
+8419,738,Nguroje
+8420,738,Magu
+8421,738,Kakara
+8422,738,Mayo-Ndaga
+8423,738,Titong
+8424,738,Kabri
+8425,738,Warwar
+8426,738,Mbamnga
+8427,738,Ndum-Yaji
+8428,738,Gembu 'B'
+8429,738,Gembu 'A'
+8430,741,Akwana
+8431,741,Kente
+8432,741,Chonku
+8433,741,Rafin Kada
+8434,741,Avyi
+8435,741,Hospital
+8436,741,Puje
+8437,741,Bantaje
+8438,741,Tsokundi
+8439,741,Jibu
+8440,742,Bikassa II
+8441,742,Bikassa I
+8442,742,Pupule III
+8443,742,Sumbu I
+8444,742,Sumbu II
+8445,742,Nyaja II
+8446,742,Pantisawa II
+8447,742,Nyaja I
+8448,742,Pantisawa I
+8449,742,Pupule I
+8450,742,Pupule II
+8451,743,Zing B
+8452,743,Yakoko
+8453,743,Monkin A
+8454,743,Monkin B
+8455,743,Lamma
+8456,743,Dinding
+8457,743,Zing AII
+8458,743,Bitako
+8459,743,Zing AI
+8460,743,Bubong
+8461,740,Kwesati
+8462,740,Kpambo
+8463,740,Lissam II
+8464,740,Lissam I
+8465,740,Rufu
+8466,740,Lumbu
+8467,740,Fikyu
+8468,740,Kpambo Puri
+8469,740,Bika
+8470,740,Jenuwa
+8471,740,Kwambai
+8472,739,Chanchanji
+8473,739,Dutse
+8474,739,Manya
+8475,739,Tikari
+8476,739,Rogo
+8477,739,Gahweton
+8478,739,Fete
+8479,739,Yukuben
+8480,739,Bete
+8481,739,Shibong
+8482,739,Bikashibila
+8483,744,Dagona
+8484,744,Gwio-Kura
+8485,744,Katuzu
+8486,744,Lawan Audu/Lawan Al - Wali
+8487,744,Lawan Fannami
+8488,744,Lawan Musa
+8489,744,Sarkin Hausawa
+8490,744,Tagali/Sugum
+8491,744,Usur/Dawayo
+8492,744,Zangon Musa/Zango Umaru
+8493,745,Bayamari
+8494,745,Damnawa/Juluri
+8495,745,Danani
+8496,745,Dapchi
+8497,745,Garun Dole / Garin Alkali
+8498,745,Guba
+8499,745,Guji / Metalari
+8500,745,Kurnawa
+8501,745,Kaliyari
+8502,745,Masaba
+8503,746,Damakasu
+8504,746,Bindigari/Fawari
+8505,746,Damaturu Central
+8506,746,Gabir/Maduri
+8507,746,Kalallawa/Gabai
+8508,746,Kukareta/Warsala
+8509,746,Maisandari/Waziri Ibrahim Estate
+8510,746,Murfa Kalam
+8511,746,Nayinawa
+8512,746,Njiwaji/Gwange
+8513,746,Sasawa/Kabaru
+8514,747,Daya/Chana
+8515,747,Fika/Anze
+8516,747,Gadaka/Shembire
+8517,747,Gudi / Dozi / Godo Woli
+8518,747,Janga / Boza / Fa. Sawa / T. Nanai
+8519,747,Mubi / Fusami / Garin Wayo
+8520,747,Ngalda/Dumbulwa
+8521,747,Shoye/Garin Aba
+8522,747,Turmi / Maluri
+8523,747,Zangaya/Mazawaun
+8524,748,Gaba Tasha/Aigada/Dumbulwa
+8525,748,Mashio
+8526,748,Jajere/Banellewa/Babbare
+8527,748,Kollere/Kafaje
+8528,748,Gudugurka/Marmar I
+8529,748,Kayeri
+8530,748,Abakire / Ngenlshengele / Shamka
+8531,748,Alagarno
+8532,748,Borno Kiji/Ngarho/Bebbende
+8533,748,Damagum Town
+8534,748,Daura/Bulanyiwa/Dubbul/Bauwa
+8535,748,Dogon Kuka/Gishiwari/Gununu
+8536,748,Fune/Ngelzarma/Milbiyar/Lawan Kalam
+8537,749,Asheikri
+8538,749,Balle/Gallaba/Meleri
+8539,749,Damakarwa/Kusur
+8540,749,Dejina/Fukurti
+8541,749,Futchimiram
+8542,749,Gumsa
+8543,749,Hausari
+8544,749,Ma'anna/Dagambi
+8545,749,Shame Kura / Dilawa
+8546,749,Kawuri
+8547,749,Zurgu Ngilewa / Borko
+8548,750,Bunigari/Lawanti
+8549,750,Buniyadi North / South
+8550,750,Dadingel
+8551,750,Goniri
+8552,750,Gotala/Gotumba
+8553,750,Gujba
+8554,750,Mallam Dunari
+8555,750,Mutai
+8556,750,Ngurbuwa
+8557,750,Wagir
+8558,751,Bara
+8559,751,Borno Kiji/Tetteba
+8560,751,Bularafa
+8561,751,Bumsa
+8562,751,Dokshi
+8563,751,Gabai
+8564,751,Gagure
+8565,751,Garin Tuwo
+8566,751,Gulani
+8567,751,Kushimaga
+8568,751,Njibulwa
+8569,751,Ruhu
+8570,752,Buduwa / Saminaka
+8571,752,Dumbari
+8572,752,Gidgid / Bayam
+8573,752,Gorgoram
+8574,752,Jaba
+8575,752,Jakusko
+8576,752,Jawur/Katamma
+8577,752,Lafiya Loi-Loi
+8578,752,Muguram
+8579,752,Zabudum / Dachia
+8580,753,Burkati
+8581,753,Fajiganari
+8582,753,Garin Gawo
+8583,753,Gasma
+8584,753,Jaji Maji
+8585,753,Karasuwa Galu
+8586,753,Karauswa Garu Guna
+8587,753,Wachakal
+8588,753,Waro
+8589,753,Yajiri
+8590,754,Bogo
+8591,754,Damai
+8592,754,Dole
+8593,754,Falimaram
+8594,754,Kom-Komma
+8595,754,Kuka-Yasku
+8596,754,Lamisu
+8597,754,Machina-Kwari
+8598,754,Maskandare
+8599,754,Taganama
+8600,755,Chilariye
+8601,755,Dadiso / Chukuriwa
+8602,755,Dawasa/G.Baba
+8603,755,Dazigau
+8604,755,Kukuri/Chiromari
+8605,755,Degubi
+8606,755,Langawa / Darin
+8607,755,Nangere
+8608,755,Pakarau Kare-Kare/ Pakarau Fulani
+8609,755,Tikau
+8610,755,Watinani
+8611,756,Bulabulin
+8612,756,Bulanguwa
+8613,756,Dabule
+8614,756,Dumsai/Dogon-Kuka
+8615,756,Garbi/Bambori
+8616,756,Hausari
+8617,756,Maja-Kura
+8618,756,Mirba-Kabir/Mirba Sagir
+8619,756,Kanuri
+8620,756,Nglaiwa
+8621,757,Bare-Bare/Bauya/Lalai Dumbulwa
+8622,757,Bolewa 'A'
+8623,757,Danchuwa/Bula
+8624,757,Bolewa 'B'
+8625,757,Dogo Nini
+8626,757,Dogo Tebo
+8627,757,Hausawa
+8628,757,Mamudo
+8629,757,Ngojin/Alaraba
+8630,757,Yerimaram/Garin Daye/Badejo/Nahuta
+8631,758,Babangida
+8632,758,Barkami / Bulturi
+8633,758,Biriri/Churokusko
+8634,758,Jumbam
+8635,758,Koka/Sungul
+8636,758,Koriyel
+8637,758,Lantaiwa
+8638,758,Mafa
+8639,758,Mandadawa
+8640,758,Shekau
+8641,759,Bultuwa/Mar/Yaro
+8642,759,Daratoshia
+8643,759,Degaltura/Ngamzai
+8644,759,Dekwa
+8645,759,Dilala/Kalgi
+8646,759,Mairari
+8647,759,Ngirabo
+8648,759,Mozogun/Kujari
+8649,759,Wadi/Kafiya
+8650,759,Zajibiri / Dumbal
+8651,760,Gumshi
+8652,760,Kumagannam
+8653,760,Mayori
+8654,760,Kajimaram/Sumbar
+8655,760,Kaska/Tulotulowa
+8656,760,Jebuwa
+8657,760,Mai-Malari
+8658,760,Alanjirori
+8659,760,Yusufari
+8660,760,Guya
+8661,761,Galadima
+8662,761,Barayar-Zaki
+8663,761,Waramu
+8664,761,Bagega
+8665,761,Dan Galadima
+8666,761,Magaji
+8667,761,Matseri
+8668,761,Sabon Birini
+8669,761,Wuya
+8670,761,Yar'sabaya
+8671,762,Dakko
+8672,762,Bakura
+8673,762,Birnin Tudu
+8674,762,Damri
+8675,762,Dankadu
+8676,762,Dan Manau
+8677,762,Yar Kufoji
+8678,762,Nasarawa
+8679,762,Rini
+8680,762,Yar Geda
+8681,763,Birnin Magaji
+8682,763,Danfami Sabon Birini
+8683,763,Gora
+8684,763,Gusami Gari
+8685,763,Madomawa East
+8686,763,Kiyawa
+8687,763,Madomawa West
+8688,763,Gusami Hayi
+8689,763,Nasarawa Godal East
+8690,763,Nasarawa Godal West
+8691,764,Ruwan Jema
+8692,764,Yashi
+8693,764,Masama
+8694,764,Bukuyyum
+8695,764,Zauma
+8696,764,Nasarawa
+8697,764,Zarummai
+8698,764,Kyaram
+8699,764,Adabka
+8700,764,Gwashi
+8701,765,Bingi North
+8702,765,Bingi South
+8703,765,Bungudu
+8704,765,Furfuri/Kwai-Kwai
+8705,765,Gada / Karakkai
+8706,765,Nahuch
+8707,765,Kwatarkwashi
+8708,765,Rawayya / Bela
+8709,765,Samawa
+8710,765,Sankalawa
+8711,765,Tofa
+8712,766,Bardoki
+8713,766,Birnin Magaji
+8714,766,Birnin Tudu
+8715,766,Falale
+8716,766,Felfeldu / Gamo
+8717,766,Gayari
+8718,766,Gyalange
+8719,766,Illelar Awal
+8720,766,Magajin Gari
+8721,766,Shiyar Rafi
+8722,766,Ubandawaki
+8723,767,Galadima
+8724,767,Madawaki
+8725,767,Mada
+8726,767,Magami
+8727,767,Mayana
+8728,767,Rijiya
+8729,767,Ruwan Bore
+8730,767,Tudun Wada
+8731,767,Sabon Gari
+8732,767,Wanke
+8733,767,Wonaka
+8734,768,Banga
+8735,768,Dan-Isa
+8736,768,Gabake
+8737,768,Gladima Dan Galadima
+8738,768,Kagara
+8739,768,Kungurki
+8740,768,Kurya Madaro
+8741,768,Kyam Barawa
+8742,768,Sakajiki
+8743,768,S/Baura/S/Mafara
+8744,768,Yankaba
+8745,769,Birnin Kaya / Dosara
+8746,769,Damaga / Damagiwa
+8747,769,Faru / Magami
+8748,769,Gora
+8749,769,Gidan Goga
+8750,769,Janbako
+8751,769,Kaya
+8752,769,Maradun North
+8753,769,Maradun South
+8754,769,Tsibiri
+8755,770,Bindin
+8756,770,Bingin
+8757,770,Dan Gulbi
+8758,770,Dan Kurmi
+8759,770,Dan Sadau
+8760,770,Kanoma
+8761,770,Kuyan Bana
+8762,770,Maru
+8763,770,Mayanchi
+8764,770,Ruwan Dorawa
+8765,771,Badarawa
+8766,771,Chiki
+8767,771,Galadi
+8768,771,Jangeru
+8769,771,Katuru
+8770,771,Katuru
+8771,771,Kware
+8772,771,Shinkafi North
+8773,771,Shinkafi South
+8774,771,Shanawa
+8775,772,Garbadu
+8776,772,Gwaram
+8777,772,Jangebe
+8778,772,Kagara
+8779,772,Morai
+8780,772,Ruwan Bore
+8781,772,Ruwan Gizo
+8782,772,Shiyar Galadima
+8783,772,Sauna R/ Gora
+8784,772,Shiyar Kayaye/Matusgi
+8785,772,Take Tsaba/Makera
+8786,773,Kwaren Ganuwa
+8787,773,Yandoton Daji
+8788,773,"Yankuzo ""B"""
+8789,773,"Yankuzo ""A"""
+8790,773,Danjibga/Kunchin - Kalgo
+8791,773,Dauki
+8792,773,Keta/Kizara
+8793,773,Tsafe
+8794,773,Chediya
+8795,773,Yan Waren Daji
+8796,773,Bilbis
+8797,774,Boko
+8798,774,Dauran / Birnin-Tsaba
+8799,774,Dole
+8800,774,Galadima/Yanruwa
+8801,774,Kanwa
+8802,774,Kwashbawa
+8803,774,Mashem
+8804,774,Kuturu/Mayasa
+8805,774,Rukudawa
+8806,774,Yan Buki/ Dutsi
+8807,774,Zurmi

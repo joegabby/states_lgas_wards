@@ -1,2 +1,2 @@
 # states_lgas_wards
-This repo. will help you populate your states, local governments and wards table in Nigeria
+This repo. contains updated lists of all states, local governments and wards in Nigeria as of March,2024 to help seed your tables in a relational database. Enjoy!!!
